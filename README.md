@@ -14,3 +14,11 @@ Zanima me:
 - število slovenskih samoglasnikov po spolu (moški, ženski, srednji)
 - večpomenke in koliko jih je (pa a se razlikujejo glede na izgovorjavo/naglas ali sploh ne)
 - ali imamo kakšne posebne besede (npr. iz samih samoglasnikov, s podvojenimi črkami, s tujimi črkami, iz več besed ...)
+
+
+
+Druga opcija: https://www.hribi.net/gorovja
+Izluščiti:
+- seznam gora
+- njihove višine, priljubljenost, koordinate vrha, 
+- jih pokupčkati glede na izhodišče (gora se lahko doseže iz več izhodišč)

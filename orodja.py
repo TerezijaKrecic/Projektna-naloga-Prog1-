@@ -9,7 +9,7 @@ def pripravi_imenik(ime_datoteke, mapa):
     '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
     os.makedirs(mapa, exist_ok=True)
     pot = os.path.join(mapa, ime_datoteke)
-    imenik = os.path.dirname(ime_datoteke)
+    imenik = os.path.dirname(pot)
     if imenik:
         os.makedirs(imenik, exist_ok=True)
     return pot

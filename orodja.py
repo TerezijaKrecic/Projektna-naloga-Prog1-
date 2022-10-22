@@ -5,15 +5,18 @@ import requests
 import sys
 
 
-def pripravi_imenik(ime_datoteke):
+def pripravi_imenik(ime_datoteke, mapa):
     '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
+    os.makedirs(mapa, exist_ok=True)
+    pot = os.path.join(mapa, ime_datoteke)
     imenik = os.path.dirname(ime_datoteke)
     if imenik:
         os.makedirs(imenik, exist_ok=True)
+    return pot
 
 
-def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
-    '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
+def shrani_spletno_stran(url, ime_datoteke, mapa, vsili_prenos=False):
+    '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom, ki se nahaja v mapi z danim imenom.'''
     try:
         print(f'Shranjujem {url} ...', end='')
         sys.stdout.flush()
@@ -24,8 +27,8 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
     except requests.exceptions.ConnectionError:
         print('stran ne obstaja!')
     else:
-        pripravi_imenik(ime_datoteke)
-        with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
+        pot = pripravi_imenik(ime_datoteke, mapa)
+        with open(pot, 'w', encoding='utf-8') as datoteka:
             datoteka.write(r.text)
             print('shranjeno!')
 

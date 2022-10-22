@@ -20,7 +20,7 @@ def shrani_spletno_stran(url, ime_datoteke, mapa, vsili_prenos=False):
     try:
         print(f'Shranjujem {url} ...', end='')
         sys.stdout.flush()
-        if os.path.isfile(ime_datoteke) and not vsili_prenos:
+        if os.path.isfile(os.path.join(mapa, ime_datoteke)) and not vsili_prenos:
             print('shranjeno že od prej!')
             return
         r = requests.get(url)

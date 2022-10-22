@@ -5,10 +5,8 @@ import requests
 import sys
 
 
-def pripravi_imenik(ime_datoteke, mapa):
+def pripravi_imenik(pot):
     '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
-    os.makedirs(mapa, exist_ok=True)
-    pot = os.path.join(mapa, ime_datoteke)
     imenik = os.path.dirname(pot)
     if imenik:
         os.makedirs(imenik, exist_ok=True)
@@ -27,7 +25,8 @@ def shrani_spletno_stran(url, ime_datoteke, mapa, vsili_prenos=False):
     except requests.exceptions.ConnectionError:
         print('stran ne obstaja!')
     else:
-        pot = pripravi_imenik(ime_datoteke, mapa)
+        pot = os.path.join(mapa, ime_datoteke)
+        pripravi_imenik(pot)
         with open(pot, 'w', encoding='utf-8') as datoteka:
             datoteka.write(r.text)
             print('shranjeno!')
@@ -39,10 +38,10 @@ def vsebina_datoteke(ime_datoteke):
         return datoteka.read()
 
 
-def zapisi_csv(slovarji, imena_polj, ime_datoteke):
+def zapisi_csv(slovarji, imena_polj, pot):
     '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
-    pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
+    pripravi_imenik(pot)
+    with open(pot, 'w', encoding='utf-8') as csv_datoteka:
         writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
         writer.writeheader()
         writer.writerows(slovarji)

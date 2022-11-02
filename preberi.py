@@ -36,7 +36,9 @@ vzorec_podatki = re.compile(
     r'*?Država:<\/b>.*?>'
     r'(?P<država>.*?)<.*?'
     r'Gorovje:<\/b>.*?>(?P<gorovje>.*?)<.*?'
-    r'Višina:\D*(?P<višina>\d*).*?',
+    r'Višina:\D*(?P<višina>\d*).*?'
+    r'<b>Vrsta:</b>(?P<vrsta>.*?)</div>.*?'
+    r'<b>Priljubljenost:</b>.*?(?P<priljubljenost>\d*)%',
     re.DOTALL
 )
 vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOTALL)
@@ -46,7 +48,7 @@ vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOT
 ###################
 
 for i in range(len(url_gorovij)):
-    # Shranimo glavne spletne strani o gorah v svoje mape:
+    # Shranimo tri glavne spletne strani o gorah v svoje mape:
     orodja.shrani_spletno_stran(url_gorovij[i], datoteka_gorovij[i], mapa_gorovij[i])
 
     # Niz s html vsebino glavne strani posameznega gorovja:
@@ -55,17 +57,21 @@ for i in range(len(url_gorovij)):
     # izluščimo odsek html-ja za posamezno goro:
     seznam_html_podatkov = re.findall(vzorec_blok_gora, gorovje_vsebina)
 
-    # iz posameznega odseka preberemo url s podrobnostmi in ta html shranimo v isto mapo pod imenom 'ime_gore'.html
+    # iz posameznega odseka preberemo url s podrobnostmi in ta html shranimo v isto mapo pod imenom 'ime_gore'.html, hkrati pa že izluščimo ven podatke
     seznam_podatkov = []
     for blok in seznam_html_podatkov:
         slovar_ime_url = vzorec_ime_in_url.search(blok).groupdict()
         url = url_hribi + slovar_ime_url['url']
         ime = slovar_ime_url['ime'].replace(' ','_').replace('/','_') + '.html'
         orodja.shrani_spletno_stran(url, ime, mapa_gorovij[i])
+
         # zberimo koristne podatke:
         html_vsebina = orodja.vsebina_datoteke(os.path.join(mapa_gorovij[i], ime))
         slovar = vzorec_podatki.search(html_vsebina).groupdict()
         slovar['višina'] = int(slovar['višina'])
+        slovar['vrsta'] = slovar['vrsta'].lstrip()
+        slovar['priljubljenost'] = int(slovar['priljubljenost'].lstrip())
+        slovar['priljubljenost v %'] = slovar.pop('priljubljenost')
         koordinate = re.search(vzorec_koordinate, html_vsebina)
         if koordinate is None:
             slovar['koordinate'] = 'Brez podatka'

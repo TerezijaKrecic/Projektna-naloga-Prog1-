@@ -1,0 +1,2543 @@
+[
+    {
+        "ime": "Stol",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2236,
+        "koordinate": "46,43402°N 14,17362°E"
+    },
+    {
+        "ime": "Vrtača",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2181,
+        "koordinate": "46,43992°N 14,21226°E"
+    },
+    {
+        "ime": "Prešernova koča na Stolu",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 2174,
+        "koordinate": "46,43136°N 14,17495°E"
+    },
+    {
+        "ime": "Kepa",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2143,
+        "koordinate": "46,50679°N 13,95249°E"
+    },
+    {
+        "ime": "Ojstrc / Hochobir",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2139,
+        "koordinate": "46,50599°N 14,48724°E"
+    },
+    {
+        "ime": "Košutnikov turn",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2133,
+        "koordinate": "46,44637°N 14,41031°E"
+    },
+    {
+        "ime": "Kordeževa glava (Peca)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2125,
+        "koordinate": "46,50023°N 14,77993°E"
+    },
+    {
+        "ime": "Bistriška špica/Feistritzer Spitze",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2113,
+        "koordinate": "46,51149°N 14,75018°E"
+    },
+    {
+        "ime": "Končnikov vrh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2109,
+        "koordinate": "46,50401°N 14,76322°E"
+    },
+    {
+        "ime": "Vajnež",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2104,
+        "koordinate": "46,44309°N 14,1511°E"
+    },
+    {
+        "ime": "Celovška špica",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2102,
+        "koordinate": "46,43812°N 14,18035°E"
+    },
+    {
+        "ime": "Veliko Kladivo",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2094,
+        "koordinate": "46,43719°N 14,34402°E"
+    },
+    {
+        "ime": "Veliki vrh (Košuta)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2088,
+        "koordinate": "46,43068°N 14,30956°E"
+    },
+    {
+        "ime": "Dovška Mala Kepa",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2077,
+        "koordinate": "46,50309°N 13,9595°E"
+    },
+    {
+        "ime": "Velika glava",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2077,
+        "koordinate": "46,50418°N 14,77198°E"
+    },
+    {
+        "ime": "Veška kopa/Wackendorfer Spitze",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2074,
+        "koordinate": "46,51578°N 14,74424°E"
+    },
+    {
+        "ime": "Begunjščica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 2060,
+        "koordinate": "46,42166°N 14,22982°E"
+    },
+    {
+        "ime": "Tolsta Košuta - Vzhodni vrh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2057,
+        "koordinate": "46,44703°N 14,42951°E"
+    },
+    {
+        "ime": "Malo Kladivo",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2036,
+        "koordinate": "46,43497°N 14,33821°E"
+    },
+    {
+        "ime": "Gubno",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2035,
+        "koordinate": "46,50064°N 13,96126°E"
+    },
+    {
+        "ime": "Tolsta Košuta - Zahodni vrh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2026,
+        "koordinate": "46,44618°N 14,42618°E"
+    },
+    {
+        "ime": "Palec",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2026,
+        "koordinate": "46,4432°N 14,21928°E"
+    },
+    {
+        "ime": "Pungartska gora",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2025,
+        "koordinate": "46,4397°N 14,3686°E"
+    },
+    {
+        "ime": "Ovčji vrh (Kozjak) / Geissberg (Kosiak)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2024,
+        "koordinate": "46,45315°N 14,18153°E"
+    },
+    {
+        "ime": "Zelenjak",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2024,
+        "koordinate": "46,44269°N 14,21524°E"
+    },
+    {
+        "ime": "Mali vrh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2017,
+        "koordinate": "46,44827°N 14,14018°E"
+    },
+    {
+        "ime": "Kravji vrh / Kuhberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2017,
+        "koordinate": "46,49581°N 14,46787°E"
+    },
+    {
+        "ime": "Potoški Stol",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2014,
+        "koordinate": "46,43695°N 14,1537°E"
+    },
+    {
+        "ime": "Toplar",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 2000,
+        "koordinate": "46,43156°N 14,31668°E"
+    },
+    {
+        "ime": "Begunjska Vrtača",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1991,
+        "koordinate": "46,42126°N 14,243°E"
+    },
+    {
+        "ime": "Košutica",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1968,
+        "koordinate": "46,43892°N 14,29909°E"
+    },
+    {
+        "ime": "Kofce gora",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1967,
+        "koordinate": "46,43108°N 14,32729°E"
+    },
+    {
+        "ime": "Cjajnik / Lärchenturm",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1965,
+        "koordinate": "46,44328°N 14,38808°E"
+    },
+    {
+        "ime": "Svačica",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1953,
+        "koordinate": "46,44412°N 14,19124°E"
+    },
+    {
+        "ime": "Struška",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1944,
+        "koordinate": "46,47275°N 14,12286°E"
+    },
+    {
+        "ime": "Trupejevo poldne",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1931,
+        "koordinate": "46,51535°N 13,86066°E"
+    },
+    {
+        "ime": "Govca (Olševa)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1929,
+        "koordinate": "46,44953°N 14,68571°E"
+    },
+    {
+        "ime": "Bele peči (Lepi vrh)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1926,
+        "koordinate": "46,5121°N 13,8647°E"
+    },
+    {
+        "ime": "Setiče/Freiberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1922,
+        "koordinate": "46,48881°N 14,40935°E"
+    },
+    {
+        "ime": "Srednja peč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1920,
+        "koordinate": "46,43556°N 14,18973°E"
+    },
+    {
+        "ime": "Žleb (Suho ruševje)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1916,
+        "koordinate": "46,44258°N 14,21709°E"
+    },
+    {
+        "ime": "Obel kamen (Olševa)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1911,
+        "koordinate": "46,4508°N 14,6747°E"
+    },
+    {
+        "ime": "Dovška Baba",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1891,
+        "koordinate": "46,48762°N 13,99389°E"
+    },
+    {
+        "ime": "Škrbina",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1869,
+        "koordinate": "46,43787°N 14,35514°E"
+    },
+    {
+        "ime": "Murnovc",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1866,
+        "koordinate": "46,51812°N 13,88257°E"
+    },
+    {
+        "ime": "Kamnitnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1858,
+        "koordinate": "46,4507°N 14,1297°E"
+    },
+    {
+        "ime": "Grlovec / Ferlacher Horn",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1840,
+        "koordinate": "46,48666°N 14,31398°E"
+    },
+    {
+        "ime": "Kresišče",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1839,
+        "koordinate": "46,51982°N 13,89517°E"
+    },
+    {
+        "ime": "Golica",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1835,
+        "koordinate": "46,49132°N 14,05411°E"
+    },
+    {
+        "ime": "Visoki vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1828,
+        "koordinate": "46,49621°N 13,88815°E"
+    },
+    {
+        "ime": "Kraguljše",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1828,
+        "koordinate": "46,5039°N 14,5019°E"
+    },
+    {
+        "ime": "Maloško poldne / Mallestiger Mittagskogel",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1823,
+        "koordinate": "46,5228°N 13,88204°E"
+    },
+    {
+        "ime": "Mojstrovica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1816,
+        "koordinate": "46,5032°N 13,894°E"
+    },
+    {
+        "ime": "Lokovnikov Grintovec / Grintoutz",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1809,
+        "koordinate": "46,44547°N 14,3001°E"
+    },
+    {
+        "ime": "Plešivec",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1801,
+        "koordinate": "46,43399°N 14,4313°E"
+    },
+    {
+        "ime": "Ostra peč / Mallestiger Mittagskogel",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1801,
+        "koordinate": "46,52433°N 13,88105°E"
+    },
+    {
+        "ime": "Srednji vrh (nad Završnico)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1796,
+        "koordinate": "46,43064°N 14,20789°E"
+    },
+    {
+        "ime": "Rjavca / Rjautza",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1789,
+        "koordinate": "46,4514°N 14,2221°E"
+    },
+    {
+        "ime": "Na Možeh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1784,
+        "koordinate": "46,43351°N 14,2332°E"
+    },
+    {
+        "ime": "Krvavka",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1784,
+        "koordinate": "46,48921°N 14,06515°E"
+    },
+    {
+        "ime": "Hruški vrh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1776,
+        "koordinate": "46,48134°N 14,0068°E"
+    },
+    {
+        "ime": "Pristovški Storžič / Kärntner Storschitz",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1759,
+        "koordinate": "46,43132°N 14,52549°E"
+    },
+    {
+        "ime": "Koprivnjak / Kleiner Frauenkogel",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1754,
+        "koordinate": "46,49203°N 14,00737°E"
+    },
+    {
+        "ime": "Klek",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1753,
+        "koordinate": "46,48511°N 14,02485°E"
+    },
+    {
+        "ime": "Bivak na Belščici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1750,
+        "koordinate": "46,44441°N 14,13457°E"
+    },
+    {
+        "ime": "Zajčnik",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1746,
+        "koordinate": "46,515°N 13,8291°E"
+    },
+    {
+        "ime": "Zajmenove peči",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1745,
+        "koordinate": "46,4239°N 14,2896°E"
+    },
+    {
+        "ime": "Kamnica (Komnica) / Ferlacher Spitze",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1742,
+        "koordinate": "46,5214°N 13,9643°E"
+    },
+    {
+        "ime": "Mala Košuta",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1740,
+        "koordinate": "46,44293°N 14,43825°E"
+    },
+    {
+        "ime": "Vošca",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1737,
+        "koordinate": "46,51019°N 13,81842°E"
+    },
+    {
+        "ime": "Mala Peca",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1731,
+        "koordinate": "46,49229°N 14,79182°E"
+    },
+    {
+        "ime": "Tamarča",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1728,
+        "koordinate": "46,5063°N 13,8119°E"
+    },
+    {
+        "ime": "Hajnžev Praprotnik / Zeller Prapotnik",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1727,
+        "koordinate": "46,4475°N 14,3119°E"
+    },
+    {
+        "ime": "Veliki Javornik (Ženiklovec)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1716,
+        "koordinate": "46,37502°N 14,40256°E"
+    },
+    {
+        "ime": "Vrh Ljubeljščice (Triangel)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1704,
+        "koordinate": "46,43219°N 14,23721°E"
+    },
+    {
+        "ime": "Hajnževo sedlo",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1701,
+        "koordinate": "46,4336°N 14,3056°E"
+    },
+    {
+        "ime": "Belska planina (Svečica)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1700,
+        "koordinate": "46,47403°N 14,10882°E"
+    },
+    {
+        "ime": "Uršlja gora (Plešivec)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1699,
+        "koordinate": "46,48555°N 14,96149°E"
+    },
+    {
+        "ime": "Planina Seča",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1698,
+        "koordinate": "46,46073°N 14,1299°E"
+    },
+    {
+        "ime": "Alpengasthof Siebenhütten",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1693,
+        "koordinate": "46,5179°N 14,7715°E"
+    },
+    {
+        "ime": "Stegovnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1692,
+        "koordinate": "46,39525°N 14,41993°E"
+    },
+    {
+        "ime": "Mačenski vrh / Matschacher Gupf",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1691,
+        "koordinate": "46,48969°N 14,13771°E"
+    },
+    {
+        "ime": "Mali Javornik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1685,
+        "koordinate": "46,38198°N 14,41744°E"
+    },
+    {
+        "ime": "Spodnji Plot",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1682,
+        "koordinate": "46,4304°N 14,2377°E"
+    },
+    {
+        "ime": "Dom na Uršlji gori",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1680,
+        "koordinate": "46,4846°N 14,965°E"
+    },
+    {
+        "ime": "Grpišca",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1676,
+        "koordinate": "46,5065°N 13,799°E"
+    },
+    {
+        "ime": "Hrašenska planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1670,
+        "koordinate": "46,45285°N 14,12208°E"
+    },
+    {
+        "ime": "Votlina Kralja Matjaža",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1670,
+        "koordinate": "46,4875°N 14,797°E"
+    },
+    {
+        "ime": "Pečovnik (kota 1668)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1668,
+        "koordinate": "46,42842°N 14,44176°E"
+    },
+    {
+        "ime": "Javorče",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1667,
+        "koordinate": "46,38255°N 14,38363°E"
+    },
+    {
+        "ime": "Dom na Peci",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1665,
+        "koordinate": "46,49114°N 14,79406°E"
+    },
+    {
+        "ime": "Bela peč / Weiße Wand",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1665,
+        "koordinate": "46,4537°N 14,2236°E"
+    },
+    {
+        "ime": "Celovška koča / Klagenfurter Hutte",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1664,
+        "koordinate": "46,44687°N 14,18302°E"
+    },
+    {
+        "ime": "Potočka zijalka",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1660,
+        "koordinate": "46,44955°N 14,67117°E"
+    },
+    {
+        "ime": "Kosmatica / Kosmatitza",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1659,
+        "koordinate": "46,4596°N 14,1981°E"
+    },
+    {
+        "ime": "Kamnati vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1658,
+        "koordinate": "46,51763°N 13,77643°E"
+    },
+    {
+        "ime": "Roblekov dom na Begunjščici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1657,
+        "koordinate": "46,41783°N 14,21201°E"
+    },
+    {
+        "ime": "Virnikov Grintovec",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1654,
+        "koordinate": "46,41349°N 14,47887°E"
+    },
+    {
+        "ime": "Planina Dovška Rožca",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1650,
+        "koordinate": "46,4827°N 13,98722°E"
+    },
+    {
+        "ime": "Visoka Bavha",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1650,
+        "koordinate": "46,5106°N 13,7848°E"
+    },
+    {
+        "ime": "Topica/Topitza",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1649,
+        "koordinate": "46,51639°N 14,67728°E"
+    },
+    {
+        "ime": "Mala Golica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1646,
+        "koordinate": "46,4868°N 14,0729°E"
+    },
+    {
+        "ime": "Pečovnik",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1640,
+        "koordinate": "46,42406°N 14,44161°E"
+    },
+    {
+        "ime": "Veliki vrh nad Komatevro",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1634,
+        "koordinate": "46,41594°N 14,4326°E"
+    },
+    {
+        "ime": "Blekova planina",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1629,
+        "koordinate": "46,5183°N 13,8324°E"
+    },
+    {
+        "ime": "Macna / Matzen",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1627,
+        "koordinate": "46,509°N 14,3624°E"
+    },
+    {
+        "ime": "Jerebikovec",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1621,
+        "koordinate": "46,5146°N 13,76667°E"
+    },
+    {
+        "ime": "Ruš",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1614,
+        "koordinate": "46,402°N 14,4365°E"
+    },
+    {
+        "ime": "Sveta peč / Helige Wand",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1613,
+        "koordinate": "46,4561°N 14,2314°E"
+    },
+    {
+        "ime": "Čofatijev vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1606,
+        "koordinate": "46,47523°N 14,74992°E"
+    },
+    {
+        "ime": "Žingarica / Singerberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1589,
+        "koordinate": "46,50054°N 14,25848°E"
+    },
+    {
+        "ime": "Rožca",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1587,
+        "koordinate": "46,48071°N 14,01967°E"
+    },
+    {
+        "ime": "Bela peč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1583,
+        "koordinate": "46,37761°N 14,37982°E"
+    },
+    {
+        "ime": "Koča na Golici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1582,
+        "koordinate": "46,48592°N 14,06198°E"
+    },
+    {
+        "ime": "Planina Zgornja Dolga njiva",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1580,
+        "koordinate": "46,44029°N 14,43179°E"
+    },
+    {
+        "ime": "Planina Zgornja Konjščica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1578,
+        "koordinate": "46,38048°N 14,37426°E"
+    },
+    {
+        "ime": "Sinski vrh / Sinacher Gupf ",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1577,
+        "koordinate": "46,49439°N 14,19209°E"
+    },
+    {
+        "ime": "Ojstra / Oistra",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1577,
+        "koordinate": "46,5099°N 14,6433°E"
+    },
+    {
+        "ime": "Planina Zgornja Luža",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1573,
+        "koordinate": "46,50415°N 14,72898°E"
+    },
+    {
+        "ime": "Vgrizeva planina / Ogrisalm",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1569,
+        "koordinate": "46,45645°N 14,19807°E"
+    },
+    {
+        "ime": "Veška planina / Wackendorfer Alm",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1568,
+        "koordinate": "46,5233°N 14,7243°E"
+    },
+    {
+        "ime": "Planina Korošica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1554,
+        "koordinate": "46,43416°N 14,29156°E"
+    },
+    {
+        "ime": "Rekaršica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1554,
+        "koordinate": "46,5163°N 13,77312°E"
+    },
+    {
+        "ime": "Kapelška koča / Eisenkappler Hütte",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1553,
+        "koordinate": "46,50176°N 14,51047°E"
+    },
+    {
+        "ime": "Petelinjek (nad Korenskim sedlom)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1552,
+        "koordinate": "46,5184°N 13,7337°E"
+    },
+    {
+        "ime": "Stara gora / Altberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1552,
+        "koordinate": "46,5248°N 14,5307°E"
+    },
+    {
+        "ime": "Špičasti vrh / Spitzberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1551,
+        "koordinate": "46,4734°N 14,6846°E"
+    },
+    {
+        "ime": "Ptičji vrh",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1550,
+        "koordinate": "46,48527°N 14,08835°E"
+    },
+    {
+        "ime": "Planina Javornik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1550,
+        "koordinate": "46,37633°N 14,39668°E"
+    },
+    {
+        "ime": "Snežnik (nad Koprivno)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1543,
+        "koordinate": "46,4743°N 14,6977°E"
+    },
+    {
+        "ime": "Dom na Zelenici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1536,
+        "koordinate": "46,42899°N 14,23357°E"
+    },
+    {
+        "ime": "Sveta Ana (Macna) / St. Anna (Matzen)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1536,
+        "koordinate": "46,5135°N 14,3614°E"
+    },
+    {
+        "ime": "Zavetišče na planini Šija",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1528,
+        "koordinate": "46,42456°N 14,33543°E"
+    },
+    {
+        "ime": "Koča Berta / Bertahütte",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1527,
+        "koordinate": "46,5182°N 13,9604°E"
+    },
+    {
+        "ime": "Šoparjev vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1524,
+        "koordinate": "46,48606°N 14,74105°E"
+    },
+    {
+        "ime": "Mejnik",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1517,
+        "koordinate": "46,4537°N 14,3961°E"
+    },
+    {
+        "ime": "Požgani rob",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1513,
+        "koordinate": "46,4579°N 14,2222°E"
+    },
+    {
+        "ime": "Peč (Tromeja)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1508,
+        "koordinate": "46,52283°N 13,71413°E"
+    },
+    {
+        "ime": "Planica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1508,
+        "koordinate": "46,48348°N 13,94063°E"
+    },
+    {
+        "ime": "Bukovec",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1506,
+        "koordinate": "46,39371°N 14,44994°E"
+    },
+    {
+        "ime": "Polna peč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1503,
+        "koordinate": "46,4389°N 14,25617°E"
+    },
+    {
+        "ime": "Lipševa vrata (Vrata, Felsentore)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1500,
+        "koordinate": "Brez podatka"
+    },
+    {
+        "ime": "Žerjavov Praprotnik / Loibler Prapotnik",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1500,
+        "koordinate": "46,4635°N 14,2788°E"
+    },
+    {
+        "ime": "Kopa / Monte Coppa",
+        "država": "Italija",
+        "gorovje": "Karavanke",
+        "višina": 1496,
+        "koordinate": "46,51474°N 13,70705°E"
+    },
+    {
+        "ime": "Dom na Kofcah",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1488,
+        "koordinate": "46,41772°N 14,3232°E"
+    },
+    {
+        "ime": "Jureževa planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1488,
+        "koordinate": "46,503°N 13,8256°E"
+    },
+    {
+        "ime": "Borovje",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1476,
+        "koordinate": "46,48051°N 13,95125°E"
+    },
+    {
+        "ime": "Rabenberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1465,
+        "koordinate": "46,4999°N 14,2144°E"
+    },
+    {
+        "ime": "Veliki Rob / Großer Rain",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1464,
+        "koordinate": "46,4717°N 14,2031°E"
+    },
+    {
+        "ime": "Planina Ilovica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1462,
+        "koordinate": "46,424°N 14,3316°E"
+    },
+    {
+        "ime": "Bela peč (nad Dovjem)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1460,
+        "koordinate": "46,4757°N 13,9808°E"
+    },
+    {
+        "ime": "Planina Spodnja Konjščica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1451,
+        "koordinate": "46,38305°N 14,3661°E"
+    },
+    {
+        "ime": "Spominska plošča Jožeta Rozmana",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1450,
+        "koordinate": "46,3768°N 14,3811°E"
+    },
+    {
+        "ime": "Borovski vrh (Žehtar) / Sechter",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1449,
+        "koordinate": "46,4996°N 14,3156°E"
+    },
+    {
+        "ime": "Koča Pr Zdravc",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1448,
+        "koordinate": "46,37768°N 14,3907°E"
+    },
+    {
+        "ime": "Planina Pungrat",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1447,
+        "koordinate": "46,4304°N 14,3596°E"
+    },
+    {
+        "ime": "Črna peč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1447,
+        "koordinate": "46,4244°N 14,4133°E"
+    },
+    {
+        "ime": "Kališje",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1435,
+        "koordinate": "46,5067°N 13,7368°E"
+    },
+    {
+        "ime": "Tegoška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1430,
+        "koordinate": "46,4293°N 14,3767°E"
+    },
+    {
+        "ime": "Koča pri izviru Završnice",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1425,
+        "koordinate": "46,42999°N 14,21832°E"
+    },
+    {
+        "ime": "Lovska koča na Brvogih",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1425,
+        "koordinate": "46,4891°N 13,9673°E"
+    },
+    {
+        "ime": "Dreiländereck Hütte",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1423,
+        "koordinate": "46,52429°N 13,72615°E"
+    },
+    {
+        "ime": "Plešivška kopa (Kozarnica)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1414,
+        "koordinate": "46,48337°N 14,99691°E"
+    },
+    {
+        "ime": "Potočnikova planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1410,
+        "koordinate": "46,4158°N 14,2525°E"
+    },
+    {
+        "ime": "Planina Rožca / Roschitzaalm",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1407,
+        "koordinate": "46,4872°N 14,0161°E"
+    },
+    {
+        "ime": "Planina Spodnja Dolga njiva",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1400,
+        "koordinate": "46,43838°N 14,41601°E"
+    },
+    {
+        "ime": "Planina Stamare",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1400,
+        "koordinate": "46,44682°N 14,11792°E"
+    },
+    {
+        "ime": "Robič",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1384,
+        "koordinate": "46,4083°N 14,3299°E"
+    },
+    {
+        "ime": "Jeseniška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1380,
+        "koordinate": "46,47865°N 14,03035°E"
+    },
+    {
+        "ime": "Hruška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1378,
+        "koordinate": "46,47578°N 14,01203°E"
+    },
+    {
+        "ime": "Koča na Ljubelju",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1370,
+        "koordinate": "46,43891°N 14,26649°E"
+    },
+    {
+        "ime": "Planina Brsnina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1357,
+        "koordinate": "46,4233°N 14,4301°E"
+    },
+    {
+        "ime": "Planina Možine",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1352,
+        "koordinate": "46,48416°N 14,04881°E"
+    },
+    {
+        "ime": "Veronjak / Hausberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1348,
+        "koordinate": "46,4796°N 14,21194°E"
+    },
+    {
+        "ime": "Hofovška planina / Hoffmansalpe",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1335,
+        "koordinate": "Brez podatka"
+    },
+    {
+        "ime": "Španov vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1334,
+        "koordinate": "46,45971°N 14,06957°E"
+    },
+    {
+        "ime": "Sveti Lenart / St. Leonhard",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1334,
+        "koordinate": "46,446°N 14,64°E"
+    },
+    {
+        "ime": "Planina Rep (Repija)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1330,
+        "koordinate": "46,4713°N 14,7127°E"
+    },
+    {
+        "ime": "Primožkovi hribi",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1326,
+        "koordinate": "46,40904°N 14,35241°E"
+    },
+    {
+        "ime": "Lovska koča nad Doslovško planino",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1325,
+        "koordinate": "46,417°N 14,1766°E"
+    },
+    {
+        "ime": "Robniške peči",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1323,
+        "koordinate": "46,4122°N 14,46°E"
+    },
+    {
+        "ime": "Bivak brez meja / Bivacco Senza Confini",
+        "država": "Italija",
+        "gorovje": "Karavanke",
+        "višina": 1319,
+        "koordinate": "46,519°N 13,7061°E"
+    },
+    {
+        "ime": "Na pečeh pri Črnem Vrhu",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1318,
+        "koordinate": "46,4644°N 14,0632°E"
+    },
+    {
+        "ime": "Koča na planini Preval-a",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1311,
+        "koordinate": "46,41014°N 14,2434°E"
+    },
+    {
+        "ime": "Govševa planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1300,
+        "koordinate": "46,4623°N 14,6982°E"
+    },
+    {
+        "ime": "Penatca",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1299,
+        "koordinate": "46,4148°N 14,3847°E"
+    },
+    {
+        "ime": "Pusti Rovt",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1296,
+        "koordinate": "46,47718°N 14,08992°E"
+    },
+    {
+        "ime": "Koča Vrtača",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1288,
+        "koordinate": "46,42974°N 14,24458°E"
+    },
+    {
+        "ime": "Roblekova planina",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1284,
+        "koordinate": "46,4197°N 14,4975°E"
+    },
+    {
+        "ime": "Lovska koča Stanič",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1280,
+        "koordinate": "46,4146°N 14,4528°E"
+    },
+    {
+        "ime": "Koča pod Košuto / Koschutahaus",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1280,
+        "koordinate": "46,4517°N 14,3876°E"
+    },
+    {
+        "ime": "Golarjeva peč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1276,
+        "koordinate": "46,4297°N 14,6517°E"
+    },
+    {
+        "ime": "Močnikova planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1275,
+        "koordinate": "46,39861°N 14,4468°E"
+    },
+    {
+        "ime": "Marija Snežna (Kavalar) / Madonna della Neve",
+        "država": "Italija",
+        "gorovje": "Karavanke",
+        "višina": 1275,
+        "koordinate": "46,5141°N 13,6951°E"
+    },
+    {
+        "ime": "Obirska planina",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1272,
+        "koordinate": "46,492°N 14,50862°E"
+    },
+    {
+        "ime": "Basališče (Paški Kozjak)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1272,
+        "koordinate": "46,39023°N 15,24015°E"
+    },
+    {
+        "ime": "Planina Kladje / Quadiaalm",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1271,
+        "koordinate": "46,5036°N 14,0479°E"
+    },
+    {
+        "ime": "Potoška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1270,
+        "koordinate": "46,43262°N 14,13469°E"
+    },
+    {
+        "ime": "Vetrh vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1268,
+        "koordinate": "46,3986°N 14,3833°E"
+    },
+    {
+        "ime": "Markljev Rovt",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1250,
+        "koordinate": "46,47849°N 14,08355°E"
+    },
+    {
+        "ime": "Planina Luža",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1250,
+        "koordinate": "46,5024°N 14,71554°E"
+    },
+    {
+        "ime": "Velika Boncla",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1241,
+        "koordinate": "46,4483°N 14,1093°E"
+    },
+    {
+        "ime": "Sveti Duh pod Olševo",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1232,
+        "koordinate": "46,43483°N 14,65971°E"
+    },
+    {
+        "ime": "Izvir reke Meže",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1230,
+        "koordinate": "46,4598°N 14,7022°E"
+    },
+    {
+        "ime": "Božičev vrh / Boschitzberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1228,
+        "koordinate": "Brez podatka"
+    },
+    {
+        "ime": "Štrukljev vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1227,
+        "koordinate": "46,3871°N 15,2268°E"
+    },
+    {
+        "ime": "Zabreška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1225,
+        "koordinate": "46,4187°N 14,1627°E"
+    },
+    {
+        "ime": "Tolsti vrh (pri Poljški planini)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1225,
+        "koordinate": "46,40627°N 14,2056°E"
+    },
+    {
+        "ime": "Planinski dom na kmetiji Kumer",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1220,
+        "koordinate": "46,4871°N 14,726°E"
+    },
+    {
+        "ime": "Sveta Ana v Koprivni",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1218,
+        "koordinate": "46,4825°N 14,7233°E"
+    },
+    {
+        "ime": "Doslovška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1210,
+        "koordinate": "46,4138°N 14,1793°E"
+    },
+    {
+        "ime": "Medvodnica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1202,
+        "koordinate": "46,4144°N 14,4023°E"
+    },
+    {
+        "ime": "Žirovniška planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1200,
+        "koordinate": "46,42419°N 14,15434°E"
+    },
+    {
+        "ime": "Rovt Vrse",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1200,
+        "koordinate": "46,47912°N 13,94385°E"
+    },
+    {
+        "ime": "Jesenik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1199,
+        "koordinate": "46,5051°N 14,8316°E"
+    },
+    {
+        "ime": "Hom (nad Prevaljami)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1193,
+        "koordinate": "46,5076°N 14,9401°E"
+    },
+    {
+        "ime": "Brdo (Plezališče pod Golico)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1192,
+        "koordinate": "Brez podatka"
+    },
+    {
+        "ime": "Ostrica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1182,
+        "koordinate": "46,3889°N 15,2079°E"
+    },
+    {
+        "ime": "Valvasorjev dom pod Stolom",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1181,
+        "koordinate": "46,42604°N 14,14653°E"
+    },
+    {
+        "ime": "Tomčeva koča na Poljški planini",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1180,
+        "koordinate": "46,4095°N 14,20863°E"
+    },
+    {
+        "ime": "Veliki vrh (nad Mežiško dolino)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1165,
+        "koordinate": "46,4947°N 14,8524°E"
+    },
+    {
+        "ime": "Virnikova planina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1160,
+        "koordinate": "46,4144°N 14,4681°E"
+    },
+    {
+        "ime": "Smučarski dom Črni vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1156,
+        "koordinate": "46,46023°N 14,06042°E"
+    },
+    {
+        "ime": "Šumahov vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1155,
+        "koordinate": "46,4935°N 14,8613°E"
+    },
+    {
+        "ime": "Pikov vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1149,
+        "koordinate": "46,4961°N 14,8419°E"
+    },
+    {
+        "ime": "Dom na Tromeji",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1145,
+        "koordinate": "46,51574°N 13,71901°E"
+    },
+    {
+        "ime": "Alničje",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1145,
+        "koordinate": "46,43889°N 14,11044°E"
+    },
+    {
+        "ime": "Hribarska (Huda) zijalka",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1140,
+        "koordinate": "46,4278°N 14,682°E"
+    },
+    {
+        "ime": "Planina Planinca",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1136,
+        "koordinate": "46,40906°N 14,21525°E"
+    },
+    {
+        "ime": "Mala Boncla (Bavha)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1131,
+        "koordinate": "46,45241°N 14,10375°E"
+    },
+    {
+        "ime": "Planina Goreljše",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1125,
+        "koordinate": "46,4738°N 13,9735°E"
+    },
+    {
+        "ime": "Žmitkov špic",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1124,
+        "koordinate": "46,4°N 14,49055°E"
+    },
+    {
+        "ime": "Železna (Kisla) voda",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1115,
+        "koordinate": "46,43079°N 14,64336°E"
+    },
+    {
+        "ime": "Zavetišče na Kalu",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1112,
+        "koordinate": "46,39797°N 14,3146°E"
+    },
+    {
+        "ime": "Špik (Paški Kozjak)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1108,
+        "koordinate": "46,38724°N 15,18658°E"
+    },
+    {
+        "ime": "Erjavčev rovt (Planina Mlinca)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1105,
+        "koordinate": "46,4808°N 13,9651°E"
+    },
+    {
+        "ime": "Jelenkamen",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1096,
+        "koordinate": "46,43925°N 14,07706°E"
+    },
+    {
+        "ime": "Stenica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1091,
+        "koordinate": "46,3665°N 15,312°E"
+    },
+    {
+        "ime": "Blažčeva skala",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1091,
+        "koordinate": "46,46944°N 13,97333°E"
+    },
+    {
+        "ime": "Planina Dolžanka",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1090,
+        "koordinate": "46,4125°N 14,3376°E"
+    },
+    {
+        "ime": "Arihova peč / Arichwand",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1090,
+        "koordinate": "46,5337°N 13,9832°E"
+    },
+    {
+        "ime": "Andrejev dom na Slemenu",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1086,
+        "koordinate": "46,43816°N 14,96475°E"
+    },
+    {
+        "ime": "Koča nad Arihovo pečjo /  Rossalmhütte",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1080,
+        "koordinate": "46,5306°N 13,9805°E"
+    },
+    {
+        "ime": "Pogorevc",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1076,
+        "koordinate": "46,49051°N 14,90013°E"
+    },
+    {
+        "ime": "Smolnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1075,
+        "koordinate": "46,41982°N 14,14404°E"
+    },
+    {
+        "ime": "Sveti Vid pod Jernejevim vrhom",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1075,
+        "koordinate": "46,4439°N 14,9629°E"
+    },
+    {
+        "ime": "Koča na Naravskih ledinah",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1072,
+        "koordinate": "46,48644°N 14,93759°E"
+    },
+    {
+        "ime": "Sveti Jošt na Paškem Kozjaku",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1063,
+        "koordinate": "46,387°N 15,1928°E"
+    },
+    {
+        "ime": "Sveti Jakob v Koprivni",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1062,
+        "koordinate": "46,4544°N 14,747°E"
+    },
+    {
+        "ime": "Kapelica Marijina roka (Stenica)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1055,
+        "koordinate": "46,36827°N 15,31481°E"
+    },
+    {
+        "ime": "Ajdna",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1046,
+        "koordinate": "46,42098°N 14,13073°E"
+    },
+    {
+        "ime": "Partizanska bolnica Krtina",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1040,
+        "koordinate": "46,40991°N 14,4553°E"
+    },
+    {
+        "ime": "Bivak Suška bajta",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1034,
+        "koordinate": "46,5001°N 14,9184°E"
+    },
+    {
+        "ime": "Sveta Ana (Ljubelj)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1032,
+        "koordinate": "46,4324°N 14,2634°E"
+    },
+    {
+        "ime": "Planina Zali potok",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1032,
+        "koordinate": "46,4172°N 14,3655°E"
+    },
+    {
+        "ime": "Mirca",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1025,
+        "koordinate": "46,445°N 14,0545°E"
+    },
+    {
+        "ime": "Veliki Mošenik / Große Muschenig",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1021,
+        "koordinate": "46,50681°N 14,0973°E"
+    },
+    {
+        "ime": "Stolpnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1012,
+        "koordinate": "46,33448°N 15,36826°E"
+    },
+    {
+        "ime": "Plakopec (Brezejec)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1005,
+        "koordinate": "46,3741°N 15,1877°E"
+    },
+    {
+        "ime": "Izvir Javornika",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 1000,
+        "koordinate": "46,45898°N 14,1085°E"
+    },
+    {
+        "ime": "Špicasti  vrh (Kislica)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 994,
+        "koordinate": "46,35735°N 15,30353°E"
+    },
+    {
+        "ime": "Koča na Pikovem",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 992,
+        "koordinate": "46,4886°N 14,8366°E"
+    },
+    {
+        "ime": "Visoko",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 991,
+        "koordinate": "46,3761°N 15,1898°E"
+    },
+    {
+        "ime": "Sv. Mihael (Rute (Zavrh)) / St. Michael (Bärental)",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 982,
+        "koordinate": "46,4739°N 14,155°E"
+    },
+    {
+        "ime": "Boč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 978,
+        "koordinate": "46,28945°N 15,59957°E"
+    },
+    {
+        "ime": "Dom Pristava v Javorniškem Rovtu",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 975,
+        "koordinate": "46,45425°N 14,09136°E"
+    },
+    {
+        "ime": "Ramšakov vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 970,
+        "koordinate": "46,35916°N 15,19006°E"
+    },
+    {
+        "ime": "Veliki vrh nad Završnikom",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 968,
+        "koordinate": "46,38183°N 14,3068°E"
+    },
+    {
+        "ime": "Stara cerkev sv. Ožbolta (Jezersko)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 961,
+        "koordinate": "46,39491°N 14,49009°E"
+    },
+    {
+        "ime": "Dom na Paškem Kozjaku",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 960,
+        "koordinate": "46,38429°N 15,18832°E"
+    },
+    {
+        "ime": "Srnjak",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 955,
+        "koordinate": "46,4941°N 13,7853°E"
+    },
+    {
+        "ime": "Radojč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 937,
+        "koordinate": "46,35958°N 15,17242°E"
+    },
+    {
+        "ime": "Podgorska planina / Maria Elender Alm",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 930,
+        "koordinate": "46,50489°N 14,09253°E"
+    },
+    {
+        "ime": "Smodivnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 923,
+        "koordinate": "46,4018°N 15,1588°E"
+    },
+    {
+        "ime": "Hvadnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 920,
+        "koordinate": "46,48859°N 13,8456°E"
+    },
+    {
+        "ime": "Slapovi v Preski",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 910,
+        "koordinate": "46,4631°N 14,0293°E"
+    },
+    {
+        "ime": "Andrejev vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 897,
+        "koordinate": "46,5205°N 14,8794°E"
+    },
+    {
+        "ime": "Jerman",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 890,
+        "koordinate": "46,48809°N 13,84212°E"
+    },
+    {
+        "ime": "Volinjak",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 886,
+        "koordinate": "46,5315°N 14,8756°E"
+    },
+    {
+        "ime": "Donačka gora",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 884,
+        "koordinate": "46,26268°N 15,7423°E"
+    },
+    {
+        "ime": "Donačka gora (vzhodni vrh)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 883,
+        "koordinate": "46,26341°N 15,74759°E"
+    },
+    {
+        "ime": "Fričev vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 881,
+        "koordinate": "46,44065°N 15,14592°E"
+    },
+    {
+        "ime": "Rokov vrh / Rochusberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 880,
+        "koordinate": "46,528°N 14,5715°E"
+    },
+    {
+        "ime": "Kamnek",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 873,
+        "koordinate": "46,3726°N 14,31347°E"
+    },
+    {
+        "ime": "Stegovniški slap",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 872,
+        "koordinate": "46,4047°N 14,3972°E"
+    },
+    {
+        "ime": "Veliki Juhej",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 865,
+        "koordinate": "46,3999°N 14,3428°E"
+    },
+    {
+        "ime": "Gank",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 850,
+        "koordinate": "46,4334°N 14,1018°E"
+    },
+    {
+        "ime": "Malnež",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 846,
+        "koordinate": "46,42881°N 14,1104°E"
+    },
+    {
+        "ime": "Gora sv. Eme (Junska gora) / Hemmaberg",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 842,
+        "koordinate": "46,5533°N 14,6672°E"
+    },
+    {
+        "ime": "Turška jama v Gozdašnici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 835,
+        "koordinate": "46,41031°N 14,1495°E"
+    },
+    {
+        "ime": "Lovska koča Štepih",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 825,
+        "koordinate": "46,3385°N 15,364°E"
+    },
+    {
+        "ime": "Plešivec",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 1801,
+        "koordinate": "46,43399°N 14,4313°E"
+    },
+    {
+        "ime": "Časov vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 821,
+        "koordinate": "46,4418°N 15,1521°E"
+    },
+    {
+        "ime": "Mali Juhej",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 820,
+        "koordinate": "46,39929°N 14,34404°E"
+    },
+    {
+        "ime": "Sveti Rupert (Završe)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 815,
+        "koordinate": "46,42751°N 15,1481°E"
+    },
+    {
+        "ime": "Sveti Vid (Završe)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 808,
+        "koordinate": "46,422°N 15,159°E"
+    },
+    {
+        "ime": "Kapelica Srca Jezusovega (Jelendol)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 807,
+        "koordinate": "46,3999°N 14,3445°E"
+    },
+    {
+        "ime": "Vinska gora",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 806,
+        "koordinate": "46,34894°N 15,19538°E"
+    },
+    {
+        "ime": "Poštarski dom pod Plešivcem",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 805,
+        "koordinate": "46,49617°N 15,01269°E"
+    },
+    {
+        "ime": "Slapovi Dobršnik",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 800,
+        "koordinate": "46,45878°N 14,01023°E"
+    },
+    {
+        "ime": "Grobnica barona Borna",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 800,
+        "koordinate": "46,3995°N 14,3476°E"
+    },
+    {
+        "ime": "Črepič",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 798,
+        "koordinate": "46,44105°N 15,1661°E"
+    },
+    {
+        "ime": "Temnjak",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 798,
+        "koordinate": "46,35063°N 15,18615°E"
+    },
+    {
+        "ime": "Štalekarjev vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 792,
+        "koordinate": "46,5116°N 14,8456°E"
+    },
+    {
+        "ime": "Kršiše",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 790,
+        "koordinate": "46,40289°N 14,281°E"
+    },
+    {
+        "ime": "Kalvarija nad Jesenicami",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 784,
+        "koordinate": "46,43786°N 14,06816°E"
+    },
+    {
+        "ime": "Skalni vrh (Vodemla)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 780,
+        "koordinate": "46,3871°N 15,1359°E"
+    },
+    {
+        "ime": "Lubela",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 778,
+        "koordinate": "46,3968°N 15,1232°E"
+    },
+    {
+        "ime": "Kozjek",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 766,
+        "koordinate": "Brez podatka"
+    },
+    {
+        "ime": "Slap pod Gozdašnico",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 760,
+        "koordinate": "46,4103°N 14,1523°E"
+    },
+    {
+        "ime": "Slap pod Kurico",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 760,
+        "koordinate": "46,4062°N 14,1624°E"
+    },
+    {
+        "ime": "Skala",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 750,
+        "koordinate": "46,32526°N 15,41553°E"
+    },
+    {
+        "ime": "Soteska Čepa/Tscheppaschlucht",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 750,
+        "koordinate": "46,48792°N 14,26455°E"
+    },
+    {
+        "ime": "Kapelica sv. Barbare na Pejcah",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 750,
+        "koordinate": "46,4452°N 14,044°E"
+    },
+    {
+        "ime": "Kušpergarjev turn (Kušpergarjevi turni)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 750,
+        "koordinate": "46,3839°N 14,3318°E"
+    },
+    {
+        "ime": "Kozjek (nad Socko)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 748,
+        "koordinate": "46,35722°N 15,2815°E"
+    },
+    {
+        "ime": "Gradišče nad Sotesko (Soteska)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 724,
+        "koordinate": "46,4194°N 14,112°E"
+    },
+    {
+        "ime": "RIS Dolina (Dovžanova soteska)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 720,
+        "koordinate": "46,3917°N 14,3308°E"
+    },
+    {
+        "ime": "Strana",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 711,
+        "koordinate": "46,4296°N 14,097°E"
+    },
+    {
+        "ime": "Čopov rovt",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 710,
+        "koordinate": "46,4349°N 14,0878°E"
+    },
+    {
+        "ime": "Slapišče pod Kalvarijo",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 700,
+        "koordinate": "46,4373°N 14,0689°E"
+    },
+    {
+        "ime": "Dom na Boču",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 698,
+        "koordinate": "46,28347°N 15,59412°E"
+    },
+    {
+        "ime": "Grad Lindek",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 695,
+        "koordinate": "46,3526°N 15,3253°E"
+    },
+    {
+        "ime": "Javorniški slapovi",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 690,
+        "koordinate": "46,4439°N 14,0943°E"
+    },
+    {
+        "ime": "Soteska Mučevo",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 690,
+        "koordinate": "46,495°N 14,8744°E"
+    },
+    {
+        "ime": "Dom v Dragi",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 689,
+        "koordinate": "46,39476°N 14,21804°E"
+    },
+    {
+        "ime": "Leški cerkvi",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 674,
+        "koordinate": "46,5347°N 14,8887°E"
+    },
+    {
+        "ime": "Sveta Marjeta na Boču",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 655,
+        "koordinate": "46,2766°N 15,6199°E"
+    },
+    {
+        "ime": "Dedni vrh (Šuštarica)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 653,
+        "koordinate": "46,28589°N 15,65327°E"
+    },
+    {
+        "ime": "Izvir Sotle",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 640,
+        "koordinate": "46,25832°N 15,79161°E"
+    },
+    {
+        "ime": "Podkanjski slap / Wildensteiner Wasserfall",
+        "država": "Avstrija",
+        "gorovje": "Karavanke",
+        "višina": 640,
+        "koordinate": "46,5344°N 14,5089°E"
+    },
+    {
+        "ime": "Partizanska bolnica na Formili/Boču",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 630,
+        "koordinate": "46,2829°N 15,6267°E"
+    },
+    {
+        "ime": "Jezero Završnica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 630,
+        "koordinate": "46,4069°N 14,1473°E"
+    },
+    {
+        "ime": "Razgledna točka na Stenici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 630,
+        "koordinate": "46,37824°N 15,30418°E"
+    },
+    {
+        "ime": "Formila na Boču",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 624,
+        "koordinate": "46,2852°N 15,6238°E"
+    },
+    {
+        "ime": "Joški vrh",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 595,
+        "koordinate": "46,26699°N 15,73973°E"
+    },
+    {
+        "ime": "Rudijev dom na Donački gori",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 590,
+        "koordinate": "46,26447°N 15,73468°E"
+    },
+    {
+        "ime": "Sveti Rok (Sele)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 582,
+        "koordinate": "46,50029°N 15,02748°E"
+    },
+    {
+        "ime": "Gonžarjeva peč",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 575,
+        "koordinate": "46,3512°N 15,1672°E"
+    },
+    {
+        "ime": "Babček",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 575,
+        "koordinate": "46,2981°N 15,4158°E"
+    },
+    {
+        "ime": "Lindeški slap",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 555,
+        "koordinate": "46,3502°N 15,3222°E"
+    },
+    {
+        "ime": "Mornova zijalka",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 550,
+        "koordinate": "46,41277°N 14,97437°E"
+    },
+    {
+        "ime": "Planinska koča Velikonočnica",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 550,
+        "koordinate": "46,2793°N 15,5842°E"
+    },
+    {
+        "ime": "Krajnikov grad",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 549,
+        "koordinate": "46,3792°N 15,2932°E"
+    },
+    {
+        "ime": "Grilova kapela na Boču",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 534,
+        "koordinate": "46,2642°N 15,6414°E"
+    },
+    {
+        "ime": "Ljubična gora",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 533,
+        "koordinate": "46,2899°N 15,5412°E"
+    },
+    {
+        "ime": "Sveti Pankracij (Grajski grič)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 530,
+        "koordinate": "46,508°N 15,0669°E"
+    },
+    {
+        "ime": "Grad Konjice",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 515,
+        "koordinate": "46,33585°N 15,40977°E"
+    },
+    {
+        "ime": "Sveti Donat",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 511,
+        "koordinate": "46,25794°N 15,73851°E"
+    },
+    {
+        "ime": "Goležev grad",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 505,
+        "koordinate": "46,37654°N 15,29305°E"
+    },
+    {
+        "ime": "Sveti Mihael na Pečici",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 500,
+        "koordinate": "46,275°N 15,5294°E"
+    },
+    {
+        "ime": "Cerkev Marijinega vnebovzetja (Vitanje)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 472,
+        "koordinate": "46,38212°N 15,29745°E"
+    },
+    {
+        "ime": "Sv. Uršula nad Dramljami",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 464,
+        "koordinate": "46,2805°N 15,4142°E"
+    },
+    {
+        "ime": "Sv. Tomaž nad Vojnikom",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 444,
+        "koordinate": "46,2917°N 15,3269°E"
+    },
+    {
+        "ime": "Sveta Barbara v Zagradu",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 435,
+        "koordinate": "46,5442°N 14,9307°E"
+    },
+    {
+        "ime": "Sveti Miklavž (Sele)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 435,
+        "koordinate": "46,5084°N 15,0359°E"
+    },
+    {
+        "ime": "Zbelovski grad",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 400,
+        "koordinate": "46,2961°N 15,5265°E"
+    },
+    {
+        "ime": "Cerkev Marije Tolažnice (Brezje nad Žetalami)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 382,
+        "koordinate": "46,27183°N 15,7852°E"
+    },
+    {
+        "ime": "Razborški ribniki",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 330,
+        "koordinate": "46,2685°N 15,4187°E"
+    },
+    {
+        "ime": "Sv. Marija Magdalena (Dramlje)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 327,
+        "koordinate": "46,273°N 15,3882°E"
+    },
+    {
+        "ime": "Studeniški grad",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 315,
+        "koordinate": "46,3°N 15,6151°E"
+    },
+    {
+        "ime": "Sv. Ilija (Spodnje Dramlje)",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 304,
+        "koordinate": "46,2772°N 15,3956°E"
+    },
+    {
+        "ime": "Partizanska bolnica Zima",
+        "država": "Slovenija",
+        "gorovje": "Karavanke",
+        "višina": 290,
+        "koordinate": "46,258°N 15,3648°E"
+    }
+]

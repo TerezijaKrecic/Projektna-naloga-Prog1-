@@ -42,9 +42,9 @@ vzorec_ime_in_url = re.compile(
 vzorec_podatki = re.compile(
     r'<h1>(?P<ime>.*?)<\/h1>.'
     r'*?Država:<\/b>.*?>'
-    r'(?P<drzava>.*?)<.*?'
+    r'(?P<država>.*?)<.*?'
     r'Gorovje:<\/b>.*?>(?P<gorovje>.*?)<.*?'
-    r'Višina:\D*(?P<visina>\d*).*?',
+    r'Višina:\D*(?P<višina>\d*).*?',
     re.DOTALL
 )
 vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOTALL)
@@ -69,7 +69,7 @@ for blok in seznam_html_podatkov:
     # zberimo koristne podatke:
     html_vsebina = orodja.vsebina_datoteke(os.path.join(mapa_julijske_alpe, ime))
     slovar = vzorec_podatki.search(html_vsebina).groupdict()
-    slovar['visina'] = int(slovar['visina'])
+    slovar['višina'] = int(slovar['višina'])
     koordinate = re.search(vzorec_koordinate, html_vsebina)
     if koordinate is None:
         slovar['koordinate'] = 'Brez podatka'

@@ -17,4 +17,4 @@ Nadaljne delo:
 
 Analiza:
 - grupiranje podatkov glede na izhodišče (gora se lahko doseže iz več izhodišč ter iz istega izhodišča lahko prideš na več gora)
-- 
+- razvrstitev glede na priljubljenost

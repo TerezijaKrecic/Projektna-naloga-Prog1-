@@ -38,11 +38,21 @@ vzorec_podatki = re.compile(
     r'Gorovje:<\/b>.*?>(?P<gorovje>.*?)<.*?'
     r'Višina:\D*(?P<višina>\d*).*?'
     r'<b>Vrsta:</b>(?P<vrsta>.*?)</div>.*?'
-    r'<b>Priljubljenost:</b>.*?(?P<priljubljenost>\d*)%',
+    r'<b>Priljubljenost:</b>.*?(?P<priljubljenost>\d*)%.*?'
+    r'<table class="TPoti".*?</tr>\s*(?P<tabelapoti>.*?)\s*</table>',
     re.DOTALL
 )
-# tu še vsa (različna) izhodišča)
-
+vzorec_html_izhodisca = re.compile(
+    r'<tr.*?</tr>',
+    re.DOTALL
+)
+vzorec_izhodisca = re.compile(
+    r'<a.*?>(?P<izhodišče>.*?)\s-.*?'
+    r'\((?P<pot>.*?)\)<.*?'
+    r'<a.*?>(?P<čas>.*?)<.*?<a.*?'
+    r'>(?P<zahtevnost>.*?)<',
+    re.DOTALL
+)
 vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOTALL)
 
 ###################
@@ -57,6 +67,14 @@ def uredi(slovar, html_vsebina):
     slovar['vrsta'] = slovar['vrsta'].lstrip()
     slovar['priljubljenost'] = int(slovar['priljubljenost'].lstrip())
     slovar['priljubljenost v %'] = slovar.pop('priljubljenost')
+    # izhodišča so podana kot odsek html-ja. Moramo jih ločiti in izpisati ven podatke v obliki slovarja, kjer je ključ izhodišče, vsebina pa poti, čas in zahtevnost
+    slovar['izhodišča in poti'] = slovar.pop('tabelapoti')
+    bloki_izhodisc = re.findall(vzorec_html_izhodisca, slovar['izhodišča in poti'])
+    izhodisca = []
+    for blok in bloki_izhodisc:
+        pot = vzorec_izhodisca.search(blok).groupdict()
+        izhodisca.append([pot])
+    slovar['izhodišča in poti'] = izhodisca
     # ker nima vsaka gora podanih koordinat:
     koordinate = re.search(vzorec_koordinate, html_vsebina)
     if koordinate is None:

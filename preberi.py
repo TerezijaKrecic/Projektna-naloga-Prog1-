@@ -77,8 +77,15 @@ def uredi(slovar, html_vsebina):
         ime_poti = vzorec_ime_poti.search(blok)
         if ime_poti:
             pot['pot'] = ime_poti.group('pot')
-        pot["višina izhodišča"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
-        pot['višinska razlika'] = slovar['višina'] - pot["višina izhodišča"]
+        cas = re.findall(r'\d+', pot['čas'])
+        pot['čas v min'] = pot.pop('čas')
+        if len(cas) == 1:
+            pot['čas v min'] = int(cas[0])*60
+        else:
+            pot['čas v min'] = int(cas[0])*60 + int(cas[-1])
+        #pot["višina izhodišča"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
+        #pot['višinska razlika'] = slovar['višina'] - pot["višina izhodišča"]
+        pot.pop('url')
         izhodisca.append(pot)
     slovar['izhodišča in poti'] = izhodisca
     # ker nima vsaka gora podanih koordinat:
@@ -140,6 +147,7 @@ for i in range(len(url_gorovij)):
     # zapišimo to v csv in json datoteko:
     orodja.zapisi_csv(seznam_podatkov, seznam_podatkov[0].keys(), os.path.join(mapa_gorovij[i], csv_gorovij[i]))
     orodja.zapisi_json(seznam_podatkov, os.path.join(mapa_gorovij[i], json_gorovij[i]))
+    # ker sem pozabla odstranit url od izhodišč:
 
 
 

@@ -1,7 +1,7 @@
 # Projektna-naloga-Prog1-
 Projektna naloga iz zajema in analize podatkov pri predmetu Programiranje1
 
-TRENUTNO STANJE: Zajeti podatki o gorah, ampak še kakšne podatke moram prebrati (o poteh in izhodiščih). Nahajajo se v csv in json datotekah v mapi "podatki", v treh podmapah (za vsako gorovje svoja tabela)
+TRENUTNO STANJE: Zajeti podatki o gorah, ampak še kakšne podatke moram prebrati (o višini izhodišča in višinski razliki jih sproti bere in je zato počasen). Nahajajo se v csv in json datotekah v mapi "podatki", v treh podmapah (za vsako gorovje svoja tabela)
 
 Zajetje podatkov o gorah v slovenskih Alpah (Julijske Alpe, Karavanke, Kamniško-Savinjske Alpe), dostopnih na https://www.hribi.net/gorovja
 

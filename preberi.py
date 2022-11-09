@@ -47,12 +47,13 @@ vzorec_html_izhodisca = re.compile(
     re.DOTALL
 )
 vzorec_izhodisca = re.compile(
-    r'<a.*?>(?P<izhodišče>.*?)\s-.*?'
-    r'\((?P<pot>.*?)\)<.*?'
+    r'<a href="(?P<url>.*?)">(?P<izhodišče>.*?)\s-.*?'
     r'<a.*?>(?P<čas>.*?)<.*?<a.*?'
     r'>(?P<zahtevnost>.*?)<',
     re.DOTALL
 )
+vzorec_ime_poti = re.compile(r'<a.*?\s-.*?\((?P<pot>.*?)\)<', re.DOTALL)
+vzorec_visina_izhodisca = re.compile(r'<b>Izhodišče:.*?\((?P<visinaizh>\d*?) ', re.DOTALL)
 vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOTALL)
 
 ###################
@@ -73,7 +74,12 @@ def uredi(slovar, html_vsebina):
     izhodisca = []
     for blok in bloki_izhodisc:
         pot = vzorec_izhodisca.search(blok).groupdict()
-        izhodisca.append([pot])
+        ime_poti = vzorec_ime_poti.search(blok)
+        if ime_poti:
+            pot['pot'] = ime_poti.group('pot')
+        pot["višina izhodišča"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
+        pot['višinska razlika'] = slovar['višina'] - pot["višina izhodišča"]
+        izhodisca.append(pot)
     slovar['izhodišča in poti'] = izhodisca
     # ker nima vsaka gora podanih koordinat:
     koordinate = re.search(vzorec_koordinate, html_vsebina)

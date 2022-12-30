@@ -7,17 +7,29 @@ Zajetje podatkov o gorah v slovenskih Alpah (Julijske Alpe, Karavanke, Kamniško
 
 Iz podatkov se najprej razbere:
 - ime gore
-- višina
-- koordinate vrha (če podatek obstaja)
 - ali leži v Sloveniji ali Italiji
-- v katerem delu Alp se nahaja (JUlijske Alpe, Kamniško Savinjske Alpe ali Karavanke)
-- izhodišča, poti, čas in zahtevnost vsake poti
-- višinska razlika med izhodiščem in vrhom
+- v katerem delu Alp se nahaja (Julijske Alpe, Kamniško Savinjske Alpe ali Karavanke)
+- višina
+- vrsta (vrh, bivak ...)
+- priljubljenost lokacije
+- izhodišča in poti:
+    - ime izhodišča in poti
+    - čas in zahtevnost vsake poti
+    - višina izhodišča ter višinska razlika med izhodiščem in vrhom
+- koordinate vrha (če podatek obstaja)
 
 Nadaljne delo:
-- ločiti slovenske in italijanske gore
-- izločiti lokacije, ki niso dejanske gore (pod bišino ?? m?)
+- izločiti italijanske gore
 
 Analiza:
-- grupiranje podatkov glede na izhodišče (gora se lahko doseže iz več izhodišč ter iz istega izhodišča lahko prideš na več gora)
+- našteti vsa izhodišča in za vsako izhodišče našteti gore, ki jih lahko dosežeš od tam
+- koliko gora ima več kot eno izhodišče?
 - razvrstitev glede na priljubljenost
+- katere so vse možne zahtevnosti poti?
+- razvrstitev po padajoči višinski razliki med izhodiščem in vrhom
+
+Hipoteze:
+- Ali je višina gore povezana z njeno priljubljenostjo?
+- Več kot 75 % gora ima več kot eno izhodišče (če podatek o izhodiščih manjka, predpostavimo, da je eno samo)
+- 
+

@@ -83,8 +83,8 @@ def uredi(slovar, html_vsebina):
             pot['čas v min'] = int(cas[0])*60
         else:
             pot['čas v min'] = int(cas[0])*60 + int(cas[-1])
-        #pot["višina izhodišča"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
-        #pot['višinska razlika'] = slovar['višina'] - pot["višina izhodišča"]
+        pot["višina izhodišča"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
+        pot['višinska razlika'] = slovar['višina'] - pot["višina izhodišča"]
         pot.pop('url')
         izhodisca.append(pot)
     slovar['izhodišča in poti'] = izhodisca

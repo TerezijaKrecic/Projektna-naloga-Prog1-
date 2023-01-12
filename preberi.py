@@ -32,11 +32,12 @@ vzorec_ime_in_url = re.compile(
     re.DOTALL
 )
 vzorec_podatki = re.compile(
+    r'form.*?id=(?P<id>.*?)".*?'
     r'<h1>(?P<ime>.*?)<\/h1>.'
     r'*?Država:<\/b>.*?>'
-    r'(?P<država>.*?)<.*?'
+    r'(?P<drzava>.*?)<.*?'
     r'Gorovje:<\/b>.*?>(?P<gorovje>.*?)<.*?'
-    r'Višina:\D*(?P<višina>\d*).*?'
+    r'Višina:\D*(?P<visina>\d*).*?'
     r'<b>Vrsta:</b>(?P<vrsta>.*?)</div>.*?'
     r'<b>Priljubljenost:</b>.*?(?P<priljubljenost>\d*)%.*?'
     r'<table class="TPoti".*?</tr>\s*(?P<tabelapoti>.*?)\s*</table>',
@@ -47,8 +48,8 @@ vzorec_html_izhodisca = re.compile(
     re.DOTALL
 )
 vzorec_izhodisca = re.compile(
-    r'<a href="(?P<url>.*?)">(?P<izhodišče>.*?)\s-.*?'
-    r'<a.*?>(?P<čas>.*?)<.*?<a.*?'
+    r'<a href="(?P<url>.*?)">(?P<izhodisce>.*?)\s-.*?'
+    r'<a.*?>(?P<cas>.*?)<.*?<a.*?'
     r'>(?P<zahtevnost>.*?)<',
     re.DOTALL
 )
@@ -62,32 +63,12 @@ vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOT
 
 # POMOŽNE FUNKCIJE:
 
-# za ureditev podatkov (niz s številko v int in podobno)
-def uredi(slovar, html_vsebina):
-    slovar['višina'] = int(slovar['višina'])
+# za ureditev podatkov v slovarju (niz s številko v int in podobno)
+def uredi_slovar(slovar, html_vsebina, i):
+    slovar['id'] = i + int(''.join(filter(str.isdigit, slovar['id'])))
+    slovar['visina'] = int(slovar['visina'])
     slovar['vrsta'] = slovar['vrsta'].lstrip()
     slovar['priljubljenost'] = int(slovar['priljubljenost'].lstrip())
-    slovar['priljubljenost v %'] = slovar.pop('priljubljenost')
-    # izhodišča so podana kot odsek html-ja. Moramo jih ločiti in izpisati ven podatke v obliki slovarja, kjer je ključ izhodišče, vsebina pa poti, čas in zahtevnost
-    slovar['izhodišča in poti'] = slovar.pop('tabelapoti')
-    bloki_izhodisc = re.findall(vzorec_html_izhodisca, slovar['izhodišča in poti'])
-    izhodisca = []
-    for blok in bloki_izhodisc:
-        pot = vzorec_izhodisca.search(blok).groupdict()
-        ime_poti = vzorec_ime_poti.search(blok)
-        if ime_poti:
-            pot['pot'] = ime_poti.group('pot')
-        cas = re.findall(r'\d+', pot['čas'])
-        pot['čas v min'] = pot.pop('čas')
-        if len(cas) == 1:
-            pot['čas v min'] = int(cas[0])*60
-        else:
-            pot['čas v min'] = int(cas[0])*60 + int(cas[-1])
-        pot["višina izhodišča"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
-        pot['višinska razlika'] = slovar['višina'] - pot["višina izhodišča"]
-        pot.pop('url')
-        izhodisca.append(pot)
-    slovar['izhodišča in poti'] = izhodisca
     # ker nima vsaka gora podanih koordinat:
     koordinate = re.search(vzorec_koordinate, html_vsebina)
     if koordinate is None:
@@ -96,15 +77,50 @@ def uredi(slovar, html_vsebina):
         slovar['koordinate'] = koordinate.group('koordinate').replace('&nbsp;',' ')
     return slovar
 
+# za ureditev izhodišč, ki jih vse shranimo skupaj v poseben slovar
+def uredi_izhodisca(html_vseh_izhodisc, id, visina):
+    # izhodišča so podana kot odsek html-ja. Moramo jih ločiti in izpisati ven podatke v obliki slovarja, kjer je ključ izhodišče, vsebina pa poti, čas in zahtevnost
+    bloki_izhodisc = re.findall(vzorec_html_izhodisca, html_vseh_izhodisc)
+    izhodisca = []
+    for blok in bloki_izhodisc:
+        pot = {'id': id}
+        pot_brez_id = vzorec_izhodisca.search(blok).groupdict()
+        pot.update(pot_brez_id)
+        pot['izhodisce'] = pot['izhodisce'].strip()
+        ime_poti = vzorec_ime_poti.search(blok)
+        if ime_poti:
+            pot['pot'] = ime_poti.group('pot')
+        cas = re.findall(r'\d+', pot['cas'])
+        if len(cas) == 1:
+            pot['cas'] = int(cas[0])*60
+        else:
+            pot['cas'] = int(cas[0])*60 + int(cas[-1])
+        pot["visina_izhodisca"] = int(vzorec_visina_izhodisca.search(requests.get(url_hribi+pot['url']).text).group('visinaizh'))
+        pot['visinska_razlika'] = visina - pot["visina_izhodisca"]
+        pot.pop('url')
+        izhodisca.append(pot)
+    return izhodisca
+
+# uredimo še vrsto (vrha, bivak, koča ...)
+def uredi_vrsto(niz, id):
+    niz = niz.replace(',', ' ')
+    seznam = []
+    for vrsta in niz.split():
+        seznam.append({'id': id, 'vrsta': vrsta})
+    return seznam
+
 # za shranjevanje strani o vsaki gori posebej in prebranje podatkov iz nje
 def shrani_strani_gora(slovar_ime_url, i):
     url = url_hribi + slovar_ime_url['url']
     ime = slovar_ime_url['ime'].replace(' ','_').replace('/','_') + '.html'
     orodja.shrani_spletno_stran(url, ime, mapa_gorovij[i])
     html_vsebina = orodja.vsebina_datoteke(os.path.join(mapa_gorovij[i], ime))
-    slovar = vzorec_podatki.search(html_vsebina).groupdict()
-    slovar = uredi(slovar, html_vsebina)
-    return slovar
+    slovar = uredi_slovar(vzorec_podatki.search(html_vsebina).groupdict(), html_vsebina, i)
+    izhodisca = uredi_izhodisca(slovar['tabelapoti'], slovar["id"], slovar['visina'])
+    vrsta = uredi_vrsto(slovar['vrsta'], slovar['id'])
+    slovar.pop('tabelapoti')
+    slovar.pop('vrsta')
+    return slovar, izhodisca, vrsta
 
 # za prebranje podatkov iz posamezne strani, a je ne shranimo (časovno potratno in stalo requesta dostop, zato je ne nucamo)
 def preberi_strani_gora(slovar_ime_url):
@@ -116,13 +132,19 @@ def preberi_strani_gora(slovar_ime_url):
         print('stran ne obstaja!')
     else:
         html_vsebina = vsebina.text
-        slovar = vzorec_podatki.search(html_vsebina).groupdict()
-        slovar = uredi(slovar, html_vsebina)
-        return slovar
+        slovar = uredi_slovar(vzorec_podatki.search(html_vsebina).groupdict(), html_vsebina, i)
+        izhodisca = uredi_izhodisca(slovar['tabelapoti'], slovar["id"], slovar['visina'])
+        vrsta = uredi_vrsto(slovar['vrsta'], slovar['id'])
+        slovar.pop('tabelapoti')
+        slovar.pop('vrsta')
+        return slovar, izhodisca, vrsta
 
 #####################################################
 # glavna funkcija, ki zbere in shrani podatke:
 #####################################################
+izhodisca = [] # izhodišča in vrste bomo shranili vsa v eno datoteko
+vrsta = []
+
 for i in range(len(url_gorovij)):
     # Shranimo tri glavne spletne strani o gorah v svoje mape:
     orodja.shrani_spletno_stran(url_gorovij[i], datoteka_gorovij[i], mapa_gorovij[i])
@@ -138,16 +160,20 @@ for i in range(len(url_gorovij)):
     for html_gore in seznam_html_podatkov:
         slovar_ime_url = vzorec_ime_in_url.search(html_gore).groupdict()
     # 1. način - s shranjevanjem vsake strani (to pomeni smetenje mape s podatki, ampak bolje kot 2. način):
-        slovar = shrani_strani_gora(slovar_ime_url, i)
+        slovar, izhodisca_gore, vrsta_lokacije = shrani_strani_gora(slovar_ime_url, i)
     # 2. način - iz vsake strani le preberemo podatke in je ne shranimo, ampak potem vsakič prebira znova in to ni kul ...
         # slovar = preberi_strani_gora(slovar_ime_url)
     # dobljen slovar dodamo v seznam podatkov:
         seznam_podatkov.append(slovar)
+        izhodisca += izhodisca_gore
+        vrsta += vrsta_lokacije
 
     # zapišimo to v csv in json datoteko:
     orodja.zapisi_csv(seznam_podatkov, seznam_podatkov[0].keys(), os.path.join(mapa_gorovij[i], csv_gorovij[i]))
     orodja.zapisi_json(seznam_podatkov, os.path.join(mapa_gorovij[i], json_gorovij[i]))
-    # ker sem pozabla odstranit url od izhodišč:
 
+orodja.zapisi_csv(izhodisca, izhodisca[0].keys(), 'podatki\\izhodisca.csv')
+orodja.zapisi_json(izhodisca, 'podatki\\izhodisca.json')
 
-
+orodja.zapisi_csv(vrsta, vrsta[0].keys(), 'podatki\\vrsta.csv')
+orodja.zapisi_json(vrsta, 'podatki\\vrsta.json')

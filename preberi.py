@@ -67,7 +67,7 @@ vzorec_koordinate = re.compile(r'Širina.*?span.*?>(?P<koordinate>.*?)<', re.DOT
 def uredi_slovar(slovar, html_vsebina, i):
     # id-ju dodamo 1/2/3 (odvisno od gorovja), da se gotovo ne ponovi
     slab_id = int(''.join(filter(str.isdigit, slovar['id'])))
-    dober_id = i * (10 ** len(str(slab_id))) + slab_id # npr. 458 -> 1458
+    dober_id = (i + 1) * (10 ** len(str(slab_id))) + slab_id # npr. 458 -> 1458
     slovar['id'] = dober_id
     slovar['visina'] = int(slovar['visina'])
     slovar['vrsta'] = slovar['vrsta'].lstrip()

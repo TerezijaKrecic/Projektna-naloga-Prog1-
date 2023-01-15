@@ -1,2537 +1,2199 @@
 [
     {
-        "id": 318,
+        "id": 2316,
         "ime": "Grintovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2558,
         "priljubljenost": 100,
         "koordinate": "46,35718°N 14,53548°E"
     },
     {
-        "id": 327,
+        "id": 2325,
         "ime": "Jezerska Kočna",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2540,
         "priljubljenost": 98,
         "koordinate": "46,3587°N 14,52206°E"
     },
     {
-        "id": 330,
+        "id": 2328,
         "ime": "Skuta",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2532,
         "priljubljenost": 99,
         "koordinate": "46,36328°N 14,55768°E"
     },
     {
-        "id": 333,
+        "id": 2331,
         "ime": "Kokrska Kočna",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2520,
         "priljubljenost": 95,
         "koordinate": "46,35713°N 14,51984°E"
     },
     {
-        "id": 32561,
+        "id": 232559,
         "ime": "Na Križu (Kokrska Kočna)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2484,
         "priljubljenost": 35,
         "koordinate": "46,35678°N 14,51562°E"
     },
     {
-        "id": 344,
+        "id": 2342,
         "ime": "Dolgi hrbet",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2473,
         "priljubljenost": 94,
         "koordinate": "46,36285°N 14,54596°E"
     },
     {
-        "id": 351,
+        "id": 2349,
         "ime": "Štruca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2457,
         "priljubljenost": 92,
         "koordinate": "46,36269°N 14,55315°E"
     },
     {
-        "id": 352,
+        "id": 2350,
         "ime": "Kranjska Rinka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2453,
         "priljubljenost": 94,
         "koordinate": "46,36565°N 14,56361°E"
     },
     {
-        "id": 3389,
+        "id": 23387,
         "ime": "Koroška Rinka (Križ)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2433,
         "priljubljenost": 96,
         "koordinate": "46,36776°N 14,56519°E"
     },
     {
-        "id": 382,
+        "id": 2380,
         "ime": "Planjava",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2392,
         "priljubljenost": 98,
         "koordinate": "46,35652°N 14,61372°E"
     },
     {
-        "id": 3390,
+        "id": 23388,
         "ime": "Štajerska Rinka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2374,
         "priljubljenost": 90,
         "koordinate": "46,36817°N 14,56736°E"
     },
     {
-        "id": 3148,
+        "id": 23146,
         "ime": "Ojstrica",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2350,
         "priljubljenost": 100,
         "koordinate": "46,36395°N 14,63724°E"
     },
     {
-        "id": 31534,
+        "id": 231532,
         "ime": "Lučka Brana (Baba)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2331,
         "priljubljenost": 87,
         "koordinate": "46,3598°N 14,625°E"
     },
     {
-        "id": 31325,
+        "id": 231323,
         "ime": "Mala Rinka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2289,
         "priljubljenost": 88,
         "koordinate": "46,36576°N 14,56924°E"
     },
     {
-        "id": 398,
+        "id": 2396,
         "ime": "Brana",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2253,
         "priljubljenost": 99,
         "koordinate": "46,35487°N 14,5874°E"
     },
     {
-        "id": 3393,
+        "id": 23391,
         "ime": "Turska gora",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2251,
         "priljubljenost": 97,
         "koordinate": "46,3603°N 14,57718°E"
     },
     {
-        "id": 3320,
+        "id": 23318,
         "ime": "Kalški greben",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2224,
         "priljubljenost": 97,
         "koordinate": "46,33165°N 14,5378°E"
     },
     {
-        "id": 3435,
-        "ime": "Mrzla gora",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 2203,
-        "priljubljenost": 97,
-        "koordinate": "46,3772°N 14,5783°E"
-    },
-    {
-        "id": 387,
+        "id": 2385,
         "ime": "Storžič",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2132,
         "priljubljenost": 100,
         "koordinate": "46,35028°N 14,40472°E"
     },
     {
-        "id": 31589,
+        "id": 231587,
         "ime": "Najvišji rob (Zeleniške špice)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2127,
         "priljubljenost": 91,
         "koordinate": "46,35192°N 14,62094°E"
     },
     {
-        "id": 3668,
-        "ime": "Velika (Koroška) Baba",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 2127,
-        "priljubljenost": 97,
-        "koordinate": "46,37937°N 14,55592°E"
-    },
-    {
-        "id": 3699,
+        "id": 23697,
         "ime": "Velika Zelenica",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2114,
         "priljubljenost": 95,
         "koordinate": "46,36109°N 14,66732°E"
     },
     {
-        "id": 31291,
-        "ime": "Storžek",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 2110,
-        "priljubljenost": 91,
-        "koordinate": "46,37526°N 14,5614°E"
-    },
-    {
-        "id": 3440,
+        "id": 23438,
         "ime": "Veliki vrh (Veža)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2110,
         "priljubljenost": 93,
         "koordinate": "46,35756°N 14,66922°E"
     },
     {
-        "id": 3338,
-        "ime": "Ledinski vrh",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 2108,
-        "priljubljenost": 96,
-        "koordinate": "46,37508°N 14,5592°E"
-    },
-    {
-        "id": 31527,
+        "id": 231525,
         "ime": "Kogel",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2100,
         "priljubljenost": 89,
         "koordinate": "46,35502°N 14,55563°E"
     },
     {
-        "id": 3392,
+        "id": 23390,
         "ime": "Bivak pod Grintovcem",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2100,
         "priljubljenost": 93,
         "koordinate": "46,35348°N 14,54738°E"
     },
     {
-        "id": 31037,
+        "id": 231035,
         "ime": "Krofička",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2083,
         "priljubljenost": 97,
         "koordinate": "46,37456°N 14,64503°E"
     },
     {
-        "id": 3391,
+        "id": 23389,
         "ime": "Bivak pod Skuto",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2070,
         "priljubljenost": 94,
         "koordinate": "46,35887°N 14,56792°E"
     },
     {
-        "id": 3150,
+        "id": 23148,
         "ime": "Velika Raduha",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2062,
         "priljubljenost": 100,
         "koordinate": "46,40991°N 14,73775°E"
     },
     {
-        "id": 3105,
+        "id": 23103,
         "ime": "Kalška gora",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2047,
         "priljubljenost": 96,
         "koordinate": "46,34087°N 14,5476°E"
     },
     {
-        "id": 31270,
+        "id": 231268,
         "ime": "Mala Raduha",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2029,
         "priljubljenost": 84,
         "koordinate": "46,41346°N 14,74304°E"
     },
     {
-        "id": 3698,
+        "id": 23696,
         "ime": "Molička peč",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2029,
         "priljubljenost": 91,
         "koordinate": "46,36394°N 14,67204°E"
     },
     {
-        "id": 3360,
+        "id": 23358,
         "ime": "Lučki Dedec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2023,
         "priljubljenost": 95,
         "koordinate": "46,35236°N 14,63786°E"
     },
     {
-        "id": 31394,
+        "id": 231392,
         "ime": "Mala Ojstrica",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 2017,
         "priljubljenost": 94,
         "koordinate": "46,36083°N 14,65135°E"
     },
     {
-        "id": 3318,
+        "id": 23316,
         "ime": "Vrh Korena",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1999,
         "priljubljenost": 96,
         "koordinate": "46,31504°N 14,5542°E"
     },
     {
-        "id": 3321,
+        "id": 23319,
         "ime": "Kompotela",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1989,
         "priljubljenost": 96,
         "koordinate": "46,31522°N 14,56246°E"
     },
     {
-        "id": 3307,
+        "id": 23305,
         "ime": "Tolsti vrh (Veža)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1985,
         "priljubljenost": 85,
         "koordinate": "46,34915°N 14,66186°E"
     },
     {
-        "id": 31580,
+        "id": 231578,
         "ime": "Vršiči",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1980,
         "priljubljenost": 71,
         "koordinate": "46,3458°N 14,6371°E"
     },
     {
-        "id": 3620,
+        "id": 23618,
         "ime": "Bivak pod Mrzlim vrhom",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1980,
         "priljubljenost": 76,
         "koordinate": "46,37425°N 14,56673°E"
     },
     {
-        "id": 3449,
+        "id": 23447,
         "ime": "Košutna",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1974,
         "priljubljenost": 91,
         "koordinate": "46,30968°N 14,55699°E"
     },
     {
-        "id": 375,
+        "id": 2373,
         "ime": "Veliki Zvoh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1971,
         "priljubljenost": 95,
         "koordinate": "46,3087°N 14,54165°E"
     },
     {
-        "id": 3306,
+        "id": 23304,
         "ime": "Deska (Veža)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1970,
         "priljubljenost": 81,
         "koordinate": "46,34525°N 14,66027°E"
     },
     {
-        "id": 31581,
+        "id": 231579,
         "ime": "Vežica",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1965,
         "priljubljenost": 69,
         "koordinate": "46,3425°N 14,6305°E"
     },
     {
-        "id": 3382,
+        "id": 23380,
         "ime": "Dleskovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1965,
         "priljubljenost": 84,
         "koordinate": "46,35389°N 14,68228°E"
     },
     {
-        "id": 31650,
-        "ime": "Matkova kopa",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 1957,
-        "priljubljenost": 79,
-        "koordinate": "46,39227°N 14,58598°E"
-    },
-    {
-        "id": 31066,
+        "id": 231064,
         "ime": "Bivak v Kočni",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1952,
         "priljubljenost": 73,
         "koordinate": "46,3508°N 14,52441°E"
     },
     {
-        "id": 31271,
+        "id": 231269,
         "ime": "Lanež",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1925,
         "priljubljenost": 81,
         "koordinate": "46,41867°N 14,7547°E"
     },
     {
-        "id": 32713,
+        "id": 232711,
         "ime": "Jamarski bivak na Dleskovški planoti",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1910,
         "priljubljenost": 33,
         "koordinate": "46,3607°N 14,6729°E"
     },
     {
-        "id": 3697,
+        "id": 23695,
         "ime": "Križevnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1909,
         "priljubljenost": 87,
         "koordinate": "46,37494°N 14,68872°E"
     },
     {
-        "id": 31537,
+        "id": 231535,
         "ime": "Rjavčki vrh (Planinšca)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1898,
         "priljubljenost": 72,
         "koordinate": "46,36602°N 14,62707°E"
     },
     {
-        "id": 397,
+        "id": 2395,
         "ime": "Kamniška koča na Kamniškem sedlu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1864,
         "priljubljenost": 100,
         "koordinate": "46,35919°N 14,59748°E"
     },
     {
-        "id": 31070,
+        "id": 231068,
         "ime": "Krvavec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1853,
         "priljubljenost": 96,
         "koordinate": "46,29964°N 14,53663°E"
     },
     {
-        "id": 3322,
+        "id": 23320,
         "ime": "Mokrica",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1853,
         "priljubljenost": 87,
         "koordinate": "46,31567°N 14,57027°E"
     },
     {
-        "id": 3246,
+        "id": 23244,
         "ime": "Srednji vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1853,
         "priljubljenost": 92,
         "koordinate": "46,33939°N 14,4391°E"
     },
     {
-        "id": 3290,
+        "id": 23288,
         "ime": "Vodotočno jezero (Veža)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1850,
         "priljubljenost": 88,
         "koordinate": "46,34689°N 14,65578°E"
     },
     {
-        "id": 31533,
+        "id": 231531,
         "ime": "Lastovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1841,
         "priljubljenost": 69,
         "koordinate": "46,33694°N 14,66039°E"
     },
     {
-        "id": 3710,
+        "id": 23708,
         "ime": "Planina Dolga trata",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1835,
         "priljubljenost": 68,
         "koordinate": "46,3517°N 14,6925°E"
     },
     {
-        "id": 3156,
+        "id": 23154,
         "ime": "Rzenik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1833,
         "priljubljenost": 88,
         "koordinate": "46,32776°N 14,63334°E"
     },
     {
-        "id": 3501,
+        "id": 23499,
         "ime": "Cjanovca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1820,
         "priljubljenost": 89,
         "koordinate": "46,33578°N 14,4411°E"
     },
     {
-        "id": 3358,
+        "id": 23356,
         "ime": "Mali Grintovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1813,
         "priljubljenost": 92,
         "koordinate": "46,34632°N 14,42739°E"
     },
     {
-        "id": 31819,
+        "id": 231817,
         "ime": "Jelovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1808,
         "priljubljenost": 75,
         "koordinate": "46,4215°N 14,76151°E"
     },
     {
-        "id": 3201,
+        "id": 23199,
         "ime": "Kocbekov dom na Korošici",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1808,
         "priljubljenost": 97,
         "koordinate": "46,3557°N 14,64002°E"
     },
     {
-        "id": 3291,
+        "id": 23289,
         "ime": "Konj",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1803,
         "priljubljenost": 97,
         "koordinate": "46,33081°N 14,63766°E"
     },
     {
-        "id": 3286,
+        "id": 23284,
         "ime": "Vratca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1802,
         "priljubljenost": 87,
         "koordinate": "46,37036°N 14,52837°E"
     },
     {
-        "id": 400,
+        "id": 2398,
         "ime": "Cojzova koča na Kokrskem sedlu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1793,
         "priljubljenost": 98,
         "koordinate": "46,34433°N 14,54697°E"
     },
     {
-        "id": 3366,
-        "ime": "Goli vrh",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 1787,
-        "priljubljenost": 95,
-        "koordinate": "46,39789°N 14,54699°E"
-    },
-    {
-        "id": 3326,
+        "id": 23324,
         "ime": "Kapelica na Molički planini",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1780,
         "priljubljenost": 92,
         "koordinate": "46,36015°N 14,65553°E"
     },
     {
-        "id": 3340,
+        "id": 23338,
         "ime": "Planina Košutna",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1778,
         "priljubljenost": 86,
         "koordinate": "46,30634°N 14,55535°E"
     },
     {
-        "id": 3492,
+        "id": 23490,
         "ime": "Strelovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1763,
         "priljubljenost": 93,
         "koordinate": "46,39439°N 14,65812°E"
     },
     {
-        "id": 3276,
+        "id": 23274,
         "ime": "Bašeljski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1744,
         "priljubljenost": 91,
         "koordinate": "46,34535°N 14,41834°E"
     },
     {
-        "id": 3297,
+        "id": 23295,
         "ime": "Veliki vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1742,
         "priljubljenost": 88,
         "koordinate": "46,37237°N 14,4974°E"
     },
     {
-        "id": 32584,
+        "id": 232582,
         "ime": "Licjanovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1733,
         "priljubljenost": 32,
         "koordinate": "46,35007°N 14,4293°E"
     },
     {
-        "id": 3127,
+        "id": 23125,
         "ime": "Tolsti vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1715,
         "priljubljenost": 98,
         "koordinate": "46,34865°N 14,36322°E"
     },
     {
-        "id": 3227,
+        "id": 23225,
         "ime": "Kranjska koča na Ledinah",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1700,
         "priljubljenost": 97,
         "koordinate": "46,37059°N 14,54963°E"
     },
     {
-        "id": 3381,
+        "id": 23379,
         "ime": "Planina Polšak",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1695,
         "priljubljenost": 68,
         "koordinate": "46,3691°N 14,69234°E"
     },
     {
-        "id": 3448,
+        "id": 23446,
         "ime": "Planina Dolga njiva (Krvavec)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1688,
         "priljubljenost": 82,
         "koordinate": "46,31438°N 14,54324°E"
     },
     {
-        "id": 3489,
+        "id": 23487,
         "ime": "Komen",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1684,
         "priljubljenost": 90,
         "koordinate": "46,4181°N 14,84637°E"
     },
     {
-        "id": 3181,
+        "id": 23179,
         "ime": "Dom na Krvavcu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1684,
         "priljubljenost": 90,
         "koordinate": "46,29635°N 14,52909°E"
     },
     {
-        "id": 3319,
+        "id": 23317,
         "ime": "Planina Koren",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1675,
         "priljubljenost": 84,
         "koordinate": "46,30716°N 14,54786°E"
     },
     {
-        "id": 3171,
+        "id": 23169,
         "ime": "Gradišče (Velika planina)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1666,
         "priljubljenost": 100,
         "koordinate": "46,29806°N 14,64394°E"
     },
     {
-        "id": 32737,
+        "id": 232735,
         "ime": "Kržišče (Pokovše)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1658,
         "priljubljenost": 32,
         "koordinate": "46,29044°N 14,54578°E"
     },
     {
-        "id": 3410,
+        "id": 23408,
         "ime": "Planina Rzenik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1654,
         "priljubljenost": 80,
         "koordinate": "46,32522°N 14,63784°E"
     },
     {
-        "id": 3374,
+        "id": 23372,
         "ime": "Koritni vrh (Velika planina)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1648,
         "priljubljenost": 83,
         "koordinate": "46,30623°N 14,64384°E"
     },
     {
-        "id": 3490,
+        "id": 23488,
         "ime": "Veliki Travnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1637,
         "priljubljenost": 82,
         "koordinate": "46,42311°N 14,81369°E"
     },
     {
-        "id": 3932,
+        "id": 23930,
         "ime": "Šentanski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1635,
         "priljubljenost": 83,
         "koordinate": "46,38222°N 14,25407°E"
     },
     {
-        "id": 3131,
+        "id": 23129,
         "ime": "Dobrča",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1634,
         "priljubljenost": 99,
         "koordinate": "46,38064°N 14,25266°E"
     },
     {
-        "id": 3283,
+        "id": 23281,
         "ime": "Kozji vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1628,
         "priljubljenost": 81,
         "koordinate": "46,36445°N 14,44617°E"
     },
     {
-        "id": 3488,
+        "id": 23486,
         "ime": "Krnes",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1613,
         "priljubljenost": 76,
         "koordinate": "46,42049°N 14,86778°E"
     },
     {
-        "id": 3949,
+        "id": 23947,
         "ime": "Gostišče Zeleni Rob",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1612,
         "priljubljenost": 88,
         "koordinate": "46,30038°N 14,64016°E"
     },
     {
-        "id": 32514,
+        "id": 232512,
         "ime": "Hotel Krvavec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1600,
         "priljubljenost": 34,
         "koordinate": "46,3008°N 14,526°E"
     },
     {
-        "id": 3247,
+        "id": 23245,
         "ime": "Planina Dolga njiva",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1600,
         "priljubljenost": 88,
         "koordinate": "46,33684°N 14,43331°E"
     },
     {
-        "id": 31501,
+        "id": 231499,
         "ime": "Planina Javorje",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1594,
         "priljubljenost": 61,
         "koordinate": "46,41176°N 14,7649°E"
     },
     {
-        "id": 3126,
+        "id": 23124,
         "ime": "Vrata",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1591,
         "priljubljenost": 77,
         "koordinate": "46,3531°N 14,34496°E"
     },
     {
-        "id": 3978,
+        "id": 23976,
         "ime": "Boskovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1587,
         "priljubljenost": 86,
         "koordinate": "46,38096°N 14,91099°E"
     },
     {
-        "id": 31290,
+        "id": 231288,
         "ime": "Kamniški Dedec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1583,
         "priljubljenost": 92,
         "koordinate": "46,33753°N 14,60341°E"
     },
     {
-        "id": 3487,
+        "id": 23485,
         "ime": "Smrekovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1577,
         "priljubljenost": 97,
         "koordinate": "46,41814°N 14,89881°E"
     },
     {
-        "id": 3599,
+        "id": 23597,
         "ime": "Medvedjak",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1573,
         "priljubljenost": 77,
         "koordinate": "46,36505°N 14,89062°E"
     },
     {
-        "id": 31347,
+        "id": 231345,
         "ime": "Planina Vodole",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1570,
         "priljubljenost": 66,
         "koordinate": "46,34459°N 14,67957°E"
     },
     {
-        "id": 31490,
+        "id": 231488,
         "ime": "Poljanski rob",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1569,
         "priljubljenost": 63,
         "koordinate": "46,28786°N 14,6528°E"
     },
     {
-        "id": 3460,
+        "id": 23458,
         "ime": "Planina Arta",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1564,
         "priljubljenost": 75,
         "koordinate": "46,40118°N 14,74573°E"
     },
     {
-        "id": 3308,
+        "id": 23306,
         "ime": "Planina Podvežak",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1564,
         "priljubljenost": 81,
         "koordinate": "46,33742°N 14,67525°E"
     },
     {
-        "id": 3170,
+        "id": 23168,
         "ime": "Kapela Marije Snežne (Velika planina)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1560,
         "priljubljenost": 92,
         "koordinate": "46,29515°N 14,6536°E"
     },
     {
-        "id": 3908,
+        "id": 23906,
         "ime": "Veliki Rogatec (Veliki Rogac)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1557,
         "priljubljenost": 92,
         "koordinate": "46,31974°N 14,74118°E"
     },
     {
-        "id": 3491,
+        "id": 23489,
         "ime": "Koča na Travniku",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1548,
         "priljubljenost": 88,
         "koordinate": "46,41585°N 14,8077°E"
     },
     {
-        "id": 3185,
+        "id": 23183,
         "ime": "Češka koča na Spodnjih Ravneh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1542,
         "priljubljenost": 99,
         "koordinate": "46,36982°N 14,53594°E"
     },
     {
-        "id": 32387,
+        "id": 232385,
         "ime": "Veliki vrh nad Matkovim kotom",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1539,
         "priljubljenost": 34,
         "koordinate": "46,39759°N 14,61645°E"
     },
     {
-        "id": 31073,
+        "id": 231071,
         "ime": "Logarska peč",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1536,
         "priljubljenost": 67,
         "koordinate": "46,40049°N 14,65121°E"
     },
     {
-        "id": 3411,
+        "id": 23409,
         "ime": "Koča na Loki pod Raduho",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1534,
         "priljubljenost": 91,
         "koordinate": "46,4093°N 14,75902°E"
     },
     {
-        "id": 3172,
+        "id": 23170,
         "ime": "Domžalski dom na Mali planini",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1534,
         "priljubljenost": 96,
         "koordinate": "46,28916°N 14,6566°E"
     },
     {
-        "id": 3136,
+        "id": 23134,
         "ime": "Dom na Kališču",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1534,
         "priljubljenost": 97,
         "koordinate": "46,33712°N 14,41698°E"
     },
     {
-        "id": 31237,
+        "id": 231235,
         "ime": "Mali Travnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1532,
         "priljubljenost": 56,
         "koordinate": "46,40944°N 14,80424°E"
     },
     {
-        "id": 3600,
+        "id": 23598,
         "ime": "Koča na Treh plotih",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1530,
         "priljubljenost": 75,
         "koordinate": "46,36933°N 14,88864°E"
     },
     {
-        "id": 3472,
+        "id": 23470,
         "ime": "Črnuški dom na Mali planini",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1526,
         "priljubljenost": 93,
         "koordinate": "46,2871°N 14,65794°E"
     },
     {
-        "id": 31072,
+        "id": 231070,
         "ime": "Icmanikova planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1520,
         "priljubljenost": 65,
         "koordinate": "46,4003°N 14,65285°E"
     },
     {
-        "id": 31071,
+        "id": 231069,
         "ime": "Knezova planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1520,
         "priljubljenost": 62,
         "koordinate": "46,39187°N 14,66106°E"
     },
     {
-        "id": 3239,
+        "id": 23237,
         "ime": "Jarški dom na Mali planini",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1520,
         "priljubljenost": 89,
         "koordinate": "46,2874°N 14,6607°E"
     },
     {
-        "id": 3447,
+        "id": 23445,
         "ime": "Vivodnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1508,
         "priljubljenost": 88,
         "koordinate": "46,25741°N 14,81634°E"
     },
     {
-        "id": 3373,
+        "id": 23371,
         "ime": "Planina Konjščica (Velika planina)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1505,
         "priljubljenost": 90,
         "koordinate": "46,31292°N 14,63795°E"
     },
     {
-        "id": 32120,
+        "id": 232118,
         "ime": "Planina Ravne",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1500,
         "priljubljenost": 68,
         "koordinate": "46,35°N 14,6992°E"
     },
     {
-        "id": 31238,
+        "id": 231236,
         "ime": "Planina Mali Travnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1500,
         "priljubljenost": 58,
         "koordinate": "46,40774°N 14,80554°E"
     },
     {
-        "id": 31454,
+        "id": 231452,
         "ime": "Špic",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1499,
         "priljubljenost": 64,
         "koordinate": "46,26402°N 14,82096°E"
     },
     {
-        "id": 3479,
-        "ime": "Jenkova planina",
-        "drzava": "Avstrija",
-        "gorovje": "Kamniško Savinjske Alpe",
-        "visina": 1495,
-        "priljubljenost": 78,
-        "koordinate": "46,3938°N 14,55216°E"
-    },
-    {
-        "id": 31065,
+        "id": 231063,
         "ime": "Dom na Gospincu (Hotel Rozka)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1491,
         "priljubljenost": 84,
         "koordinate": "46,29583°N 14,52243°E"
     },
     {
-        "id": 32203,
+        "id": 232201,
         "ime": "Kriška planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1480,
         "priljubljenost": 90,
         "koordinate": "46,2943°N 14,5359°E"
     },
     {
-        "id": 31235,
+        "id": 231233,
         "ime": "Grebenc",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1479,
         "priljubljenost": 62,
         "koordinate": "46,34736°N 14,37668°E"
     },
     {
-        "id": 3132,
+        "id": 23130,
         "ime": "Koča na Dobrči",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1478,
         "priljubljenost": 97,
         "koordinate": "46,3762°N 14,24629°E"
     },
     {
-        "id": 3123,
+        "id": 23121,
         "ime": "Koča na Kriški gori",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1471,
         "priljubljenost": 100,
         "koordinate": "46,35164°N 14,33335°E"
     },
     {
-        "id": 32289,
+        "id": 232287,
         "ime": "Javorca (Golte)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1465,
         "priljubljenost": 72,
         "koordinate": "46,37354°N 14,90979°E"
     },
     {
-        "id": 3617,
+        "id": 23615,
         "ime": "Koča na Grohatu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1460,
         "priljubljenost": 90,
         "koordinate": "46,42341°N 14,74327°E"
     },
     {
-        "id": 31725,
+        "id": 231723,
         "ime": "Visoki vrh nad Jezerskim",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1459,
         "priljubljenost": 75,
         "koordinate": "46,38517°N 14,52459°E"
     },
     {
-        "id": 3195,
+        "id": 23193,
         "ime": "Dom na Menini planini",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1453,
         "priljubljenost": 98,
         "koordinate": "46,26189°N 14,8194°E"
     },
     {
-        "id": 31612,
+        "id": 231610,
         "ime": "Račka vrata",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1450,
         "priljubljenost": 63,
         "koordinate": "Brez podatka"
     },
     {
-        "id": 3469,
+        "id": 23467,
         "ime": "Planina Kališče",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1450,
         "priljubljenost": 86,
         "koordinate": "46,33556°N 14,41563°E"
     },
     {
-        "id": 3133,
+        "id": 23131,
         "ime": "Lešanska planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1450,
         "priljubljenost": 82,
         "koordinate": "46,37843°N 14,25576°E"
     },
     {
-        "id": 3251,
+        "id": 23249,
         "ime": "Kranjska reber",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1435,
         "priljubljenost": 88,
         "koordinate": "46,2843°N 14,71112°E"
     },
     {
-        "id": 3269,
+        "id": 23267,
         "ime": "Javorov vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1434,
         "priljubljenost": 89,
         "koordinate": "46,32456°N 14,46385°E"
     },
     {
-        "id": 32583,
+        "id": 232581,
         "ime": "Turni (pri Kozjem vrhu)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1432,
         "priljubljenost": 24,
         "koordinate": "46,36603°N 14,4365°E"
     },
     {
-        "id": 3250,
+        "id": 23248,
         "ime": "Pri Pastirjih",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1430,
         "priljubljenost": 75,
         "koordinate": "46,3497°N 14,59503°E"
     },
     {
-        "id": 3484,
+        "id": 23482,
         "ime": "Goli vrh (Šavnice)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1426,
         "priljubljenost": 69,
         "koordinate": "46,24995°N 14,85598°E"
     },
     {
-        "id": 3351,
+        "id": 23349,
         "ime": "Lepenatka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1425,
         "priljubljenost": 94,
         "koordinate": "46,30991°N 14,74055°E"
     },
     {
-        "id": 32757,
+        "id": 232755,
         "ime": "Čisovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1419,
         "priljubljenost": 32,
         "koordinate": "46,40298°N 14,25054°E"
     },
     {
-        "id": 32641,
+        "id": 232639,
         "ime": "Planina Jezerca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1410,
         "priljubljenost": 36,
         "koordinate": "46,28454°N 14,53298°E"
     },
     {
-        "id": 3596,
+        "id": 23594,
         "ime": "Hotel Golte",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1410,
         "priljubljenost": 85,
         "koordinate": "46,36868°N 14,89525°E"
     },
     {
-        "id": 3209,
+        "id": 23207,
         "ime": "Velika Poljana",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1410,
         "priljubljenost": 89,
         "koordinate": "46,34632°N 14,37922°E"
     },
     {
-        "id": 31726,
+        "id": 231724,
         "ime": "Javornik nad Jezerskim",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1399,
         "priljubljenost": 71,
         "koordinate": "46,3888°N 14,5202°E"
     },
     {
-        "id": 3169,
+        "id": 23167,
         "ime": "Dom na Okrešlju",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1396,
         "priljubljenost": 97,
         "koordinate": "46,36951°N 14,58767°E"
     },
     {
-        "id": 3530,
+        "id": 23528,
         "ime": "Krničarjeva koča na planini Javornik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1390,
         "priljubljenost": 82,
         "koordinate": "46,3442°N 14,38924°E"
     },
     {
-        "id": 3339,
+        "id": 23337,
         "ime": "Praprotnikova koča",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1380,
         "priljubljenost": 72,
         "koordinate": "46,35009°N 14,41908°E"
     },
     {
-        "id": 3486,
+        "id": 23484,
         "ime": "Dom na Smrekovcu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1375,
         "priljubljenost": 94,
         "koordinate": "46,41327°N 14,90004°E"
     },
     {
-        "id": 3595,
+        "id": 23593,
         "ime": "Mozirska koča na Golteh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1356,
         "priljubljenost": 92,
         "koordinate": "46,37134°N 14,90419°E"
     },
     {
-        "id": 31503,
+        "id": 231501,
         "ime": "Knezova planina (Planina Bela peč)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1350,
         "priljubljenost": 51,
         "koordinate": "46,42818°N 14,7811°E"
     },
     {
-        "id": 3372,
+        "id": 23370,
         "ime": "Slap Čedca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1350,
         "priljubljenost": 87,
         "koordinate": "46,3705°N 14,52039°E"
     },
     {
-        "id": 32599,
+        "id": 232597,
         "ime": "Kunšperski vrh (Brezovec)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1336,
         "priljubljenost": 22,
         "koordinate": "46,3092°N 14,7262°E"
     },
     {
-        "id": 32638,
+        "id": 232636,
         "ime": "Povšnarjeva planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1330,
         "priljubljenost": 24,
         "koordinate": "46,3566°N 14,4919°E"
     },
     {
-        "id": 31287,
+        "id": 231285,
         "ime": "Zavetišče v Hudičevem borštu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1328,
         "priljubljenost": 93,
         "koordinate": "46,32839°N 14,4411°E"
     },
     {
-        "id": 33134,
+        "id": 233132,
         "ime": "Izletniška kmetija Bukovc (Bukovnik)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1327,
         "priljubljenost": 30,
         "koordinate": "46,43178°N 14,73474°E"
     },
     {
-        "id": 31144,
+        "id": 231142,
         "ime": "Bezovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1326,
         "priljubljenost": 52,
         "koordinate": "46,40655°N 14,8405°E"
     },
     {
-        "id": 3210,
+        "id": 23208,
         "ime": "Mala Poljana",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1325,
         "priljubljenost": 85,
         "koordinate": "46,34862°N 14,3729°E"
     },
     {
-        "id": 31502,
+        "id": 231500,
         "ime": "Planina Vodol",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1324,
         "priljubljenost": 50,
         "koordinate": "46,4257°N 14,7756°E"
     },
     {
-        "id": 32637,
+        "id": 232635,
         "ime": "Ovča koča",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1323,
         "priljubljenost": 29,
         "koordinate": "46,3667°N 14,4915°E"
     },
     {
-        "id": 32662,
+        "id": 232660,
         "ime": "Plesnikova planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1319,
         "priljubljenost": 31,
         "koordinate": "46,3914°N 14,6436°E"
     },
     {
-        "id": 3252,
+        "id": 23250,
         "ime": "Kašna planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1317,
         "priljubljenost": 85,
         "koordinate": "46,29°N 14,7177°E"
     },
     {
-        "id": 31263,
+        "id": 231261,
         "ime": "Planina Dol",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1308,
         "priljubljenost": 80,
         "koordinate": "46,31732°N 14,63289°E"
     },
     {
-        "id": 31526,
+        "id": 231524,
         "ime": "Lovska koča Črnevka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1300,
         "priljubljenost": 45,
         "koordinate": "Brez podatka"
     },
     {
-        "id": 3187,
+        "id": 23185,
         "ime": "Zavetišče na Biba planini",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1300,
         "priljubljenost": 80,
         "koordinate": "46,24369°N 14,84021°E"
     },
     {
-        "id": 32636,
+        "id": 232634,
         "ime": "Murijeva planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1289,
         "priljubljenost": 29,
         "koordinate": "46,3804°N 14,48989°E"
     },
     {
-        "id": 3352,
+        "id": 23350,
         "ime": "Bivak na Kalu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1285,
         "priljubljenost": 72,
         "koordinate": "46,31516°N 14,73958°E"
     },
     {
-        "id": 3499,
+        "id": 23497,
         "ime": "Potoška gora",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1283,
         "priljubljenost": 88,
         "koordinate": "46,31541°N 14,45343°E"
     },
     {
-        "id": 31727,
+        "id": 231725,
         "ime": "Skubrov vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1276,
         "priljubljenost": 51,
         "koordinate": "46,39586°N 14,51951°E"
     },
     {
-        "id": 3191,
+        "id": 23189,
         "ime": "Dom na Kisovcu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1275,
         "priljubljenost": 90,
         "koordinate": "46,27358°N 14,65779°E"
     },
     {
-        "id": 3353,
+        "id": 23351,
         "ime": "Kamniški vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1259,
         "priljubljenost": 98,
         "koordinate": "46,2879°N 14,57977°E"
     },
     {
-        "id": 31246,
+        "id": 231244,
         "ime": "Planjava pri Kamniškem vrhu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1243,
         "priljubljenost": 61,
         "koordinate": "46,28815°N 14,57222°E"
     },
     {
-        "id": 31728,
+        "id": 231726,
         "ime": "Turni",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1240,
         "priljubljenost": 53,
         "koordinate": "46,39743°N 14,51659°E"
     },
     {
-        "id": 32600,
+        "id": 232598,
         "ime": "Mali Rogatec (Mali Rogac)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1228,
         "priljubljenost": 29,
         "koordinate": "46,31359°N 14,72091°E"
     },
     {
-        "id": 31236,
+        "id": 231234,
         "ime": "Partizanska bolnica Mrzle vode",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1226,
         "priljubljenost": 60,
         "koordinate": "46,41582°N 14,83113°E"
     },
     {
-        "id": 32386,
+        "id": 232384,
         "ime": "Planina Marjanine njive",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1220,
         "priljubljenost": 35,
         "koordinate": "46,2939°N 14,677°E"
     },
     {
-        "id": 3621,
+        "id": 23619,
         "ime": "Koča na Klemenči jami",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1208,
         "priljubljenost": 92,
         "koordinate": "46,37847°N 14,63367°E"
     },
     {
-        "id": 32738,
+        "id": 232736,
         "ime": "Ojstri vrh (nad Prevalo)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1197,
         "priljubljenost": 29,
         "koordinate": "46,2553°N 14,7449°E"
     },
     {
-        "id": 32305,
+        "id": 232303,
         "ime": "Kopa (Belska Kopa)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1180,
         "priljubljenost": 62,
         "koordinate": "46,32205°N 14,61143°E"
     },
     {
-        "id": 31867,
+        "id": 231865,
         "ime": "Planina Travnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1180,
         "priljubljenost": 62,
         "koordinate": "46,2546°N 14,772°E"
     },
     {
-        "id": 31239,
+        "id": 231237,
         "ime": "Počka (Robnikova) planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1165,
         "priljubljenost": 59,
         "koordinate": "46,40323°N 14,81937°E"
     },
     {
-        "id": 31917,
+        "id": 231915,
         "ime": "Prevala",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1163,
         "priljubljenost": 77,
         "koordinate": "46,2523°N 14,7509°E"
     },
     {
-        "id": 32949,
+        "id": 232947,
         "ime": "Škrbina (Slaparjeva gora)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1142,
         "priljubljenost": 29,
         "koordinate": "46,3125°N 14,491°E"
     },
     {
-        "id": 33161,
+        "id": 233159,
         "ime": "Pleče",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1131,
         "priljubljenost": 25,
         "koordinate": "46,393°N 14,1952°E"
     },
     {
-        "id": 3192,
+        "id": 23190,
         "ime": "Dom pod Storžičem",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1123,
         "priljubljenost": 93,
         "koordinate": "46,35928°N 14,38986°E"
     },
     {
-        "id": 31151,
+        "id": 231149,
         "ime": "Smokuški vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1122,
         "priljubljenost": 87,
         "koordinate": "46,39392°N 14,18661°E"
     },
     {
-        "id": 3168,
+        "id": 23166,
         "ime": "Orlovo gnezdo (Slap Rinka)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1120,
         "priljubljenost": 90,
         "koordinate": "46,37084°N 14,59344°E"
     },
     {
-        "id": 31286,
+        "id": 231284,
         "ime": "Baba",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1119,
         "priljubljenost": 79,
         "koordinate": "46,31047°N 14,46327°E"
     },
     {
-        "id": 32512,
+        "id": 232510,
         "ime": "Mihčeva kopišča",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1100,
         "priljubljenost": 30,
         "koordinate": "46,3116°N 14,4535°E"
     },
     {
-        "id": 31644,
+        "id": 231642,
         "ime": "Breška planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1100,
         "priljubljenost": 62,
         "koordinate": "46,3804°N 14,2695°E"
     },
     {
-        "id": 3354,
+        "id": 23352,
         "ime": "Planina Osredek",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1100,
         "priljubljenost": 81,
         "koordinate": "46,28958°N 14,56007°E"
     },
     {
-        "id": 31997,
+        "id": 231995,
         "ime": "Mešenik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1099,
         "priljubljenost": 49,
         "koordinate": "46,3259°N 14,5996°E"
     },
     {
-        "id": 32640,
+        "id": 232638,
         "ime": "Ambrož pod Krvavcem",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1085,
         "priljubljenost": 36,
         "koordinate": "46,275°N 14,5293°E"
     },
     {
-        "id": 31134,
+        "id": 231132,
         "ime": "Tolsti vrh (Dobrovlje)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1077,
         "priljubljenost": 69,
         "koordinate": "46,27319°N 14,92915°E"
     },
     {
-        "id": 31866,
+        "id": 231864,
         "ime": "Planina Ravni",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1075,
         "priljubljenost": 54,
         "koordinate": "46,2548°N 14,7532°E"
     },
     {
-        "id": 31643,
+        "id": 231641,
         "ime": "Bistriška planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1057,
         "priljubljenost": 85,
         "koordinate": "46,38024°N 14,2748°E"
     },
     {
-        "id": 32633,
+        "id": 232631,
         "ime": "Sveti Križ nad Belimi Vodami",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1054,
         "priljubljenost": 34,
         "koordinate": "46,4034°N 14,9496°E"
     },
     {
-        "id": 3541,
+        "id": 23539,
         "ime": "Vaško",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1046,
         "priljubljenost": 67,
         "koordinate": "46,3658°N 14,273°E"
     },
     {
-        "id": 32630,
+        "id": 232628,
         "ime": "Kopa (Partizanski vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1024,
         "priljubljenost": 33,
         "koordinate": "46,29186°N 14,49333°E"
     },
     {
-        "id": 33091,
+        "id": 233089,
         "ime": "Prgozdnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1013,
         "priljubljenost": 23,
         "koordinate": "46,2695°N 14,5326°E"
     },
     {
-        "id": 31405,
+        "id": 231403,
         "ime": "Smolnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 1002,
         "priljubljenost": 56,
         "koordinate": "46,25264°N 14,89098°E"
     },
     {
-        "id": 31681,
+        "id": 231679,
         "ime": "Vrhe",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 965,
         "priljubljenost": 53,
         "koordinate": "46,2793°N 14,96372°E"
     },
     {
-        "id": 3240,
+        "id": 23238,
         "ime": "Planinska koča Iskra na Jakobu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 961,
         "priljubljenost": 92,
         "koordinate": "46,31517°N 14,44093°E"
     },
     {
-        "id": 31133,
+        "id": 231131,
         "ime": "Sveti Jošt nad Vranskim",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 955,
         "priljubljenost": 60,
         "koordinate": "46,26107°N 14,90847°E"
     },
     {
-        "id": 31682,
+        "id": 231680,
         "ime": "Sveta Mati Božja na Čreti",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 944,
         "priljubljenost": 52,
         "koordinate": "46,2789°N 14,9609°E"
     },
     {
-        "id": 31452,
+        "id": 231450,
         "ime": "Sveti Ahac (Kališe)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 941,
         "priljubljenost": 56,
         "koordinate": "46,2646°N 14,6817°E"
     },
     {
-        "id": 32073,
+        "id": 232071,
         "ime": "Vovar",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 940,
         "priljubljenost": 63,
         "koordinate": "46,25341°N 14,64641°E"
     },
     {
-        "id": 3498,
+        "id": 23496,
         "ime": "Planinska koča pri Franciju",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 930,
         "priljubljenost": 72,
         "koordinate": "46,31512°N 14,43872°E"
     },
     {
-        "id": 3446,
+        "id": 23444,
         "ime": "Sveti Lenart nad Gornjim Gradom",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 929,
         "priljubljenost": 70,
         "koordinate": "46,31282°N 14,75306°E"
     },
     {
-        "id": 32989,
+        "id": 232987,
         "ime": "Planica (vzletišče Gozd)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 926,
         "priljubljenost": 28,
         "koordinate": "46,3396°N 14,3314°E"
     },
     {
-        "id": 32224,
+        "id": 232222,
         "ime": "Matkov kot",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 920,
         "priljubljenost": 83,
         "koordinate": "46,401°N 14,6066°E"
     },
     {
-        "id": 32631,
+        "id": 232629,
         "ime": "Skutman",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 911,
         "priljubljenost": 31,
         "koordinate": "46,2962°N 14,4857°E"
     },
     {
-        "id": 31976,
+        "id": 231974,
         "ime": "Grmada (Dobrovlje)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 898,
         "priljubljenost": 56,
         "koordinate": "46,28071°N 14,99014°E"
     },
     {
-        "id": 3581,
+        "id": 23579,
         "ime": "Sveti Lovrenc (Bašelj)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 892,
         "priljubljenost": 79,
         "koordinate": "46,32672°N 14,39263°E"
     },
     {
-        "id": 3122,
+        "id": 23120,
         "ime": "Zavetišče v Gozdu",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 891,
         "priljubljenost": 81,
         "koordinate": "46,34079°N 14,32825°E"
     },
     {
-        "id": 3618,
+        "id": 23616,
         "ime": "Robanova planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 890,
         "priljubljenost": 75,
         "koordinate": "46,37655°N 14,66624°E"
     },
     {
-        "id": 32756,
+        "id": 232754,
         "ime": "Lomek (Lom)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 884,
         "priljubljenost": 30,
         "koordinate": "Brez podatka"
     },
     {
-        "id": 3619,
+        "id": 23617,
         "ime": "Sveti Primož nad Ljubnim",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 883,
         "priljubljenost": 71,
         "koordinate": "46,36301°N 14,82129°E"
     },
     {
-        "id": 32360,
+        "id": 232358,
         "ime": "Gradišče (Pustinjak)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 871,
         "priljubljenost": 64,
         "koordinate": "46,3306°N 14,3995°E"
     },
     {
-        "id": 3820,
+        "id": 23818,
         "ime": "Dom na Čreti",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 870,
         "priljubljenost": 87,
         "koordinate": "46,27682°N 14,95921°E"
     },
     {
-        "id": 3359,
+        "id": 23357,
         "ime": "Slap Orglice",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 870,
         "priljubljenost": 90,
         "koordinate": "46,33318°N 14,61868°E"
     },
     {
-        "id": 31150,
+        "id": 231148,
         "ime": "Sankaška koča",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 867,
         "priljubljenost": 83,
         "koordinate": "46,38512°N 14,18935°E"
     },
     {
-        "id": 32627,
+        "id": 232625,
         "ime": "Mali vrh nad Završnico",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 863,
         "priljubljenost": 32,
         "koordinate": "46,4033°N 14,1521°E"
     },
     {
-        "id": 31975,
+        "id": 231973,
         "ime": "Sveti Janez in Pavel (Dobrovlje)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 862,
         "priljubljenost": 50,
         "koordinate": "46,2833°N 14,9873°E"
     },
     {
-        "id": 3580,
+        "id": 23578,
         "ime": "Dom na Lovrencu (Bašelj)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 860,
         "priljubljenost": 84,
         "koordinate": "46,3252°N 14,39183°E"
     },
     {
-        "id": 31972,
+        "id": 231970,
         "ime": "Bezovec (Dobrovlje)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 857,
         "priljubljenost": 50,
         "koordinate": "46,2976°N 15,005°E"
     },
     {
-        "id": 33445,
+        "id": 233443,
         "ime": "Sveti Vid (nad Zgornjim Tuhinjem)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 846,
         "priljubljenost": 11,
         "koordinate": "46,23085°N 14,77641°E"
     },
     {
-        "id": 33451,
+        "id": 233449,
         "ime": "Cerkev sv. Petra nad Črno pri Kamniku",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 845,
         "priljubljenost": 22,
         "koordinate": "46,2694°N 14,63363°E"
     },
     {
-        "id": 33154,
+        "id": 233152,
         "ime": "Zapečnikova planina",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 840,
         "priljubljenost": 19,
         "koordinate": "46,29601°N 14,48403°E"
     },
     {
-        "id": 31149,
+        "id": 231147,
         "ime": "Sveti Peter nad Begunjami",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 839,
         "priljubljenost": 83,
         "koordinate": "46,38291°N 14,19363°E"
     },
     {
-        "id": 3270,
+        "id": 23268,
         "ime": "Dom Čemšenik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 835,
         "priljubljenost": 82,
         "koordinate": "46,31488°N 14,46799°E"
     },
     {
-        "id": 3546,
+        "id": 23544,
         "ime": "Sveti Primož nad Kamnikom",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 826,
         "priljubljenost": 95,
         "koordinate": "46,2691°N 14,6338°E"
     },
     {
-        "id": 3897,
+        "id": 23895,
         "ime": "Korošaški slapovi",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 800,
         "priljubljenost": 81,
         "koordinate": "46,2851°N 14,56286°E"
     },
     {
-        "id": 33251,
+        "id": 233249,
         "ime": "Razgledišče Skroti",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 787,
         "priljubljenost": 24,
         "koordinate": "46,258°N 14,6485°E"
     },
     {
-        "id": 31916,
+        "id": 231914,
         "ime": "Sveti Miklavž na Gori",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 757,
         "priljubljenost": 73,
         "koordinate": "46,2332°N 14,7311°E"
     },
     {
-        "id": 3718,
+        "id": 23716,
         "ime": "Tominčev slap",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 750,
         "priljubljenost": 74,
         "koordinate": "46,39348°N 14,25416°E"
     },
     {
-        "id": 31232,
+        "id": 231230,
         "ime": "Štefanja gora",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 748,
         "priljubljenost": 89,
         "koordinate": "46,2832°N 14,46567°E"
     },
     {
-        "id": 31974,
+        "id": 231972,
         "ime": "Dom na Dobrovljah",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 745,
         "priljubljenost": 55,
         "koordinate": "46,3009°N 14,9965°E"
     },
     {
-        "id": 31453,
+        "id": 231451,
         "ime": "Sveti Florjan nad Gornjim Gradom",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 743,
         "priljubljenost": 52,
         "koordinate": "46,2913°N 14,8184°E"
     },
     {
-        "id": 32460,
+        "id": 232458,
         "ime": "Apnišče",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 740,
         "priljubljenost": 33,
         "koordinate": "46,28817°N 14,46133°E"
     },
     {
-        "id": 3852,
+        "id": 23850,
         "ime": "Gora Oljka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 733,
         "priljubljenost": 95,
         "koordinate": "46,32561°N 15,05918°E"
     },
     {
-        "id": 31075,
+        "id": 231073,
         "ime": "Slap Palenk",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 730,
         "priljubljenost": 66,
         "koordinate": "46,39805°N 14,63277°E"
     },
     {
-        "id": 33260,
+        "id": 233258,
         "ime": "Stiška vas",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 725,
         "priljubljenost": 20,
         "koordinate": "46,2768°N 14,5066°E"
     },
     {
-        "id": 31451,
+        "id": 231449,
         "ime": "Sveti Lovrenc nad Zabreznico",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 725,
         "priljubljenost": 65,
         "koordinate": "46,4021°N 14,1516°E"
     },
     {
-        "id": 33079,
+        "id": 233077,
         "ime": "Jamna peč",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 720,
         "priljubljenost": 25,
         "koordinate": "46,2963°N 14,4545°E"
     },
     {
-        "id": 32797,
+        "id": 232795,
         "ime": "Vrholanov vrh (Ravne pri Šoštanju)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 710,
         "priljubljenost": 22,
         "koordinate": "Brez podatka"
     },
     {
-        "id": 31135,
+        "id": 231133,
         "ime": "Dom planincev Farbanca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 702,
         "priljubljenost": 57,
         "koordinate": "46,28437°N 14,93922°E"
     },
     {
-        "id": 32632,
+        "id": 232630,
         "ime": "Sveti Nikolaj (Možjanca)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 689,
         "priljubljenost": 31,
         "koordinate": "46,2947°N 14,4506°E"
     },
     {
-        "id": 33449,
+        "id": 233447,
         "ime": "Spominski park v Kamniški Bistrici",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 680,
         "priljubljenost": 15,
         "koordinate": "46,32941°N 14,57756°E"
     },
     {
-        "id": 33351,
+        "id": 233349,
         "ime": "Sveta Neža (Brezje pri Tržiču)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 677,
         "priljubljenost": 15,
         "koordinate": "46,35856°N 14,27741°E"
     },
     {
-        "id": 3933,
+        "id": 23931,
         "ime": "Sveti Jurij nad Tržičem",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 673,
         "priljubljenost": 50,
         "koordinate": "46,35947°N 14,28842°E"
     },
     {
-        "id": 32495,
+        "id": 232493,
         "ime": "Šenturška Gora",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 671,
         "priljubljenost": 35,
         "koordinate": "46,2577°N 14,5439°E"
     },
     {
-        "id": 32928,
+        "id": 232926,
         "ime": "Grad Gutenberk (Hudi grad)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 663,
         "priljubljenost": 25,
         "koordinate": "46,362°N 14,2886°E"
     },
     {
-        "id": 32363,
+        "id": 232361,
         "ime": "Sv. Miklavž nad Mačami",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 651,
         "priljubljenost": 56,
         "koordinate": "46,3166°N 14,4134°E"
     },
     {
-        "id": 32413,
+        "id": 232411,
         "ime": "Novi grad (Pusti grad)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 630,
         "priljubljenost": 29,
         "koordinate": "46,31015°N 14,43294°E"
     },
     {
-        "id": 31148,
+        "id": 231146,
         "ime": "Grad Kamen",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 620,
         "priljubljenost": 64,
         "koordinate": "46,38178°N 14,21745°E"
     },
     {
-        "id": 32416,
+        "id": 232414,
         "ime": "Brezovec",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 617,
         "priljubljenost": 29,
         "koordinate": "46,3342°N 15,0575°E"
     },
     {
-        "id": 31440,
+        "id": 231438,
         "ime": "Dom v Kamniški Bistrici",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 600,
         "priljubljenost": 82,
         "koordinate": "46,3276°N 14,5893°E"
     },
     {
-        "id": 32896,
+        "id": 232894,
         "ime": "Koželj",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 590,
         "priljubljenost": 34,
         "koordinate": "46,34785°N 15,12635°E"
     },
     {
-        "id": 33514,
+        "id": 233512,
         "ime": "Veliko Gradišče",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 587,
         "priljubljenost": 6,
         "koordinate": "46,35684°N 15,08825°E"
     },
     {
-        "id": 3497,
+        "id": 23495,
         "ime": "Senčnica Josipine Turnograjske",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 570,
         "priljubljenost": 63,
         "koordinate": "46,30697°N 14,43367°E"
     },
     {
-        "id": 3888,
+        "id": 23886,
         "ime": "Planinski dom Šentjungert",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 565,
         "priljubljenost": 79,
         "koordinate": "46,29863°N 15,21759°E"
     },
     {
-        "id": 33072,
+        "id": 233070,
         "ime": "Sevčnik",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 562,
         "priljubljenost": 22,
         "koordinate": "46,3158°N 15,1102°E"
     },
     {
-        "id": 33513,
+        "id": 233511,
         "ime": "Malo Gradišče",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 536,
         "priljubljenost": 4,
         "koordinate": "46,35625°N 15,09857°E"
     },
     {
-        "id": 33512,
+        "id": 233510,
         "ime": "Sveti Jakob (Jakec)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 528,
         "priljubljenost": 8,
         "koordinate": "46,35785°N 15,09313°E"
     },
     {
-        "id": 33114,
+        "id": 233112,
         "ime": "Kriva jelka",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 528,
         "priljubljenost": 27,
         "koordinate": "46,30961°N 14,31246°E"
     },
     {
-        "id": 33364,
+        "id": 233362,
         "ime": "Brunški vrh",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 511,
         "priljubljenost": 11,
         "koordinate": "46,34542°N 15,07391°E"
     },
     {
-        "id": 32843,
+        "id": 232841,
         "ime": "Mokrišče Blata",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 505,
         "priljubljenost": 20,
         "koordinate": "46,3321°N 14,3067°E"
     },
     {
-        "id": 32831,
+        "id": 232829,
         "ime": "Sebenje",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 500,
         "priljubljenost": 17,
         "koordinate": "46,3304°N 14,2993°E"
     },
     {
-        "id": 33236,
+        "id": 233234,
         "ime": "Lipnik (pri Velenju)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 486,
         "priljubljenost": 16,
         "koordinate": "46,3252°N 15,1743°E"
     },
     {
-        "id": 32764,
+        "id": 232762,
         "ime": "Bazilika Marije Pomagaj na Brezjah",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 486,
         "priljubljenost": 28,
         "koordinate": "46,329°N 14,2323°E"
     },
     {
-        "id": 32165,
+        "id": 232163,
         "ime": "Sveta Ana (Tunjice)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 475,
         "priljubljenost": 64,
         "koordinate": "46,2314°N 14,5777°E"
     },
     {
-        "id": 33152,
+        "id": 233150,
         "ime": "V Boštkú",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 466,
         "priljubljenost": 15,
         "koordinate": "46,2897°N 14,2699°E"
     },
     {
-        "id": 33062,
+        "id": 233060,
         "ime": "Vinski vrh (Vimperk)",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 448,
         "priljubljenost": 28,
         "koordinate": "46,292°N 15,0653°E"
     },
     {
-        "id": 32876,
+        "id": 232874,
         "ime": "Grad Velenje",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 442,
         "priljubljenost": 23,
         "koordinate": "46,3566°N 15,1099°E"
     },
     {
-        "id": 32762,
+        "id": 232760,
         "ime": "Slap Peračica",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 430,
         "priljubljenost": 35,
         "koordinate": "46,3402°N 14,2255°E"
     },
     {
-        "id": 32330,
+        "id": 232328,
         "ime": "Šobčev bajer",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 426,
         "priljubljenost": 71,
         "koordinate": "46,3538°N 14,1509°E"
     },
     {
-        "id": 33115,
+        "id": 233113,
         "ime": "Turistična kmetija Trnovc",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 412,
         "priljubljenost": 19,
         "koordinate": "46,3035°N 14,2864°E"
     },
     {
-        "id": 31680,
+        "id": 231678,
         "ime": "Grad Žovnek",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 409,
         "priljubljenost": 69,
         "koordinate": "46,2763°N 15,0041°E"
     },
     {
-        "id": 32829,
+        "id": 232827,
         "ime": "Šoštanj",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 358,
         "priljubljenost": 26,
         "koordinate": "46,3774°N 15,0485°E"
     },
     {
-        "id": 32453,
+        "id": 232451,
         "ime": "Planinski dom Milana Šinkovca",
-        "drzava": "Slovenija",
         "gorovje": "Kamniško Savinjske Alpe",
         "visina": 345,
         "priljubljenost": 31,

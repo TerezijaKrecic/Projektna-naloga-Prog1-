@@ -2,25 +2,14 @@
     {
         "id": 11,
         "ime": "Triglav",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2864,
         "priljubljenost": 100,
         "koordinate": "46,37832°N 13,83648°E"
     },
     {
-        "id": 1629,
-        "ime": "Montaž / Jôf di Montasio",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2753,
-        "priljubljenost": 98,
-        "koordinate": "46,43577°N 13,43405°E"
-    },
-    {
         "id": 12,
         "ime": "Škrlatica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2740,
         "priljubljenost": 99,
@@ -29,43 +18,14 @@
     {
         "id": 13,
         "ime": "Mali Triglav",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2725,
         "priljubljenost": 92,
         "koordinate": "46,37683°N 13,84315°E"
     },
     {
-        "id": 14,
-        "ime": "Mangart",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2679,
-        "priljubljenost": 99,
-        "koordinate": "46,43948°N 13,65457°E"
-    },
-    {
-        "id": 11041,
-        "ime": "Viš/Jof Fuart",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2666,
-        "priljubljenost": 96,
-        "koordinate": "46,42996°N 13,49155°E"
-    },
-    {
-        "id": 11344,
-        "ime": "Vrh Brda / Cima Verde",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2661,
-        "priljubljenost": 85,
-        "koordinate": "46,43329°N 13,44233°E"
-    },
-    {
         "id": 15,
         "ime": "Visoki Rokav",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2646,
         "priljubljenost": 91,
@@ -74,7 +34,6 @@
     {
         "id": 16,
         "ime": "Jalovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2645,
         "priljubljenost": 99,
@@ -83,7 +42,6 @@
     {
         "id": 17,
         "ime": "Veliki Oltar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2621,
         "priljubljenost": 94,
@@ -92,7 +50,6 @@
     {
         "id": 18,
         "ime": "Velika Martuljška Ponca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2602,
         "priljubljenost": 91,
@@ -101,7 +58,6 @@
     {
         "id": 19,
         "ime": "Razor",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2601,
         "priljubljenost": 98,
@@ -110,34 +66,14 @@
     {
         "id": 110,
         "ime": "Dolkova špica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2591,
         "priljubljenost": 95,
         "koordinate": "46,42574°N 13,81467°E"
     },
     {
-        "id": 112,
-        "ime": "Visoki Kanin",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2587,
-        "priljubljenost": 96,
-        "koordinate": "46,36018°N 13,439°E"
-    },
-    {
-        "id": 113,
-        "ime": "Mali Kanin",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2571,
-        "priljubljenost": 85,
-        "koordinate": "46,35727°N 13,43765°E"
-    },
-    {
         "id": 11544,
         "ime": "Kanjavec (Zahodni vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2569,
         "priljubljenost": 78,
@@ -146,7 +82,6 @@
     {
         "id": 114,
         "ime": "Kanjavec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2569,
         "priljubljenost": 97,
@@ -155,7 +90,6 @@
     {
         "id": 117,
         "ime": "Glava v Zaplanji",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2556,
         "priljubljenost": 85,
@@ -164,7 +98,6 @@
     {
         "id": 119,
         "ime": "Rogljica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2547,
         "priljubljenost": 80,
@@ -173,7 +106,6 @@
     {
         "id": 118,
         "ime": "Prisank / Prisojnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2547,
         "priljubljenost": 99,
@@ -182,7 +114,6 @@
     {
         "id": 13178,
         "ime": "Rakova Špica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2545,
         "priljubljenost": 34,
@@ -191,7 +122,6 @@
     {
         "id": 122,
         "ime": "Dovški križ",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2542,
         "priljubljenost": 93,
@@ -200,7 +130,6 @@
     {
         "id": 12990,
         "ime": "Kredarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2541,
         "priljubljenost": 36,
@@ -209,7 +138,6 @@
     {
         "id": 126,
         "ime": "Rž",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2538,
         "priljubljenost": 90,
@@ -218,25 +146,14 @@
     {
         "id": 127,
         "ime": "Rjavina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2532,
         "priljubljenost": 97,
         "koordinate": "46,39185°N 13,88088°E"
     },
     {
-        "id": 11342,
-        "ime": "Špik nad Nosom / Foronon del Buinz",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2531,
-        "priljubljenost": 89,
-        "koordinate": "46,41788°N 13,46558°E"
-    },
-    {
         "id": 1105,
         "ime": "Morbegna",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2520,
         "priljubljenost": 90,
@@ -245,25 +162,14 @@
     {
         "id": 123,
         "ime": "Triglavski dom na Kredarici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2515,
         "priljubljenost": 98,
         "koordinate": "46,37891°N 13,84928°E"
     },
     {
-        "id": 11282,
-        "ime": "Koštrunove špice",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2502,
-        "priljubljenost": 86,
-        "koordinate": "46,42243°N 13,48655°E"
-    },
-    {
         "id": 11382,
         "ime": "Mala Martuljška Ponca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2501,
         "priljubljenost": 82,
@@ -272,7 +178,6 @@
     {
         "id": 133,
         "ime": "Stenar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2501,
         "priljubljenost": 97,
@@ -281,25 +186,14 @@
     {
         "id": 12248,
         "ime": "Spodnji Rokav",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2500,
         "priljubljenost": 73,
         "koordinate": "46,43063°N 13,82878°E"
     },
     {
-        "id": 135,
-        "ime": "Prestreljenik",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2499,
-        "priljubljenost": 92,
-        "koordinate": "46,36214°N 13,47237°E"
-    },
-    {
         "id": 11381,
         "ime": "Široka peč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2497,
         "priljubljenost": 85,
@@ -308,7 +202,6 @@
     {
         "id": 11546,
         "ime": "Poprovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2496,
         "priljubljenost": 76,
@@ -317,7 +210,6 @@
     {
         "id": 11545,
         "ime": "Teme (Hribarice)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2495,
         "priljubljenost": 75,
@@ -326,7 +218,6 @@
     {
         "id": 140,
         "ime": "Veliki Ozebnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2480,
         "priljubljenost": 85,
@@ -335,7 +226,6 @@
     {
         "id": 143,
         "ime": "Špik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2472,
         "priljubljenost": 99,
@@ -344,7 +234,6 @@
     {
         "id": 146,
         "ime": "Mišeljski Konec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2464,
         "priljubljenost": 84,
@@ -353,7 +242,6 @@
     {
         "id": 148,
         "ime": "Begunjski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2461,
         "priljubljenost": 92,
@@ -362,61 +250,30 @@
     {
         "id": 1423,
         "ime": "Planja",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2453,
         "priljubljenost": 90,
         "koordinate": "46,40712°N 13,78739°E"
     },
     {
-        "id": 13597,
-        "ime": "Vrh Laške Planje",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2448,
-        "priljubljenost": 14,
-        "koordinate": "46,3441°N 13,44424°E"
-    },
-    {
         "id": 11540,
         "ime": "Vršaki (Vzhodni vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2448,
         "priljubljenost": 71,
         "koordinate": "46,3507°N 13,808°E"
     },
     {
-        "id": 11373,
-        "ime": "Vrh Krnice",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2441,
-        "priljubljenost": 74,
-        "koordinate": "46,3652°N 13,43339°E"
-    },
-    {
         "id": 11543,
         "ime": "Vršaki (Južni vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2431,
         "priljubljenost": 61,
         "koordinate": "46,3475°N 13,8024°E"
     },
     {
-        "id": 11339,
-        "ime": "Bivak Suringar",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2430,
-        "priljubljenost": 72,
-        "koordinate": "46,43675°N 13,42831°E"
-    },
-    {
         "id": 1402,
         "ime": "Kukova špica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2427,
         "priljubljenost": 94,
@@ -425,7 +282,6 @@
     {
         "id": 11541,
         "ime": "Vršaki (Srednji vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2424,
         "priljubljenost": 69,
@@ -434,43 +290,22 @@
     {
         "id": 11542,
         "ime": "Vršaki (Vrh za Koritami)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2422,
         "priljubljenost": 57,
         "koordinate": "46,3488°N 13,8029°E"
     },
     {
-        "id": 11053,
-        "ime": "Špik Hude police / Cima di Terrarossa",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2420,
-        "priljubljenost": 96,
-        "koordinate": "46,4266°N 13,45217°E"
-    },
-    {
         "id": 11052,
         "ime": "Pihavec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2419,
         "priljubljenost": 91,
         "koordinate": "46,39254°N 13,80664°E"
     },
     {
-        "id": 11629,
-        "ime": "Špik nad Planjo / Punta Plagnis",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2411,
-        "priljubljenost": 68,
-        "koordinate": "46,41479°N 13,48343°E"
-    },
-    {
         "id": 1257,
         "ime": "Križ",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2410,
         "priljubljenost": 95,
@@ -479,25 +314,14 @@
     {
         "id": 1321,
         "ime": "Visoka Vrbanova špica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2408,
         "priljubljenost": 94,
         "koordinate": "46,39132°N 13,86163°E"
     },
     {
-        "id": 12800,
-        "ime": "Lopa",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2406,
-        "priljubljenost": 34,
-        "koordinate": "46,3703°N 13,49434°E"
-    },
-    {
         "id": 11121,
         "ime": "Gubno",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2403,
         "priljubljenost": 76,
@@ -506,7 +330,6 @@
     {
         "id": 194,
         "ime": "Dom Planika pod Triglavom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2401,
         "priljubljenost": 96,
@@ -515,7 +338,6 @@
     {
         "id": 1452,
         "ime": "Veliko Špičje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2398,
         "priljubljenost": 93,
@@ -524,7 +346,6 @@
     {
         "id": 1155,
         "ime": "Cmir",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2393,
         "priljubljenost": 93,
@@ -533,25 +354,14 @@
     {
         "id": 1647,
         "ime": "Bovški Gamsovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2392,
         "priljubljenost": 98,
         "koordinate": "46,3983°N 13,81286°E"
     },
     {
-        "id": 12848,
-        "ime": "Prestreljeniško okno",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2391,
-        "priljubljenost": 36,
-        "koordinate": "46,36112°N 13,46989°E"
-    },
-    {
         "id": 1383,
         "ime": "Debeli vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2390,
         "priljubljenost": 91,
@@ -560,7 +370,6 @@
     {
         "id": 11539,
         "ime": "Vrh Hribaric",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2388,
         "priljubljenost": 75,
@@ -569,25 +378,14 @@
     {
         "id": 11348,
         "ime": "Šplevta (Indijanec)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2382,
         "priljubljenost": 78,
         "koordinate": "46,4137°N 13,79895°E"
     },
     {
-        "id": 11562,
-        "ime": "Strma peč / Monte Cimone",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2380,
-        "priljubljenost": 82,
-        "koordinate": "46,42387°N 13,38607°E"
-    },
-    {
         "id": 11327,
         "ime": "Travnik (pri Mojstrovkah)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2379,
         "priljubljenost": 86,
@@ -596,7 +394,6 @@
     {
         "id": 13334,
         "ime": "Kucelj (Julijske Alpe)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2372,
         "priljubljenost": 28,
@@ -605,7 +402,6 @@
     {
         "id": 13139,
         "ime": "Vrh Osojnic",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2371,
         "priljubljenost": 30,
@@ -614,7 +410,6 @@
     {
         "id": 11349,
         "ime": "Kriški rob",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2366,
         "priljubljenost": 78,
@@ -623,7 +418,6 @@
     {
         "id": 1386,
         "ime": "Velika Mojstrovka",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2366,
         "priljubljenost": 95,
@@ -632,7 +426,6 @@
     {
         "id": 11612,
         "ime": "Šmarjetna glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2358,
         "priljubljenost": 78,
@@ -641,7 +434,6 @@
     {
         "id": 11623,
         "ime": "Spodnji Stenar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2356,
         "priljubljenost": 70,
@@ -650,25 +442,14 @@
     {
         "id": 11326,
         "ime": "Zadnja Mojstrovka",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2354,
         "priljubljenost": 84,
         "koordinate": "46,43084°N 13,72004°E"
     },
     {
-        "id": 11634,
-        "ime": "Vrh Krnega dola / Monte Cregnedul",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2351,
-        "priljubljenost": 64,
-        "koordinate": "46,41377°N 13,48543°E"
-    },
-    {
         "id": 11328,
         "ime": "Kol",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2350,
         "priljubljenost": 71,
@@ -677,7 +458,6 @@
     {
         "id": 1106,
         "ime": "Mišelj vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2350,
         "priljubljenost": 91,
@@ -686,7 +466,6 @@
     {
         "id": 11058,
         "ime": "Plaski Vogel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2348,
         "priljubljenost": 79,
@@ -695,7 +474,6 @@
     {
         "id": 1679,
         "ime": "Bavški Grintavec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2347,
         "priljubljenost": 97,
@@ -704,43 +482,22 @@
     {
         "id": 11370,
         "ime": "Briceljk",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2346,
         "priljubljenost": 84,
         "koordinate": "46,39508°N 13,63191°E"
     },
     {
-        "id": 11621,
-        "ime": "Vevnica",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2342,
-        "priljubljenost": 87,
-        "koordinate": "46,43963°N 13,68566°E"
-    },
-    {
         "id": 11383,
         "ime": "Vrh Snežne konte",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2342,
         "priljubljenost": 76,
         "koordinate": "46,37691°N 13,85545°E"
     },
     {
-        "id": 1668,
-        "ime": "Velika Črnelska špica",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2332,
-        "priljubljenost": 79,
-        "koordinate": "46,37654°N 13,51567°E"
-    },
-    {
         "id": 1224,
         "ime": "Mala Mojstrovka",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2332,
         "priljubljenost": 99,
@@ -749,7 +506,6 @@
     {
         "id": 1203,
         "ime": "Dom Valentina Staniča pod Triglavom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2332,
         "priljubljenost": 95,
@@ -758,7 +514,6 @@
     {
         "id": 1384,
         "ime": "Zadnji Vogel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2327,
         "priljubljenost": 86,
@@ -767,43 +522,22 @@
     {
         "id": 11379,
         "ime": "Mali Ozebnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2324,
         "priljubljenost": 66,
         "koordinate": "46,4072°N 13,6686°E"
     },
     {
-        "id": 11038,
-        "ime": "Žrd / Sart",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2324,
-        "priljubljenost": 78,
-        "koordinate": "46,38215°N 13,39984°E"
-    },
-    {
         "id": 1385,
         "ime": "Velika Zelnarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2320,
         "priljubljenost": 90,
         "koordinate": "46,34246°N 13,79081°E"
     },
     {
-        "id": 11529,
-        "ime": "Veliki Nabojs / Monte Nabois grande",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2313,
-        "priljubljenost": 79,
-        "koordinate": "46,43913°N 13,48831°E"
-    },
-    {
         "id": 1453,
         "ime": "Malo Špičje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2312,
         "priljubljenost": 83,
@@ -812,7 +546,6 @@
     {
         "id": 1456,
         "ime": "Mala Zelnarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2310,
         "priljubljenost": 86,
@@ -821,7 +554,6 @@
     {
         "id": 11639,
         "ime": "Škednjovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2309,
         "priljubljenost": 79,
@@ -830,7 +562,6 @@
     {
         "id": 1682,
         "ime": "Spodnja Vrbanova špica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2299,
         "priljubljenost": 80,
@@ -839,7 +570,6 @@
     {
         "id": 1422,
         "ime": "Konjc",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2289,
         "priljubljenost": 71,
@@ -848,7 +578,6 @@
     {
         "id": 12003,
         "ime": "Frdamane police",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2284,
         "priljubljenost": 78,
@@ -857,61 +586,30 @@
     {
         "id": 183,
         "ime": "Tosc",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2275,
         "priljubljenost": 98,
         "koordinate": "46,35672°N 13,8684°E"
     },
     {
-        "id": 190,
-        "ime": "Visoka Ponca",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2274,
-        "priljubljenost": 93,
-        "koordinate": "46,46014°N 13,6974°E"
-    },
-    {
         "id": 11062,
         "ime": "Šplevta",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2272,
         "priljubljenost": 83,
         "koordinate": "46,43571°N 13,84014°E"
     },
     {
-        "id": 11622,
-        "ime": "Strug",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2265,
-        "priljubljenost": 78,
-        "koordinate": "46,4441°N 13,6939°E"
-    },
-    {
         "id": 1328,
         "ime": "Dom Petra Skalarja na Kaninu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2260,
         "priljubljenost": 85,
         "koordinate": "46,35371°N 13,46864°E"
     },
     {
-        "id": 12820,
-        "ime": "Visoka Bela Špica / Cima Alta di Riobianco",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2257,
-        "priljubljenost": 33,
-        "koordinate": "46,423°N 13,5187°E"
-    },
-    {
         "id": 11057,
         "ime": "Travnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2252,
         "priljubljenost": 80,
@@ -920,7 +618,6 @@
     {
         "id": 1150,
         "ime": "Krn",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2244,
         "priljubljenost": 100,
@@ -929,43 +626,14 @@
     {
         "id": 1397,
         "ime": "Veliki Draški vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2243,
         "priljubljenost": 96,
         "koordinate": "46,36017°N 13,87584°E"
     },
     {
-        "id": 11051,
-        "ime": "Zadnja Ponca",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2242,
-        "priljubljenost": 72,
-        "koordinate": "46,45048°N 13,69495°E"
-    },
-    {
-        "id": 11039,
-        "ime": "Vrh Grubje",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2240,
-        "priljubljenost": 60,
-        "koordinate": "46,37203°N 13,41694°E"
-    },
-    {
-        "id": 11050,
-        "ime": "Srednja Ponca",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2228,
-        "priljubljenost": 82,
-        "koordinate": "46,45676°N 13,69881°E"
-    },
-    {
         "id": 170,
         "ime": "Čelo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2228,
         "priljubljenost": 85,
@@ -974,7 +642,6 @@
     {
         "id": 1714,
         "ime": "Srednji Vogel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2226,
         "priljubljenost": 72,
@@ -983,7 +650,6 @@
     {
         "id": 11388,
         "ime": "Vernar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2225,
         "priljubljenost": 88,
@@ -992,7 +658,6 @@
     {
         "id": 1414,
         "ime": "Rombon",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2208,
         "priljubljenost": 98,
@@ -1001,7 +666,6 @@
     {
         "id": 12072,
         "ime": "Vodnikov Vršac (Vršac nad Zadnjico)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2194,
         "priljubljenost": 75,
@@ -1010,7 +674,6 @@
     {
         "id": 1455,
         "ime": "Kopica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2190,
         "priljubljenost": 84,
@@ -1019,7 +682,6 @@
     {
         "id": 11377,
         "ime": "Plešivec (Loška stena)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2184,
         "priljubljenost": 79,
@@ -1028,7 +690,6 @@
     {
         "id": 1410,
         "ime": "Gomiščkovo zavetišče na Krnu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2182,
         "priljubljenost": 88,
@@ -1037,7 +698,6 @@
     {
         "id": 1713,
         "ime": "Prvi Vogel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2181,
         "priljubljenost": 77,
@@ -1046,7 +706,6 @@
     {
         "id": 13602,
         "ime": "Bivak v Veliki Dnini",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2180,
         "priljubljenost": 11,
@@ -1055,7 +714,6 @@
     {
         "id": 1418,
         "ime": "Vrh nad Peski",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2176,
         "priljubljenost": 88,
@@ -1064,7 +722,6 @@
     {
         "id": 1374,
         "ime": "Batognica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2164,
         "priljubljenost": 94,
@@ -1073,7 +730,6 @@
     {
         "id": 1258,
         "ime": "Zgornje Kriško jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2158,
         "priljubljenost": 90,
@@ -1082,43 +738,22 @@
     {
         "id": 1100,
         "ime": "Koča na Doliču",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2151,
         "priljubljenost": 96,
         "koordinate": "46,36487°N 13,81953°E"
     },
     {
-        "id": 12895,
-        "ime": "Bivak Tarvisio",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2150,
-        "priljubljenost": 25,
-        "koordinate": "Brez podatka"
-    },
-    {
         "id": 12725,
         "ime": "Velika Baba (Kanin)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2148,
         "priljubljenost": 35,
         "koordinate": "46,3329°N 13,4494°E"
     },
     {
-        "id": 11374,
-        "ime": "Bela peč/Monte Bila pec",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2146,
-        "priljubljenost": 80,
-        "koordinate": "46,37497°N 13,45582°E"
-    },
-    {
         "id": 11625,
         "ime": "Krnčica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2142,
         "priljubljenost": 86,
@@ -1127,7 +762,6 @@
     {
         "id": 1995,
         "ime": "Teme",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2136,
         "priljubljenost": 66,
@@ -1136,7 +770,6 @@
     {
         "id": 1285,
         "ime": "Kotovo sedlo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2134,
         "priljubljenost": 88,
@@ -1145,25 +778,14 @@
     {
         "id": 1256,
         "ime": "Mali Draški vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2132,
         "priljubljenost": 93,
         "koordinate": "46,36324°N 13,89252°E"
     },
     {
-        "id": 1420,
-        "ime": "Jerebica",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2126,
-        "priljubljenost": 98,
-        "koordinate": "46,39843°N 13,56475°E"
-    },
-    {
         "id": 12571,
         "ime": "Veliki Babanski Skedenj",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2121,
         "priljubljenost": 35,
@@ -1172,7 +794,6 @@
     {
         "id": 13493,
         "ime": "Šmihelovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2118,
         "priljubljenost": 19,
@@ -1181,7 +802,6 @@
     {
         "id": 1211,
         "ime": "Bivak na Jezerih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2118,
         "priljubljenost": 82,
@@ -1190,7 +810,6 @@
     {
         "id": 13485,
         "ime": "Trentski Pelc",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2116,
         "priljubljenost": 22,
@@ -1199,7 +818,6 @@
     {
         "id": 13589,
         "ime": "Vršac (nad Zadnjo Trento)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2113,
         "priljubljenost": 11,
@@ -1208,7 +826,6 @@
     {
         "id": 1996,
         "ime": "Suhi vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2109,
         "priljubljenost": 78,
@@ -1217,7 +834,6 @@
     {
         "id": 12708,
         "ime": "Goličica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2101,
         "priljubljenost": 35,
@@ -1226,7 +842,6 @@
     {
         "id": 1610,
         "ime": "Cesar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2098,
         "priljubljenost": 81,
@@ -1235,7 +850,6 @@
     {
         "id": 1454,
         "ime": "Velika Tičarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2091,
         "priljubljenost": 91,
@@ -1244,25 +858,14 @@
     {
         "id": 13465,
         "ime": "Zagorelec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2090,
         "priljubljenost": 23,
         "koordinate": "46,3791°N 13,67051°E"
     },
     {
-        "id": 1657,
-        "ime": "Poldašnja špica/Jof di Miezegnot",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2087,
-        "priljubljenost": 83,
-        "koordinate": "46,47667°N 13,45366°E"
-    },
-    {
         "id": 1323,
         "ime": "Ogradi",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2087,
         "priljubljenost": 92,
@@ -1271,7 +874,6 @@
     {
         "id": 1273,
         "ime": "Šitna glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2087,
         "priljubljenost": 90,
@@ -1280,7 +882,6 @@
     {
         "id": 1153,
         "ime": "Tolminski Kuk",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2085,
         "priljubljenost": 93,
@@ -1289,7 +890,6 @@
     {
         "id": 1676,
         "ime": "Zadnjiški Ozebnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2084,
         "priljubljenost": 87,
@@ -1298,7 +898,6 @@
     {
         "id": 1332,
         "ime": "Sleme",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2077,
         "priljubljenost": 95,
@@ -1307,7 +906,6 @@
     {
         "id": 1279,
         "ime": "Slatna",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2077,
         "priljubljenost": 82,
@@ -1316,7 +914,6 @@
     {
         "id": 1378,
         "ime": "Prevalski Stog",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2075,
         "priljubljenost": 84,
@@ -1325,25 +922,14 @@
     {
         "id": 12318,
         "ime": "Rigljica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2074,
         "priljubljenost": 72,
         "koordinate": "46,4581°N 13,80653°E"
     },
     {
-        "id": 1662,
-        "ime": "Kamniti lovec / Cima del Cacciatore",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2071,
-        "priljubljenost": 93,
-        "koordinate": "46,46466°N 13,52795°E"
-    },
-    {
         "id": 1175,
         "ime": "Zasavska koča na Prehodavcih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2071,
         "priljubljenost": 98,
@@ -1352,7 +938,6 @@
     {
         "id": 1151,
         "ime": "Mala Tičarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2071,
         "priljubljenost": 94,
@@ -1361,25 +946,14 @@
     {
         "id": 1210,
         "ime": "Zavetišče pod Špičkom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2064,
         "priljubljenost": 92,
         "koordinate": "46,41015°N 13,67785°E"
     },
     {
-        "id": 13289,
-        "ime": "Poldnik (Kopa) / Picco di Mezzodi",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2063,
-        "priljubljenost": 31,
-        "koordinate": "46,45951°N 13,63677°E"
-    },
-    {
         "id": 12680,
         "ime": "Podrta gora",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2061,
         "priljubljenost": 35,
@@ -1388,7 +962,6 @@
     {
         "id": 1506,
         "ime": "Veliki Pršivec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2056,
         "priljubljenost": 83,
@@ -1397,7 +970,6 @@
     {
         "id": 1698,
         "ime": "Vrh nad Škrbino",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2054,
         "priljubljenost": 90,
@@ -1406,7 +978,6 @@
     {
         "id": 11888,
         "ime": "Zeleni vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2052,
         "priljubljenost": 74,
@@ -1415,7 +986,6 @@
     {
         "id": 1164,
         "ime": "Pogačnikov dom na Kriških podih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2050,
         "priljubljenost": 99,
@@ -1424,43 +994,22 @@
     {
         "id": 177,
         "ime": "Viševnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2050,
         "priljubljenost": 100,
         "koordinate": "46,35901°N 13,89829°E"
     },
     {
-        "id": 1659,
-        "ime": "Cima Alta (Dve špici)",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2046,
-        "priljubljenost": 81,
-        "koordinate": "46,47645°N 13,42029°E"
-    },
-    {
         "id": 12988,
         "ime": "Veliki Lemež",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2042,
         "priljubljenost": 35,
         "koordinate": "46,2882°N 13,6721°E"
     },
     {
-        "id": 11037,
-        "ime": "Bivak Marrusich",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 2041,
-        "priljubljenost": 64,
-        "koordinate": "46,37206°N 13,42438°E"
-    },
-    {
         "id": 1259,
         "ime": "Jezerski Stog",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2040,
         "priljubljenost": 91,
@@ -1469,7 +1018,6 @@
     {
         "id": 11384,
         "ime": "Na Pečeh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2039,
         "priljubljenost": 70,
@@ -1478,7 +1026,6 @@
     {
         "id": 11595,
         "ime": "Srednji vrh (nad jezerom v Lužnici)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2032,
         "priljubljenost": 73,
@@ -1487,7 +1034,6 @@
     {
         "id": 1468,
         "ime": "Drobeče Sleme",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2029,
         "priljubljenost": 73,
@@ -1496,7 +1042,6 @@
     {
         "id": 1280,
         "ime": "Kreda",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2025,
         "priljubljenost": 85,
@@ -1505,7 +1050,6 @@
     {
         "id": 1712,
         "ime": "Eva",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2019,
         "priljubljenost": 84,
@@ -1514,7 +1058,6 @@
     {
         "id": 1675,
         "ime": "Velika Baba",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2016,
         "priljubljenost": 93,
@@ -1523,7 +1066,6 @@
     {
         "id": 184,
         "ime": "Debela peč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2014,
         "priljubljenost": 99,
@@ -1532,7 +1074,6 @@
     {
         "id": 12309,
         "ime": "Lopatnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2012,
         "priljubljenost": 81,
@@ -1541,7 +1082,6 @@
     {
         "id": 1711,
         "ime": "Adam",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2012,
         "priljubljenost": 83,
@@ -1550,7 +1090,6 @@
     {
         "id": 1327,
         "ime": "Mahavšček",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2008,
         "priljubljenost": 91,
@@ -1559,7 +1098,6 @@
     {
         "id": 1263,
         "ime": "Brda",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2008,
         "priljubljenost": 90,
@@ -1568,7 +1106,6 @@
     {
         "id": 1172,
         "ime": "Rjavo jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2006,
         "priljubljenost": 85,
@@ -1577,7 +1114,6 @@
     {
         "id": 1461,
         "ime": "Ablanca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2004,
         "priljubljenost": 93,
@@ -1586,7 +1122,6 @@
     {
         "id": 1325,
         "ime": "Lanževica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2003,
         "priljubljenost": 90,
@@ -1595,7 +1130,6 @@
     {
         "id": 1936,
         "ime": "Kal",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 2001,
         "priljubljenost": 79,
@@ -1604,7 +1138,6 @@
     {
         "id": 11108,
         "ime": "Meja",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1996,
         "priljubljenost": 63,
@@ -1613,7 +1146,6 @@
     {
         "id": 11538,
         "ime": "Vrh nad Vodeno Rupo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1995,
         "priljubljenost": 55,
@@ -1622,7 +1154,6 @@
     {
         "id": 1173,
         "ime": "Zeleno jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1988,
         "priljubljenost": 86,
@@ -1631,7 +1162,6 @@
     {
         "id": 13478,
         "ime": "Vratni vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1983,
         "priljubljenost": 14,
@@ -1640,25 +1170,14 @@
     {
         "id": 12986,
         "ime": "Vogel (nad Lepeno)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1980,
         "priljubljenost": 31,
         "koordinate": "46,28518°N 13,66587°E"
     },
     {
-        "id": 11553,
-        "ime": "Velika Bavha / Monte Robon",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1980,
-        "priljubljenost": 70,
-        "koordinate": "46,38591°N 13,5137°E"
-    },
-    {
         "id": 1216,
         "ime": "Bivak na Rušju",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1980,
         "priljubljenost": 85,
@@ -1667,7 +1186,6 @@
     {
         "id": 11788,
         "ime": "Draški rob",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1979,
         "priljubljenost": 72,
@@ -1676,7 +1194,6 @@
     {
         "id": 1326,
         "ime": "Bogatin",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1977,
         "priljubljenost": 94,
@@ -1685,7 +1202,6 @@
     {
         "id": 11615,
         "ime": "Pri Banderi",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1974,
         "priljubljenost": 55,
@@ -1694,7 +1210,6 @@
     {
         "id": 182,
         "ime": "Lipanski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1974,
         "priljubljenost": 90,
@@ -1703,25 +1218,14 @@
     {
         "id": 1448,
         "ime": "Vrh Planje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1971,
         "priljubljenost": 74,
         "koordinate": "46,2663°N 13,7508°E"
     },
     {
-        "id": 13580,
-        "ime": "Monte Gosadon",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1968,
-        "priljubljenost": 7,
-        "koordinate": "46,47276°N 13,41588°E"
-    },
-    {
         "id": 11099,
         "ime": "Raskovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1967,
         "priljubljenost": 75,
@@ -1730,7 +1234,6 @@
     {
         "id": 1310,
         "ime": "Rodica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1966,
         "priljubljenost": 98,
@@ -1739,7 +1242,6 @@
     {
         "id": 11616,
         "ime": "Vrh Ovčje planje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1965,
         "priljubljenost": 63,
@@ -1748,7 +1250,6 @@
     {
         "id": 11124,
         "ime": "Okroglež",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1965,
         "priljubljenost": 75,
@@ -1757,7 +1258,6 @@
     {
         "id": 1723,
         "ime": "Bivak pod Kotovim sedlom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1965,
         "priljubljenost": 80,
@@ -1766,7 +1266,6 @@
     {
         "id": 181,
         "ime": "Mrežce",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1965,
         "priljubljenost": 95,
@@ -1775,7 +1274,6 @@
     {
         "id": 13474,
         "ime": "Plešivec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1962,
         "priljubljenost": 16,
@@ -1784,7 +1282,6 @@
     {
         "id": 1339,
         "ime": "Debeli vrh nad Lipanco",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1962,
         "priljubljenost": 86,
@@ -1793,25 +1290,14 @@
     {
         "id": 12799,
         "ime": "Velika Montura",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1958,
         "priljubljenost": 33,
         "koordinate": "46,287°N 13,7116°E"
     },
     {
-        "id": 12374,
-        "ime": "Lopič / Monte Plauris",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1958,
-        "priljubljenost": 65,
-        "koordinate": "46,3592°N 13,1959°E"
-    },
-    {
         "id": 11614,
         "ime": "Vrh Leh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1958,
         "priljubljenost": 56,
@@ -1820,25 +1306,14 @@
     {
         "id": 1641,
         "ime": "Veliki Selišnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1952,
         "priljubljenost": 75,
         "koordinate": "46,36606°N 13,90324°E"
     },
     {
-        "id": 11043,
-        "ime": "Bivak Gorizia",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1950,
-        "priljubljenost": 67,
-        "koordinate": "46,42571°N 13,51796°E"
-    },
-    {
         "id": 11106,
         "ime": "Mali Raskovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1946,
         "priljubljenost": 56,
@@ -1847,7 +1322,6 @@
     {
         "id": 11107,
         "ime": "Suha Rodica (Novi vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1944,
         "priljubljenost": 61,
@@ -1856,7 +1330,6 @@
     {
         "id": 11055,
         "ime": "Veliki Šmohor",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1944,
         "priljubljenost": 79,
@@ -1865,7 +1338,6 @@
     {
         "id": 11329,
         "ime": "Prednje Robičje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1941,
         "priljubljenost": 73,
@@ -1874,7 +1346,6 @@
     {
         "id": 11054,
         "ime": "Mali Šmohor",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1939,
         "priljubljenost": 71,
@@ -1883,7 +1354,6 @@
     {
         "id": 11105,
         "ime": "Matajurski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1936,
         "priljubljenost": 74,
@@ -1892,7 +1362,6 @@
     {
         "id": 11371,
         "ime": "Vrh Škrli",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1926,
         "priljubljenost": 61,
@@ -1901,7 +1370,6 @@
     {
         "id": 1722,
         "ime": "Macesnovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1926,
         "priljubljenost": 89,
@@ -1910,25 +1378,14 @@
     {
         "id": 1590,
         "ime": "Bela glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1926,
         "priljubljenost": 69,
         "koordinate": "46,31811°N 13,79378°E"
     },
     {
-        "id": 11046,
-        "ime": "Mala Ponca",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1925,
-        "priljubljenost": 89,
-        "koordinate": "46,46818°N 13,6932°E"
-    },
-    {
         "id": 1588,
         "ime": "Vogel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1922,
         "priljubljenost": 97,
@@ -1937,7 +1394,6 @@
     {
         "id": 11109,
         "ime": "Rušnati vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1915,
         "priljubljenost": 60,
@@ -1946,52 +1402,22 @@
     {
         "id": 11590,
         "ime": "Rdeči rob",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1913,
         "priljubljenost": 78,
         "koordinate": "46,25016°N 13,69624°E"
     },
     {
-        "id": 11278,
-        "ime": "Kraljevska špica/Monte Re",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1912,
-        "priljubljenost": 76,
-        "koordinate": "46,45596°N 13,55719°E"
-    },
-    {
         "id": 1240,
         "ime": "Slemenova špica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1911,
         "priljubljenost": 99,
         "koordinate": "46,44584°N 13,7266°E"
     },
     {
-        "id": 11554,
-        "ime": "Speleološki bivak Modonutti - Savoia",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1908,
-        "priljubljenost": 58,
-        "koordinate": "46,3845°N 13,5155°E"
-    },
-    {
-        "id": 1658,
-        "ime": "Bivak Bernardinis",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1907,
-        "priljubljenost": 58,
-        "koordinate": "46,47641°N 13,42407°E"
-    },
-    {
         "id": 193,
         "ime": "Mangartska koča na Mangartskem sedlu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1906,
         "priljubljenost": 90,
@@ -2000,7 +1426,6 @@
     {
         "id": 11098,
         "ime": "Mala Rodica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1901,
         "priljubljenost": 61,
@@ -2009,7 +1434,6 @@
     {
         "id": 11372,
         "ime": "Kser",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1900,
         "priljubljenost": 66,
@@ -2018,7 +1442,6 @@
     {
         "id": 1457,
         "ime": "Rušnata glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1899,
         "priljubljenost": 73,
@@ -2027,7 +1450,6 @@
     {
         "id": 1469,
         "ime": "Vrtaški vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1898,
         "priljubljenost": 86,
@@ -2036,7 +1458,6 @@
     {
         "id": 11104,
         "ime": "Poljanski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1897,
         "priljubljenost": 61,
@@ -2045,7 +1466,6 @@
     {
         "id": 1589,
         "ime": "Vrh Krnic",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1896,
         "priljubljenost": 64,
@@ -2054,7 +1474,6 @@
     {
         "id": 1291,
         "ime": "Vrh Razora",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1893,
         "priljubljenost": 79,
@@ -2063,7 +1482,6 @@
     {
         "id": 1138,
         "ime": "Studorski preval",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1892,
         "priljubljenost": 85,
@@ -2072,25 +1490,14 @@
     {
         "id": 1531,
         "ime": "Srednji Selišnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1890,
         "priljubljenost": 71,
         "koordinate": "46,36393°N 13,90285°E"
     },
     {
-        "id": 13566,
-        "ime": "Krniška glavica / Jof di Sompdogna",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1889,
-        "priljubljenost": 16,
-        "koordinate": "46,45313°N 13,43918°E"
-    },
-    {
         "id": 12123,
         "ime": "Klečica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1889,
         "priljubljenost": 55,
@@ -2099,7 +1506,6 @@
     {
         "id": 13476,
         "ime": "Velika Glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1883,
         "priljubljenost": 12,
@@ -2108,7 +1514,6 @@
     {
         "id": 1463,
         "ime": "Šija",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1880,
         "priljubljenost": 91,
@@ -2117,7 +1522,6 @@
     {
         "id": 1165,
         "ime": "Spodnje Kriško jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1880,
         "priljubljenost": 85,
@@ -2126,7 +1530,6 @@
     {
         "id": 11624,
         "ime": "Krsteniški Stog",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1879,
         "priljubljenost": 70,
@@ -2135,7 +1538,6 @@
     {
         "id": 11103,
         "ime": "Konjski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1879,
         "priljubljenost": 68,
@@ -2144,25 +1546,14 @@
     {
         "id": 11605,
         "ime": "Čisti vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1875,
         "priljubljenost": 78,
         "koordinate": "46,3556°N 13,7523°E"
     },
     {
-        "id": 11042,
-        "ime": "Rifugio Corsi",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1874,
-        "priljubljenost": 78,
-        "koordinate": "46,42212°N 13,50003°E"
-    },
-    {
         "id": 12102,
         "ime": "Tolminski Migovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1868,
         "priljubljenost": 83,
@@ -2171,7 +1562,6 @@
     {
         "id": 11812,
         "ime": "Požgana Mlinarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1868,
         "priljubljenost": 74,
@@ -2180,61 +1570,22 @@
     {
         "id": 1687,
         "ime": "Vrh Planje (nad Globokim)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1863,
         "priljubljenost": 63,
         "koordinate": "46,24408°N 13,80321°E"
     },
     {
-        "id": 11880,
-        "ime": "Skutnik/Torre Guarda",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1860,
-        "priljubljenost": 70,
-        "koordinate": "46,43403°N 13,59007°E"
-    },
-    {
         "id": 11902,
         "ime": "Vrh Dlani",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1852,
         "priljubljenost": 58,
         "koordinate": "46,239°N 13,8298°E"
     },
     {
-        "id": 11056,
-        "ime": "Bivak Nogara",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1850,
-        "priljubljenost": 70,
-        "koordinate": "46,44718°N 13,65418°E"
-    },
-    {
-        "id": 11036,
-        "ime": "Rifugio Gilberti",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1850,
-        "priljubljenost": 74,
-        "koordinate": "46,37194°N 13,46127°E"
-    },
-    {
-        "id": 11280,
-        "ime": "Šober / Monte Sciober Grande",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1845,
-        "priljubljenost": 70,
-        "koordinate": "46,45037°N 13,59921°E"
-    },
-    {
         "id": 1686,
         "ime": "Žabiški Kuk",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1844,
         "priljubljenost": 75,
@@ -2243,7 +1594,6 @@
     {
         "id": 187,
         "ime": "Črna prst",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1844,
         "priljubljenost": 99,
@@ -2252,7 +1602,6 @@
     {
         "id": 11102,
         "ime": "Četrt",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1832,
         "priljubljenost": 61,
@@ -2261,7 +1610,6 @@
     {
         "id": 1171,
         "ime": "Jezero v Ledvicah",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1831,
         "priljubljenost": 88,
@@ -2270,7 +1618,6 @@
     {
         "id": 1221,
         "ime": "Kovačičeva glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1827,
         "priljubljenost": 58,
@@ -2279,7 +1626,6 @@
     {
         "id": 11684,
         "ime": "Visoka glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1822,
         "priljubljenost": 55,
@@ -2288,7 +1634,6 @@
     {
         "id": 1139,
         "ime": "Vodnikov dom na Velem polju",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1817,
         "priljubljenost": 96,
@@ -2297,7 +1642,6 @@
     {
         "id": 13137,
         "ime": "Stara koča na Kaninu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1814,
         "priljubljenost": 27,
@@ -2306,7 +1650,6 @@
     {
         "id": 11385,
         "ime": "Pri treh macesnih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1810,
         "priljubljenost": 72,
@@ -2315,7 +1658,6 @@
     {
         "id": 11628,
         "ime": "Vrtec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1809,
         "priljubljenost": 64,
@@ -2324,7 +1666,6 @@
     {
         "id": 1330,
         "ime": "Jezero v Lužnici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1801,
         "priljubljenost": 83,
@@ -2333,25 +1674,14 @@
     {
         "id": 11900,
         "ime": "Visoki Orlov rob",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1800,
         "priljubljenost": 65,
         "koordinate": "46,2415°N 13,8365°E"
     },
     {
-        "id": 11368,
-        "ime": "Škraplja",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1794,
-        "priljubljenost": 65,
-        "koordinate": "46,3853°N 13,5335°E"
-    },
-    {
         "id": 11682,
         "ime": "Plesišče",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1790,
         "priljubljenost": 67,
@@ -2360,7 +1690,6 @@
     {
         "id": 11266,
         "ime": "Kumlehova glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1788,
         "priljubljenost": 78,
@@ -2369,7 +1698,6 @@
     {
         "id": 11755,
         "ime": "Rušni vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1786,
         "priljubljenost": 56,
@@ -2378,7 +1706,6 @@
     {
         "id": 11627,
         "ime": "Stadorski Orliči",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1782,
         "priljubljenost": 57,
@@ -2387,7 +1714,6 @@
     {
         "id": 11060,
         "ime": "Rušnata Mlinarica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1777,
         "priljubljenost": 65,
@@ -2396,7 +1722,6 @@
     {
         "id": 1605,
         "ime": "Krasji vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1773,
         "priljubljenost": 93,
@@ -2405,7 +1730,6 @@
     {
         "id": 11626,
         "ime": "Rigeljc",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1768,
         "priljubljenost": 57,
@@ -2414,7 +1738,6 @@
     {
         "id": 11346,
         "ime": "Veliki vrh (Polovnik)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1768,
         "priljubljenost": 76,
@@ -2423,25 +1746,14 @@
     {
         "id": 1415,
         "ime": "Čukla",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1767,
         "priljubljenost": 87,
         "koordinate": "46,35878°N 13,54751°E"
     },
     {
-        "id": 1655,
-        "ime": "Svete Višarje / Monte Lussari",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1766,
-        "priljubljenost": 97,
-        "koordinate": "46,47998°N 13,523°E"
-    },
-    {
         "id": 11096,
         "ime": "Kurji vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1762,
         "priljubljenost": 84,
@@ -2450,7 +1762,6 @@
     {
         "id": 1254,
         "ime": "Pršivec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1761,
         "priljubljenost": 96,
@@ -2459,7 +1770,6 @@
     {
         "id": 11045,
         "ime": "Glave",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1760,
         "priljubljenost": 60,
@@ -2468,7 +1778,6 @@
     {
         "id": 1197,
         "ime": "Luknja",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1758,
         "priljubljenost": 88,
@@ -2477,7 +1786,6 @@
     {
         "id": 1465,
         "ime": "Sovna glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1750,
         "priljubljenost": 79,
@@ -2486,7 +1794,6 @@
     {
         "id": 1464,
         "ime": "Zavitar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1750,
         "priljubljenost": 72,
@@ -2495,7 +1802,6 @@
     {
         "id": 12658,
         "ime": "Visoka peč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1749,
         "priljubljenost": 35,
@@ -2504,7 +1810,6 @@
     {
         "id": 1709,
         "ime": "Ciprnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1745,
         "priljubljenost": 97,
@@ -2513,25 +1818,14 @@
     {
         "id": 1426,
         "ime": "Vršič vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1737,
         "priljubljenost": 96,
         "koordinate": "46,4341°N 13,74667°E"
     },
     {
-        "id": 1601,
-        "ime": "Skutnik /Monte Guarda",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1721,
-        "priljubljenost": 78,
-        "koordinate": "46,32246°N 13,43927°E"
-    },
-    {
         "id": 1260,
         "ime": "Planina Jezerce",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1720,
         "priljubljenost": 82,
@@ -2540,25 +1834,14 @@
     {
         "id": 1253,
         "ime": "Planina Zgornja Krma",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1720,
         "priljubljenost": 86,
         "koordinate": "46,3682°N 13,86771°E"
     },
     {
-        "id": 12372,
-        "ime": "Veliki Karman / Monte Chiampon",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1713,
-        "priljubljenost": 62,
-        "koordinate": "46,2946°N 13,1815°E"
-    },
-    {
         "id": 11380,
         "ime": "Rutarski Vršič",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1699,
         "priljubljenost": 72,
@@ -2567,7 +1850,6 @@
     {
         "id": 12649,
         "ime": "Gradovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1692,
         "priljubljenost": 27,
@@ -2576,7 +1858,6 @@
     {
         "id": 1261,
         "ime": "Poštarski dom na Vršiču",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1688,
         "priljubljenost": 87,
@@ -2585,7 +1866,6 @@
     {
         "id": 1133,
         "ime": "Koča pri Triglavskih jezerih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1685,
         "priljubljenost": 100,
@@ -2594,7 +1874,6 @@
     {
         "id": 11898,
         "ime": "Orlove glave",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1682,
         "priljubljenost": 82,
@@ -2603,7 +1882,6 @@
     {
         "id": 199,
         "ime": "Velo polje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1680,
         "priljubljenost": 86,
@@ -2612,7 +1890,6 @@
     {
         "id": 1750,
         "ime": "Stol (Julijske Alpe)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1673,
         "priljubljenost": 95,
@@ -2621,7 +1898,6 @@
     {
         "id": 1101,
         "ime": "Planina Krstenica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1670,
         "priljubljenost": 92,
@@ -2630,7 +1906,6 @@
     {
         "id": 13570,
         "ime": "Na Glavi",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1666,
         "priljubljenost": 10,
@@ -2639,61 +1914,30 @@
     {
         "id": 11114,
         "ime": "Jehlc (Špičasta kupa)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1662,
         "priljubljenost": 61,
         "koordinate": "46,22019°N 13,86219°E"
     },
     {
-        "id": 1429,
-        "ime": "Rifugio di Brazza",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1660,
-        "priljubljenost": 77,
-        "koordinate": "46,41422°N 13,44656°E"
-    },
-    {
         "id": 1157,
         "ime": "Planina Ovčarija",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1660,
         "priljubljenost": 84,
         "koordinate": "46,30959°N 13,79581°E"
     },
     {
-        "id": 11047,
-        "ime": "Zavetišče pod Ponco",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1657,
-        "priljubljenost": 70,
-        "koordinate": "46,46638°N 13,6855°E"
-    },
-    {
         "id": 13520,
         "ime": "Lisc (Lisec)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1653,
         "priljubljenost": 18,
         "koordinate": "46,24028°N 13,92782°E"
     },
     {
-        "id": 12797,
-        "ime": "Florjanka / Monte Florianca",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1653,
-        "priljubljenost": 29,
-        "koordinate": "46,4853°N 13,5471°E"
-    },
-    {
         "id": 1419,
         "ime": "Svinjak",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1653,
         "priljubljenost": 95,
@@ -2702,25 +1946,14 @@
     {
         "id": 1292,
         "ime": "Planina pod Mišelj vrhom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1645,
         "priljubljenost": 78,
         "koordinate": "46,34973°N 13,84596°E"
     },
     {
-        "id": 1747,
-        "ime": "Matajur",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1642,
-        "priljubljenost": 97,
-        "koordinate": "46,21211°N 13,52945°E"
-    },
-    {
         "id": 11394,
         "ime": "Gabrovec (Veliki Muzec)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1630,
         "priljubljenost": 68,
@@ -2729,7 +1962,6 @@
     {
         "id": 176,
         "ime": "Blejska koča na Lipanci",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1630,
         "priljubljenost": 98,
@@ -2738,7 +1970,6 @@
     {
         "id": 1255,
         "ime": "Planina Viševnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1625,
         "priljubljenost": 91,
@@ -2747,7 +1978,6 @@
     {
         "id": 12138,
         "ime": "Vošni vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1621,
         "priljubljenost": 53,
@@ -2756,25 +1986,14 @@
     {
         "id": 1262,
         "ime": "Tičarjev dom na Vršiču",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1618,
         "priljubljenost": 88,
         "koordinate": "46,43278°N 13,74439°E"
     },
     {
-        "id": 11395,
-        "ime": "Breški Jalovec / Punta di Montemaggiore",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1613,
-        "priljubljenost": 76,
-        "koordinate": "46,28461°N 13,36944°E"
-    },
-    {
         "id": 1825,
         "ime": "Muzec - Musc (Mali Muzec)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1612,
         "priljubljenost": 73,
@@ -2783,7 +2002,6 @@
     {
         "id": 1290,
         "ime": "Slatnik (severozahodni vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1609,
         "priljubljenost": 86,
@@ -2792,7 +2010,6 @@
     {
         "id": 1205,
         "ime": "Možic",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1602,
         "priljubljenost": 94,
@@ -2801,7 +2018,6 @@
     {
         "id": 11887,
         "ime": "Planina za Migovcem",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1600,
         "priljubljenost": 59,
@@ -2810,25 +2026,14 @@
     {
         "id": 12518,
         "ime": "Slatnik (jugovzhodni vrh)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1597,
         "priljubljenost": 33,
         "koordinate": "46,23455°N 13,99907°E"
     },
     {
-        "id": 11498,
-        "ime": "Nemške glave",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1597,
-        "priljubljenost": 68,
-        "koordinate": "46,40844°N 13,57477°E"
-    },
-    {
         "id": 1394,
         "ime": "Jerebikovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1593,
         "priljubljenost": 91,
@@ -2837,25 +2042,14 @@
     {
         "id": 13564,
         "ime": "Lovska koča Berebica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1590,
         "priljubljenost": 10,
         "koordinate": "46,38603°N 13,72203°E"
     },
     {
-        "id": 11338,
-        "ime": "Bivak Stuparich",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1587,
-        "priljubljenost": 60,
-        "koordinate": "46,44486°N 13,44788°E"
-    },
-    {
         "id": 13568,
         "ime": "Brinova glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1586,
         "priljubljenost": 10,
@@ -2864,7 +2058,6 @@
     {
         "id": 1437,
         "ime": "Šavnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1574,
         "priljubljenost": 84,
@@ -2873,25 +2066,14 @@
     {
         "id": 12632,
         "ime": "Grušnica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1570,
         "priljubljenost": 31,
         "koordinate": "46,2391°N 13,7504°E"
     },
     {
-        "id": 1822,
-        "ime": "Višarska planina / Malga di Lussari",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1570,
-        "priljubljenost": 71,
-        "koordinate": "46,47591°N 13,5335°E"
-    },
-    {
         "id": 11267,
         "ime": "Visoki Mavrinc",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1562,
         "priljubljenost": 89,
@@ -2900,7 +2082,6 @@
     {
         "id": 1243,
         "ime": "Planina v Lazu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1560,
         "priljubljenost": 86,
@@ -2909,7 +2090,6 @@
     {
         "id": 1156,
         "ime": "Planina Dedno Polje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1560,
         "priljubljenost": 86,
@@ -2918,7 +2098,6 @@
     {
         "id": 1606,
         "ime": "Planina Lopučnica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1558,
         "priljubljenost": 61,
@@ -2927,7 +2106,6 @@
     {
         "id": 11536,
         "ime": "Javoršček",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1557,
         "priljubljenost": 79,
@@ -2936,7 +2114,6 @@
     {
         "id": 1341,
         "ime": "Planina Klek",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1556,
         "priljubljenost": 81,
@@ -2945,7 +2122,6 @@
     {
         "id": 1710,
         "ime": "Mojčin dom na Vitrancu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1555,
         "priljubljenost": 93,
@@ -2954,7 +2130,6 @@
     {
         "id": 12992,
         "ime": "Planja (nad Mangartsko planino)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1553,
         "priljubljenost": 21,
@@ -2963,7 +2138,6 @@
     {
         "id": 1826,
         "ime": "Bivak pod Muzcem",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1550,
         "priljubljenost": 70,
@@ -2972,7 +2146,6 @@
     {
         "id": 1435,
         "ime": "Lajnar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1549,
         "priljubljenost": 90,
@@ -2981,7 +2154,6 @@
     {
         "id": 11604,
         "ime": "Planina v Plazeh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1548,
         "priljubljenost": 61,
@@ -2990,25 +2162,14 @@
     {
         "id": 1434,
         "ime": "Dravh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1547,
         "priljubljenost": 83,
         "koordinate": "46,23268°N 14,0138°E"
     },
     {
-        "id": 11537,
-        "ime": "Dom na Matajure",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1545,
-        "priljubljenost": 75,
-        "koordinate": "46,20924°N 13,52503°E"
-    },
-    {
         "id": 11815,
         "ime": "Požar",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1543,
         "priljubljenost": 56,
@@ -3017,25 +2178,14 @@
     {
         "id": 1732,
         "ime": "Kravja Črna gora",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1541,
         "priljubljenost": 69,
         "koordinate": "46,2401°N 13,96039°E"
     },
     {
-        "id": 12999,
-        "ime": "Visoka glava (na Matajurju)",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1540,
-        "priljubljenost": 21,
-        "koordinate": "46,218°N 13,5255°E"
-    },
-    {
         "id": 11699,
         "ime": "Mesnovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1538,
         "priljubljenost": 64,
@@ -3044,25 +2194,14 @@
     {
         "id": 1587,
         "ime": "Planinska koča Merjasec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1535,
         "priljubljenost": 84,
         "koordinate": "46,26335°N 13,83977°E"
     },
     {
-        "id": 11283,
-        "ime": "Viška planina",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1530,
-        "priljubljenost": 66,
-        "koordinate": "46,41478°N 13,50194°E"
-    },
-    {
         "id": 1417,
         "ime": "Planina na Polju",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1530,
         "priljubljenost": 77,
@@ -3071,7 +2210,6 @@
     {
         "id": 12185,
         "ime": "Lovska koča na Glinu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1527,
         "priljubljenost": 50,
@@ -3080,43 +2218,22 @@
     {
         "id": 1272,
         "ime": "Erjavčeva koča na Vršiču",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1525,
         "priljubljenost": 89,
         "koordinate": "46,43921°N 13,74934°E"
     },
     {
-        "id": 11281,
-        "ime": "Rifugio Cinque Punte",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1520,
-        "priljubljenost": 61,
-        "koordinate": "46,45894°N 13,59549°E"
-    },
-    {
         "id": 1102,
         "ime": "Dom na Komni",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1520,
         "priljubljenost": 99,
         "koordinate": "46,28446°N 13,77338°E"
     },
     {
-        "id": 11527,
-        "ime": "Planina Ravna",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1515,
-        "priljubljenost": 53,
-        "koordinate": "46,4851°N 13,467°E"
-    },
-    {
         "id": 1731,
         "ime": "Krevl",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1515,
         "priljubljenost": 68,
@@ -3125,7 +2242,6 @@
     {
         "id": 1198,
         "ime": "Koča pod Bogatinom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1513,
         "priljubljenost": 94,
@@ -3134,43 +2250,22 @@
     {
         "id": 11059,
         "ime": "Planina Za skalo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1510,
         "priljubljenost": 75,
         "koordinate": "46,31904°N 13,71744°E"
     },
     {
-        "id": 13575,
-        "ime": "Malga Granuda",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1501,
-        "priljubljenost": 4,
-        "koordinate": "46,48092°N 13,40444°E"
-    },
-    {
         "id": 11347,
         "ime": "Lovska koča Na Utrci",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1500,
         "priljubljenost": 60,
         "koordinate": "46,39604°N 13,79424°E"
     },
     {
-        "id": 11530,
-        "ime": "Rifugio Pellarini",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1499,
-        "priljubljenost": 65,
-        "koordinate": "46,44064°N 13,50833°E"
-    },
-    {
         "id": 11814,
         "ime": "Lengarjeva glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1498,
         "priljubljenost": 51,
@@ -3179,7 +2274,6 @@
     {
         "id": 1373,
         "ime": "Kobla",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1498,
         "priljubljenost": 88,
@@ -3188,7 +2282,6 @@
     {
         "id": 12101,
         "ime": "Planina na Kalu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1490,
         "priljubljenost": 65,
@@ -3197,25 +2290,14 @@
     {
         "id": 12152,
         "ime": "Nizki vrh ",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1488,
         "priljubljenost": 57,
         "koordinate": "46,2916°N 13,3902°E"
     },
     {
-        "id": 13025,
-        "ime": "Črni vrh / Colrotondo",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1486,
-        "priljubljenost": 24,
-        "koordinate": "46,475°N 13,6534°E"
-    },
-    {
         "id": 11989,
         "ime": "Planina Vodični vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1486,
         "priljubljenost": 69,
@@ -3224,7 +2306,6 @@
     {
         "id": 11440,
         "ime": "Javorov vrh (Pokljuka)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1482,
         "priljubljenost": 85,
@@ -3233,7 +2314,6 @@
     {
         "id": 1449,
         "ime": "Planina Govnjač",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1480,
         "priljubljenost": 76,
@@ -3242,7 +2322,6 @@
     {
         "id": 1241,
         "ime": "Bivak pod Luknjo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1480,
         "priljubljenost": 87,
@@ -3251,7 +2330,6 @@
     {
         "id": 11240,
         "ime": "Kobilja glava",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1475,
         "priljubljenost": 84,
@@ -3260,7 +2338,6 @@
     {
         "id": 11100,
         "ime": "Planina Poljana",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1466,
         "priljubljenost": 58,
@@ -3269,7 +2346,6 @@
     {
         "id": 1308,
         "ime": "Vrtaška planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1462,
         "priljubljenost": 82,
@@ -3278,7 +2354,6 @@
     {
         "id": 1140,
         "ime": "Koča na Planini pri Jezeru",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1453,
         "priljubljenost": 96,
@@ -3287,7 +2362,6 @@
     {
         "id": 11241,
         "ime": "Jalovnik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1452,
         "priljubljenost": 64,
@@ -3296,25 +2370,14 @@
     {
         "id": 11594,
         "ime": "Planina Sleme",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1448,
         "priljubljenost": 76,
         "koordinate": "46,2429°N 13,6918°E"
     },
     {
-        "id": 13565,
-        "ime": "Laghetto di Somdogna",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1447,
-        "priljubljenost": 5,
-        "koordinate": "46,45933°N 13,44731°E"
-    },
-    {
         "id": 13299,
         "ime": "Risnati rob (Polevec)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1438,
         "priljubljenost": 16,
@@ -3323,25 +2386,14 @@
     {
         "id": 1137,
         "ime": "Planina Konjščica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1438,
         "priljubljenost": 93,
         "koordinate": "46,3488°N 13,89645°E"
     },
     {
-        "id": 13111,
-        "ime": "Rifugio Brunner",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1432,
-        "priljubljenost": 18,
-        "koordinate": "46,42357°N 13,53081°E"
-    },
-    {
         "id": 1340,
         "ime": "Bivak pod Špikom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1424,
         "priljubljenost": 86,
@@ -3350,25 +2402,14 @@
     {
         "id": 11899,
         "ime": "Planina Zadnji Vogel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1413,
         "priljubljenost": 78,
         "koordinate": "46,2502°N 13,8277°E"
     },
     {
-        "id": 11040,
-        "ime": "Planina Gorjuda",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1404,
-        "priljubljenost": 55,
-        "koordinate": "46,38629°N 13,43932°E"
-    },
-    {
         "id": 11618,
         "ime": "Planina nad Sočo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1400,
         "priljubljenost": 65,
@@ -3377,7 +2418,6 @@
     {
         "id": 11101,
         "ime": "Planina Osredki",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1400,
         "priljubljenost": 63,
@@ -3386,7 +2426,6 @@
     {
         "id": 1163,
         "ime": "Krnsko jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1391,
         "priljubljenost": 99,
@@ -3395,25 +2434,14 @@
     {
         "id": 13297,
         "ime": "Mali vrh (na Mežakli)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1389,
         "priljubljenost": 19,
         "koordinate": "46,4485°N 13,9511°E"
     },
     {
-        "id": 1656,
-        "ime": "Rifugio Grego",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1389,
-        "priljubljenost": 65,
-        "koordinate": "46,4575°N 13,4551°E"
-    },
-    {
         "id": 13446,
         "ime": "Planina Zapotok",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1385,
         "priljubljenost": 20,
@@ -3422,7 +2450,6 @@
     {
         "id": 1311,
         "ime": "Planina Suha",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1385,
         "priljubljenost": 79,
@@ -3431,7 +2458,6 @@
     {
         "id": 1162,
         "ime": "Dom pri Krnskih jezerih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1385,
         "priljubljenost": 94,
@@ -3440,25 +2466,14 @@
     {
         "id": 12440,
         "ime": "Tonkina koča na Vršiču",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1380,
         "priljubljenost": 35,
         "koordinate": "46,4389°N 13,7538°E"
     },
     {
-        "id": 11048,
-        "ime": "Rifugio Zacchi",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1380,
-        "priljubljenost": 76,
-        "koordinate": "46,45921°N 13,6843°E"
-    },
-    {
         "id": 11776,
         "ime": "Planica pod Krnom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1376,
         "priljubljenost": 58,
@@ -3467,25 +2482,14 @@
     {
         "id": 12324,
         "ime": "Lipenšči hrib",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1375,
         "priljubljenost": 58,
         "koordinate": "46,354°N 13,9572°E"
     },
     {
-        "id": 12375,
-        "ime": "Mali Karman / Monte Cuarnan",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1372,
-        "priljubljenost": 55,
-        "koordinate": "46,2787°N 13,1866°E"
-    },
-    {
         "id": 12633,
         "ime": "Javor (nad Tolminskimi Ravnami)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1363,
         "priljubljenost": 24,
@@ -3494,25 +2498,14 @@
     {
         "id": 11773,
         "ime": "Mrzli vrh nad planino Pretovč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1359,
         "priljubljenost": 82,
         "koordinate": "46,2188°N 13,69596°E"
     },
     {
-        "id": 11528,
-        "ime": "Planina Strehica",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1359,
-        "priljubljenost": 50,
-        "koordinate": "46,4876°N 13,4552°E"
-    },
-    {
         "id": 1749,
         "ime": "Mrzli vrh (na Matajurju)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1358,
         "priljubljenost": 85,
@@ -3521,7 +2514,6 @@
     {
         "id": 1345,
         "ime": "Črna gora",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1350,
         "priljubljenost": 80,
@@ -3530,7 +2522,6 @@
     {
         "id": 1158,
         "ime": "Orožnova koča na planini za Liscem",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1346,
         "priljubljenost": 93,
@@ -3539,7 +2530,6 @@
     {
         "id": 11097,
         "ime": "Bivak Za Akom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1340,
         "priljubljenost": 80,
@@ -3548,7 +2538,6 @@
     {
         "id": 1584,
         "ime": "Planina Za Črno goro",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1340,
         "priljubljenost": 70,
@@ -3557,7 +2546,6 @@
     {
         "id": 1416,
         "ime": "Planina Goričica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1336,
         "priljubljenost": 76,
@@ -3566,7 +2554,6 @@
     {
         "id": 12139,
         "ime": "Frčkova planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1335,
         "priljubljenost": 54,
@@ -3575,7 +2562,6 @@
     {
         "id": 12998,
         "ime": "Srednji vrh (na Matajurju)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1320,
         "priljubljenost": 18,
@@ -3584,7 +2570,6 @@
     {
         "id": 1436,
         "ime": "Planina za Šavnikom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1320,
         "priljubljenost": 70,
@@ -3593,7 +2578,6 @@
     {
         "id": 1684,
         "ime": "Koča na planini Razor",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1315,
         "priljubljenost": 96,
@@ -3602,7 +2586,6 @@
     {
         "id": 11330,
         "ime": "Kota 1313",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1313,
         "priljubljenost": 78,
@@ -3611,7 +2594,6 @@
     {
         "id": 1204,
         "ime": "Koča na Soriški planini",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1306,
         "priljubljenost": 92,
@@ -3620,7 +2602,6 @@
     {
         "id": 11601,
         "ime": "Planina Dobrenjščica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1304,
         "priljubljenost": 65,
@@ -3629,7 +2610,6 @@
     {
         "id": 11376,
         "ime": "Lovska koča Bala",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1300,
         "priljubljenost": 58,
@@ -3638,7 +2618,6 @@
     {
         "id": 12673,
         "ime": "Mangartska planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1295,
         "priljubljenost": 32,
@@ -3647,7 +2626,6 @@
     {
         "id": 1132,
         "ime": "Črno jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1294,
         "priljubljenost": 95,
@@ -3656,7 +2634,6 @@
     {
         "id": 1540,
         "ime": "Planina Zajavornik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1292,
         "priljubljenost": 86,
@@ -3665,7 +2642,6 @@
     {
         "id": 11996,
         "ime": "Planina Zajamniki",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1280,
         "priljubljenost": 97,
@@ -3674,7 +2650,6 @@
     {
         "id": 11486,
         "ime": "Vrh Bače",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1273,
         "priljubljenost": 78,
@@ -3683,7 +2658,6 @@
     {
         "id": 13197,
         "ime": "Rečiška planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1265,
         "priljubljenost": 16,
@@ -3692,7 +2666,6 @@
     {
         "id": 1832,
         "ime": "Galetovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1265,
         "priljubljenost": 91,
@@ -3701,7 +2674,6 @@
     {
         "id": 13196,
         "ime": "Berjanca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1264,
         "priljubljenost": 25,
@@ -3710,7 +2682,6 @@
     {
         "id": 12774,
         "ime": "Zgornji Goreljek (Pokljuka)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1260,
         "priljubljenost": 32,
@@ -3719,7 +2690,6 @@
     {
         "id": 1421,
         "ime": "Planina Krnica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1252,
         "priljubljenost": 79,
@@ -3728,7 +2698,6 @@
     {
         "id": 1748,
         "ime": "Idrska planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1250,
         "priljubljenost": 65,
@@ -3737,7 +2706,6 @@
     {
         "id": 1247,
         "ime": "Planina Zgornja Grintovica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1250,
         "priljubljenost": 76,
@@ -3746,7 +2714,6 @@
     {
         "id": 12785,
         "ime": "Turn (nad Bohinjsko Belo)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1249,
         "priljubljenost": 28,
@@ -3755,7 +2722,6 @@
     {
         "id": 13563,
         "ime": "Planina Berebica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1248,
         "priljubljenost": 8,
@@ -3764,7 +2730,6 @@
     {
         "id": 12984,
         "ime": "Planina Zagreben",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1240,
         "priljubljenost": 23,
@@ -3773,7 +2738,6 @@
     {
         "id": 12786,
         "ime": "Belska planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1237,
         "priljubljenost": 30,
@@ -3782,7 +2746,6 @@
     {
         "id": 13086,
         "ime": "Izvir Nadiže",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1232,
         "priljubljenost": 35,
@@ -3791,7 +2754,6 @@
     {
         "id": 13203,
         "ime": "Planina Zgornji Kozjek",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1230,
         "priljubljenost": 15,
@@ -3800,7 +2762,6 @@
     {
         "id": 1329,
         "ime": "Planina Leskovca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1230,
         "priljubljenost": 75,
@@ -3809,7 +2770,6 @@
     {
         "id": 1270,
         "ime": "Koča na Gozdu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1226,
         "priljubljenost": 87,
@@ -3818,7 +2778,6 @@
     {
         "id": 1764,
         "ime": "Bivak Hlek",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1225,
         "priljubljenost": 69,
@@ -3827,7 +2786,6 @@
     {
         "id": 12775,
         "ime": "Spodnji Goreljek (Pokljuka)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1222,
         "priljubljenost": 30,
@@ -3836,7 +2794,6 @@
     {
         "id": 11775,
         "ime": "Italijanska vojaška kapela na Planici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1220,
         "priljubljenost": 63,
@@ -3845,7 +2802,6 @@
     {
         "id": 1746,
         "ime": "Svinska planina",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1214,
         "priljubljenost": 68,
@@ -3854,7 +2810,6 @@
     {
         "id": 13198,
         "ime": "Grajska planina (Ribšca)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1210,
         "priljubljenost": 20,
@@ -3863,7 +2818,6 @@
     {
         "id": 11256,
         "ime": "Škrbina (Mežakla)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1210,
         "priljubljenost": 73,
@@ -3872,7 +2826,6 @@
     {
         "id": 1683,
         "ime": "Planina Zaprikraj",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1208,
         "priljubljenost": 78,
@@ -3881,7 +2834,6 @@
     {
         "id": 13195,
         "ime": "Lovska koča Mali Vokel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1193,
         "priljubljenost": 12,
@@ -3890,7 +2842,6 @@
     {
         "id": 11484,
         "ime": "Lovčev bivak Pri Koucah",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1192,
         "priljubljenost": 57,
@@ -3899,7 +2850,6 @@
     {
         "id": 12491,
         "ime": "Police",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1184,
         "priljubljenost": 25,
@@ -3908,7 +2858,6 @@
     {
         "id": 11375,
         "ime": "Planina Bala",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1181,
         "priljubljenost": 61,
@@ -3917,7 +2866,6 @@
     {
         "id": 1246,
         "ime": "Planina Spodnja Grintovica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1175,
         "priljubljenost": 75,
@@ -3926,7 +2874,6 @@
     {
         "id": 12787,
         "ime": "Planina Ilovec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1170,
         "priljubljenost": 17,
@@ -3935,7 +2882,6 @@
     {
         "id": 11772,
         "ime": "Planina Pretovč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1160,
         "priljubljenost": 62,
@@ -3944,7 +2890,6 @@
     {
         "id": 1758,
         "ime": "Bivak na Črniku",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1160,
         "priljubljenost": 62,
@@ -3953,7 +2898,6 @@
     {
         "id": 1342,
         "ime": "Koča na Uskovnici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1154,
         "priljubljenost": 96,
@@ -3962,7 +2906,6 @@
     {
         "id": 1220,
         "ime": "Zgornji Martuljkov slap",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1150,
         "priljubljenost": 81,
@@ -3971,7 +2914,6 @@
     {
         "id": 11547,
         "ime": "Planina Blato",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1147,
         "priljubljenost": 93,
@@ -3980,7 +2922,6 @@
     {
         "id": 13193,
         "ime": "Gozdarska koča Mali Vokel",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1145,
         "priljubljenost": 14,
@@ -3989,7 +2930,6 @@
     {
         "id": 13558,
         "ime": "Zapotoški slapovi",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1140,
         "priljubljenost": 13,
@@ -3998,7 +2938,6 @@
     {
         "id": 11593,
         "ime": "Planina Medrja",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1133,
         "priljubljenost": 57,
@@ -4007,7 +2946,6 @@
     {
         "id": 11930,
         "ime": "Snežna jama na Mežakli",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1130,
         "priljubljenost": 69,
@@ -4016,7 +2954,6 @@
     {
         "id": 1271,
         "ime": "Ruska kapelica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1130,
         "priljubljenost": 73,
@@ -4025,7 +2962,6 @@
     {
         "id": 12659,
         "ime": "Bedančev dom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1116,
         "priljubljenost": 36,
@@ -4034,7 +2970,6 @@
     {
         "id": 1206,
         "ime": "Koča v Krnici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1113,
         "priljubljenost": 95,
@@ -4043,7 +2978,6 @@
     {
         "id": 1286,
         "ime": "Dom v Tamarju",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1108,
         "priljubljenost": 96,
@@ -4052,7 +2986,6 @@
     {
         "id": 12763,
         "ime": "Hotunjski vrh",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1107,
         "priljubljenost": 34,
@@ -4061,7 +2994,6 @@
     {
         "id": 11243,
         "ime": "Planina Lom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1090,
         "priljubljenost": 64,
@@ -4070,7 +3002,6 @@
     {
         "id": 1269,
         "ime": "Mihov dom na Vršiču",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1085,
         "priljubljenost": 81,
@@ -4079,25 +3010,14 @@
     {
         "id": 11242,
         "ime": "Kobala",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1080,
         "priljubljenost": 60,
         "koordinate": "46,18139°N 13,77967°E"
     },
     {
-        "id": 13101,
-        "ime": "Malga Cuarnan",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1070,
-        "priljubljenost": 13,
-        "koordinate": "46,2842°N 13,1788°E"
-    },
-    {
         "id": 12948,
         "ime": "Planina v Prodih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1070,
         "priljubljenost": 25,
@@ -4106,7 +3026,6 @@
     {
         "id": 1184,
         "ime": "Kosijev dom na Vogarju",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1054,
         "priljubljenost": 92,
@@ -4115,7 +3034,6 @@
     {
         "id": 13333,
         "ime": "Slapovi v Kotu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1050,
         "priljubljenost": 23,
@@ -4124,7 +3042,6 @@
     {
         "id": 11260,
         "ime": "Partizanska bolnišnica na Mežakli",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1050,
         "priljubljenost": 53,
@@ -4133,7 +3050,6 @@
     {
         "id": 11174,
         "ime": "Koča na planini Stador",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1050,
         "priljubljenost": 69,
@@ -4142,7 +3058,6 @@
     {
         "id": 11482,
         "ime": "Kup",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1046,
         "priljubljenost": 63,
@@ -4151,7 +3066,6 @@
     {
         "id": 11254,
         "ime": "Planina Obranica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1035,
         "priljubljenost": 63,
@@ -4160,7 +3074,6 @@
     {
         "id": 13151,
         "ime": "Planinsko zavetišče Slatna",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1023,
         "priljubljenost": 21,
@@ -4169,7 +3082,6 @@
     {
         "id": 12606,
         "ime": "Vodnikov razglednik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1017,
         "priljubljenost": 35,
@@ -4178,25 +3090,14 @@
     {
         "id": 1242,
         "ime": "Aljažev dom v Vratih",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1015,
         "priljubljenost": 94,
         "koordinate": "46,40904°N 13,84339°E"
     },
     {
-        "id": 13024,
-        "ime": "Jezerska planina / Alpe del Lago",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 1006,
-        "priljubljenost": 21,
-        "koordinate": "46,4671°N 13,6614°E"
-    },
-    {
         "id": 1833,
         "ime": "Planina za Jamo",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1005,
         "priljubljenost": 59,
@@ -4205,7 +3106,6 @@
     {
         "id": 12562,
         "ime": "Studor",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1002,
         "priljubljenost": 35,
@@ -4214,7 +3114,6 @@
     {
         "id": 1724,
         "ime": "Koča na planini Kuhinja",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1002,
         "priljubljenost": 71,
@@ -4223,7 +3122,6 @@
     {
         "id": 12154,
         "ime": "Klatnica ",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1000,
         "priljubljenost": 57,
@@ -4232,7 +3130,6 @@
     {
         "id": 11592,
         "ime": "Planina Laška seč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 1000,
         "priljubljenost": 60,
@@ -4241,7 +3138,6 @@
     {
         "id": 1425,
         "ime": "Izvir Soče",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 990,
         "priljubljenost": 89,
@@ -4250,7 +3146,6 @@
     {
         "id": 11393,
         "ime": "Sveta Marjeta pod Stolom",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 973,
         "priljubljenost": 62,
@@ -4259,7 +3154,6 @@
     {
         "id": 12996,
         "ime": "Ožarjeni kamen",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 960,
         "priljubljenost": 31,
@@ -4268,7 +3162,6 @@
     {
         "id": 12492,
         "ime": "Planina Ravne",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 956,
         "priljubljenost": 26,
@@ -4277,7 +3170,6 @@
     {
         "id": 1222,
         "ime": "Slap Suha",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 950,
         "priljubljenost": 67,
@@ -4286,7 +3178,6 @@
     {
         "id": 11517,
         "ime": "Rudnica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 946,
         "priljubljenost": 86,
@@ -4295,7 +3186,6 @@
     {
         "id": 12469,
         "ime": "Boršt",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 931,
         "priljubljenost": 31,
@@ -4304,7 +3194,6 @@
     {
         "id": 11762,
         "ime": "Slap Zaročenca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 930,
         "priljubljenost": 69,
@@ -4313,34 +3202,14 @@
     {
         "id": 1219,
         "ime": "Ingotova koča na planini Jesenje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 930,
         "priljubljenost": 82,
         "koordinate": "46,4698°N 13,83131°E"
     },
     {
-        "id": 1430,
-        "ime": "Zgornje Mangartsko jezero",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 929,
-        "priljubljenost": 76,
-        "koordinate": "46,47529°N 13,66811°E"
-    },
-    {
-        "id": 12516,
-        "ime": "Spodnje Mangartsko jezero",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 924,
-        "priljubljenost": 31,
-        "koordinate": "46,4821°N 13,6733°E"
-    },
-    {
         "id": 11787,
         "ime": "Planina Rčitno",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 900,
         "priljubljenost": 64,
@@ -4349,7 +3218,6 @@
     {
         "id": 12452,
         "ime": "Kres nad Kočno",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 890,
         "priljubljenost": 27,
@@ -4358,7 +3226,6 @@
     {
         "id": 12932,
         "ime": "Planina Blatce",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 888,
         "priljubljenost": 25,
@@ -4367,7 +3234,6 @@
     {
         "id": 11786,
         "ime": "Kovinarska koča v Krmi",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 870,
         "priljubljenost": 76,
@@ -4376,7 +3242,6 @@
     {
         "id": 12468,
         "ime": "Vrše",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 850,
         "priljubljenost": 29,
@@ -4385,7 +3250,6 @@
     {
         "id": 11049,
         "ime": "Izvir Boke",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 850,
         "priljubljenost": 64,
@@ -4394,7 +3258,6 @@
     {
         "id": 1473,
         "ime": "Slap Peričnik - zgornji slap",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 850,
         "priljubljenost": 78,
@@ -4403,7 +3266,6 @@
     {
         "id": 1218,
         "ime": "Spodnji Martuljkov slap",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 850,
         "priljubljenost": 70,
@@ -4412,7 +3274,6 @@
     {
         "id": 1228,
         "ime": "Zelenci",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 845,
         "priljubljenost": 90,
@@ -4421,7 +3282,6 @@
     {
         "id": 11811,
         "ime": "Grančišče",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 844,
         "priljubljenost": 67,
@@ -4430,7 +3290,6 @@
     {
         "id": 1231,
         "ime": "Logje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 840,
         "priljubljenost": 71,
@@ -4439,7 +3298,6 @@
     {
         "id": 12463,
         "ime": "Hom pri Bledu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 834,
         "priljubljenost": 34,
@@ -4448,7 +3306,6 @@
     {
         "id": 12830,
         "ime": "Jezero Jasna",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 830,
         "priljubljenost": 35,
@@ -4457,7 +3314,6 @@
     {
         "id": 11270,
         "ime": "Pokljuška soteska (luknja)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 830,
         "priljubljenost": 69,
@@ -4466,25 +3322,14 @@
     {
         "id": 11255,
         "ime": "Poljanska baba",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 830,
         "priljubljenost": 58,
         "koordinate": "46,4176°N 14,0779°E"
     },
     {
-        "id": 12153,
-        "ime": "Brezje / Montemaggiore",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 819,
-        "priljubljenost": 48,
-        "koordinate": "46,2681°N 13,37°E"
-    },
-    {
         "id": 13001,
         "ime": "Sv. Peter in Pavel (Perati)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 812,
         "priljubljenost": 15,
@@ -4493,7 +3338,6 @@
     {
         "id": 11332,
         "ime": "Humčič",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 810,
         "priljubljenost": 59,
@@ -4502,7 +3346,6 @@
     {
         "id": 12457,
         "ime": "Žerjavec (Kavče)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 805,
         "priljubljenost": 26,
@@ -4511,7 +3354,6 @@
     {
         "id": 11475,
         "ime": "Koča na Petrovem Brdu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 804,
         "priljubljenost": 76,
@@ -4520,7 +3362,6 @@
     {
         "id": 11591,
         "ime": "Planina Črča",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 800,
         "priljubljenost": 55,
@@ -4529,7 +3370,6 @@
     {
         "id": 1474,
         "ime": "Slap Peričnik - spodnji slap",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 800,
         "priljubljenost": 77,
@@ -4538,7 +3378,6 @@
     {
         "id": 1532,
         "ime": "Slap Savica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 794,
         "priljubljenost": 81,
@@ -4547,7 +3386,6 @@
     {
         "id": 1229,
         "ime": "Počitniški dom v Možnici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 793,
         "priljubljenost": 71,
@@ -4556,7 +3394,6 @@
     {
         "id": 13425,
         "ime": "Kamin Široka polica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 780,
         "priljubljenost": 21,
@@ -4565,25 +3402,14 @@
     {
         "id": 12931,
         "ime": "Slap Mostnice",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 773,
         "priljubljenost": 35,
         "koordinate": "46,3305°N 13,8755°E"
     },
     {
-        "id": 12269,
-        "ime": "Rio Bianco / Beli potok",
-        "drzava": "Italija",
-        "gorovje": "Julijske Alpe",
-        "visina": 770,
-        "priljubljenost": 50,
-        "koordinate": "46,2777°N 13,3829°E"
-    },
-    {
         "id": 1424,
         "ime": "Korita Mlinarice",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 770,
         "priljubljenost": 82,
@@ -4592,7 +3418,6 @@
     {
         "id": 11928,
         "ime": "Sveti Lenart (Bača pri Podbrdu)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 751,
         "priljubljenost": 53,
@@ -4601,7 +3426,6 @@
     {
         "id": 11939,
         "ime": "Koča pri Peričniku",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 750,
         "priljubljenost": 66,
@@ -4610,7 +3434,6 @@
     {
         "id": 1406,
         "ime": "Slap Slatenik",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 750,
         "priljubljenost": 65,
@@ -4619,7 +3442,6 @@
     {
         "id": 12930,
         "ime": "Okrepčevalnica Slap Voje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 745,
         "priljubljenost": 32,
@@ -4628,7 +3450,6 @@
     {
         "id": 12439,
         "ime": "Gogalova lipa",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 725,
         "priljubljenost": 27,
@@ -4637,7 +3458,6 @@
     {
         "id": 1230,
         "ime": "Mladinski izobraževalni center v Bavšici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 725,
         "priljubljenost": 58,
@@ -4646,7 +3466,6 @@
     {
         "id": 12576,
         "ime": "Jamnikov spodmol",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 720,
         "priljubljenost": 22,
@@ -4655,7 +3474,6 @@
     {
         "id": 1407,
         "ime": "Belopotoški slap",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 720,
         "priljubljenost": 77,
@@ -4664,7 +3482,6 @@
     {
         "id": 12436,
         "ime": "Jezero Kreda",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 715,
         "priljubljenost": 35,
@@ -4673,7 +3490,6 @@
     {
         "id": 1405,
         "ime": "Dolina Škratov",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 700,
         "priljubljenost": 73,
@@ -4682,7 +3498,6 @@
     {
         "id": 1233,
         "ime": "Slap Parabola",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 700,
         "priljubljenost": 80,
@@ -4691,7 +3506,6 @@
     {
         "id": 1412,
         "ime": "Izvir Tolminke",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 695,
         "priljubljenost": 81,
@@ -4700,7 +3514,6 @@
     {
         "id": 11249,
         "ime": "Mala Osojnica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 691,
         "priljubljenost": 90,
@@ -4709,7 +3522,6 @@
     {
         "id": 1580,
         "ime": "Koča na Vojah",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 690,
         "priljubljenost": 81,
@@ -4718,7 +3530,6 @@
     {
         "id": 1393,
         "ime": "Gorejca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 680,
         "priljubljenost": 71,
@@ -4727,7 +3538,6 @@
     {
         "id": 1392,
         "ime": "Slap Boka",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 680,
         "priljubljenost": 91,
@@ -4736,7 +3546,6 @@
     {
         "id": 13104,
         "ime": "Jezero Kreda v dolini Radovne",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 674,
         "priljubljenost": 22,
@@ -4745,7 +3554,6 @@
     {
         "id": 12157,
         "ime": "Izvir Bele",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 665,
         "priljubljenost": 58,
@@ -4754,7 +3562,6 @@
     {
         "id": 13102,
         "ime": "Izvir Lipnika",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 660,
         "priljubljenost": 18,
@@ -4763,7 +3570,6 @@
     {
         "id": 12453,
         "ime": "Spominsko obeležje Aleš Kunaver",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 660,
         "priljubljenost": 29,
@@ -4772,7 +3578,6 @@
     {
         "id": 13103,
         "ime": "Jezerce v dolini Radovne",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 657,
         "priljubljenost": 20,
@@ -4781,7 +3586,6 @@
     {
         "id": 12773,
         "ime": "Koča pri Savici",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 653,
         "priljubljenost": 35,
@@ -4790,7 +3594,6 @@
     {
         "id": 12637,
         "ime": "Peč (razgledišče)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 650,
         "priljubljenost": 35,
@@ -4799,7 +3602,6 @@
     {
         "id": 11250,
         "ime": "Straža ",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 646,
         "priljubljenost": 73,
@@ -4808,7 +3610,6 @@
     {
         "id": 11406,
         "ime": "Marija Snežna v Breginjskem kotu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 645,
         "priljubljenost": 52,
@@ -4817,7 +3618,6 @@
     {
         "id": 12443,
         "ime": "Sveta Katarina na Homu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 634,
         "priljubljenost": 33,
@@ -4826,7 +3626,6 @@
     {
         "id": 11253,
         "ime": "Poglejska cerkev",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 630,
         "priljubljenost": 61,
@@ -4835,7 +3634,6 @@
     {
         "id": 11783,
         "ime": "Dobra gora",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 620,
         "priljubljenost": 67,
@@ -4844,7 +3642,6 @@
     {
         "id": 11584,
         "ime": "Izvir Bistrice",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 610,
         "priljubljenost": 67,
@@ -4853,7 +3650,6 @@
     {
         "id": 12490,
         "ime": "Blejski grad",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 599,
         "priljubljenost": 35,
@@ -4862,7 +3658,6 @@
     {
         "id": 11589,
         "ime": "Ribenska gora",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 588,
         "priljubljenost": 53,
@@ -4871,7 +3666,6 @@
     {
         "id": 12615,
         "ime": "Ajdovski gradec",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 580,
         "priljubljenost": 33,
@@ -4880,7 +3674,6 @@
     {
         "id": 1428,
         "ime": "Korita Možnice (Nemčlje)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 580,
         "priljubljenost": 70,
@@ -4889,7 +3682,6 @@
     {
         "id": 1411,
         "ime": "Javorca",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 571,
         "priljubljenost": 88,
@@ -4898,7 +3690,6 @@
     {
         "id": 11331,
         "ime": "Jama Srnica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 550,
         "priljubljenost": 62,
@@ -4907,7 +3698,6 @@
     {
         "id": 1831,
         "ime": "Iglica",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 550,
         "priljubljenost": 62,
@@ -4916,7 +3706,6 @@
     {
         "id": 12772,
         "ime": "Sveti Janez Krstnik (Ribčev Laz)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 532,
         "priljubljenost": 30,
@@ -4925,7 +3714,6 @@
     {
         "id": 12442,
         "ime": "Slap Šum v Blejskem Vintgarju",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 520,
         "priljubljenost": 34,
@@ -4934,7 +3722,6 @@
     {
         "id": 13199,
         "ime": "Mlina peč",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 506,
         "priljubljenost": 14,
@@ -4943,7 +3730,6 @@
     {
         "id": 1413,
         "ime": "Žičnica čez Tolminko",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 500,
         "priljubljenost": 62,
@@ -4952,7 +3738,6 @@
     {
         "id": 1396,
         "ime": "Tonovcov grad pri Kobaridu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 500,
         "priljubljenost": 80,
@@ -4961,7 +3746,6 @@
     {
         "id": 12325,
         "ime": "Gradišče (Bodešče)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 499,
         "priljubljenost": 58,
@@ -4970,7 +3754,6 @@
     {
         "id": 12326,
         "ime": "Sveti Lenart (Bodešče)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 485,
         "priljubljenost": 54,
@@ -4979,7 +3762,6 @@
     {
         "id": 1427,
         "ime": "Velika korita Soče",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 480,
         "priljubljenost": 80,
@@ -4988,7 +3770,6 @@
     {
         "id": 13353,
         "ime": "Blejsko jezero",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 475,
         "priljubljenost": 27,
@@ -4997,7 +3778,6 @@
     {
         "id": 11126,
         "ime": "Slap Beri",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 454,
         "priljubljenost": 59,
@@ -5006,7 +3786,6 @@
     {
         "id": 1234,
         "ime": "Izvir Glijuna",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 450,
         "priljubljenost": 67,
@@ -5015,7 +3794,6 @@
     {
         "id": 11337,
         "ime": "Mala Boka",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 440,
         "priljubljenost": 57,
@@ -5024,7 +3802,6 @@
     {
         "id": 11757,
         "ime": "Kozlov rob",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 426,
         "priljubljenost": 77,
@@ -5033,7 +3810,6 @@
     {
         "id": 1690,
         "ime": "Slap Sopota (Soupat)",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 400,
         "priljubljenost": 73,
@@ -5042,7 +3818,6 @@
     {
         "id": 1232,
         "ime": "Slap Virje",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 400,
         "priljubljenost": 81,
@@ -5051,7 +3826,6 @@
     {
         "id": 12975,
         "ime": "Gregorčičev slap",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 390,
         "priljubljenost": 34,
@@ -5060,7 +3834,6 @@
     {
         "id": 1235,
         "ime": "Korita Soče pri Kršovcu",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 390,
         "priljubljenost": 70,
@@ -5069,7 +3842,6 @@
     {
         "id": 1403,
         "ime": "Veliki slap Kozjak",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 250,
         "priljubljenost": 84,
@@ -5078,7 +3850,6 @@
     {
         "id": 1404,
         "ime": "Mali slap Kozjak",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 230,
         "priljubljenost": 67,
@@ -5087,7 +3858,6 @@
     {
         "id": 11341,
         "ime": "Tolminska korita",
-        "drzava": "Slovenija",
         "gorovje": "Julijske Alpe",
         "visina": 180,
         "priljubljenost": 83,

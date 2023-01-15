@@ -8,27 +8,11 @@
         "vrsta": "bivak"
     },
     {
-        "id": 1629,
-        "vrsta": "vrh"
-    },
-    {
         "id": 12,
         "vrsta": "vrh"
     },
     {
         "id": 13,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 14,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11041,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11344,
         "vrsta": "vrh"
     },
     {
@@ -53,14 +37,6 @@
     },
     {
         "id": 110,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113,
         "vrsta": "vrh"
     },
     {
@@ -104,14 +80,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11342,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11342,
-        "vrsta": "bivak"
-    },
-    {
         "id": 123,
         "vrsta": "vrh"
     },
@@ -124,10 +92,6 @@
         "vrsta": "cerkev"
     },
     {
-        "id": 11282,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11382,
         "vrsta": "vrh"
     },
@@ -137,10 +101,6 @@
     },
     {
         "id": 12248,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 135,
         "vrsta": "vrh"
     },
     {
@@ -176,24 +136,12 @@
         "vrsta": "vrh"
     },
     {
-        "id": 13597,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11540,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11373,
         "vrsta": "vrh"
     },
     {
         "id": 11543,
         "vrsta": "vrh"
-    },
-    {
-        "id": 11339,
-        "vrsta": "bivak"
     },
     {
         "id": 1402,
@@ -208,15 +156,7 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11053,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11052,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11629,
         "vrsta": "vrh"
     },
     {
@@ -225,10 +165,6 @@
     },
     {
         "id": 1321,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 12800,
         "vrsta": "vrh"
     },
     {
@@ -264,10 +200,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11562,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11327,
         "vrsta": "vrh"
     },
@@ -300,10 +232,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11634,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11328,
         "vrsta": "vrh"
     },
@@ -324,15 +252,7 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11621,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11383,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1668,
         "vrsta": "vrh"
     },
     {
@@ -356,15 +276,7 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11038,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1385,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11529,
         "vrsta": "vrh"
     },
     {
@@ -396,24 +308,8 @@
         "vrsta": "vrh"
     },
     {
-        "id": 190,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11622,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1328,
         "vrsta": "koča"
-    },
-    {
-        "id": 12820,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 12820,
-        "vrsta": "bivak"
     },
     {
         "id": 11057,
@@ -425,18 +321,6 @@
     },
     {
         "id": 1397,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11051,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11039,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11050,
         "vrsta": "vrh"
     },
     {
@@ -504,19 +388,7 @@
         "vrsta": "sedlo"
     },
     {
-        "id": 12895,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 12895,
-        "vrsta": "sedlo"
-    },
-    {
         "id": 12725,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11374,
         "vrsta": "vrh"
     },
     {
@@ -533,10 +405,6 @@
     },
     {
         "id": 1256,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1420,
         "vrsta": "vrh"
     },
     {
@@ -580,10 +448,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 1657,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1323,
         "vrsta": "vrh"
     },
@@ -616,10 +480,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 1662,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1175,
         "vrsta": "vrh"
     },
@@ -642,10 +502,6 @@
     {
         "id": 1210,
         "vrsta": "bivak"
-    },
-    {
-        "id": 13289,
-        "vrsta": "vrh"
     },
     {
         "id": 12680,
@@ -680,20 +536,8 @@
         "vrsta": "vrh"
     },
     {
-        "id": 1659,
-        "vrsta": "vrh"
-    },
-    {
         "id": 12988,
         "vrsta": "vrh"
-    },
-    {
-        "id": 11037,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11037,
-        "vrsta": "sedlo"
     },
     {
         "id": 1259,
@@ -780,10 +624,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11553,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1216,
         "vrsta": "bivak"
     },
@@ -805,10 +645,6 @@
     },
     {
         "id": 1448,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 13580,
         "vrsta": "vrh"
     },
     {
@@ -856,10 +692,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11043,
-        "vrsta": "bivak"
-    },
-    {
         "id": 11106,
         "vrsta": "vrh"
     },
@@ -896,10 +728,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11046,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1588,
         "vrsta": "vrh"
     },
@@ -912,28 +740,12 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11278,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1240,
         "vrsta": "vrh"
     },
     {
         "id": 1240,
         "vrsta": "planina"
-    },
-    {
-        "id": 11554,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11554,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 1658,
-        "vrsta": "bivak"
     },
     {
         "id": 193,
@@ -976,14 +788,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 13566,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 13566,
-        "vrsta": "bivak"
-    },
-    {
         "id": 12123,
         "vrsta": "vrh"
     },
@@ -1012,10 +816,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11042,
-        "vrsta": "koča"
-    },
-    {
         "id": 12102,
         "vrsta": "vrh"
     },
@@ -1028,23 +828,7 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11880,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11902,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11056,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11036,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11280,
         "vrsta": "vrh"
     },
     {
@@ -1100,10 +884,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11368,
-        "vrsta": "vrh"
-    },
-    {
         "id": 11682,
         "vrsta": "vrh"
     },
@@ -1134,18 +914,6 @@
     {
         "id": 1415,
         "vrsta": "vrh"
-    },
-    {
-        "id": 1655,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1655,
-        "vrsta": "koča"
-    },
-    {
-        "id": 1655,
-        "vrsta": "cerkev"
     },
     {
         "id": 11096,
@@ -1181,10 +949,6 @@
     },
     {
         "id": 1426,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1601,
         "vrsta": "vrh"
     },
     {
@@ -1248,32 +1012,12 @@
         "vrsta": "vrh"
     },
     {
-        "id": 1429,
-        "vrsta": "koča"
-    },
-    {
-        "id": 1429,
-        "vrsta": "bivak"
-    },
-    {
         "id": 1157,
         "vrsta": "planina"
     },
     {
-        "id": 11047,
-        "vrsta": "bivak"
-    },
-    {
         "id": 13520,
         "vrsta": "vrh"
-    },
-    {
-        "id": 12797,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 12797,
-        "vrsta": "jezero"
     },
     {
         "id": 1419,
@@ -1286,14 +1030,6 @@
     {
         "id": 1292,
         "vrsta": "planina"
-    },
-    {
-        "id": 1747,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1747,
-        "vrsta": "cerkev"
     },
     {
         "id": 11394,
@@ -1324,10 +1060,6 @@
         "vrsta": "koča"
     },
     {
-        "id": 11395,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1825,
         "vrsta": "vrh"
     },
@@ -1348,10 +1080,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11498,
-        "vrsta": "vrh"
-    },
-    {
         "id": 1394,
         "vrsta": "vrh"
     },
@@ -1368,10 +1096,6 @@
         "vrsta": "sedlo"
     },
     {
-        "id": 11338,
-        "vrsta": "bivak"
-    },
-    {
         "id": 13568,
         "vrsta": "vrh"
     },
@@ -1382,10 +1106,6 @@
     {
         "id": 12632,
         "vrsta": "vrh"
-    },
-    {
-        "id": 1822,
-        "vrsta": "planina"
     },
     {
         "id": 11267,
@@ -1444,19 +1164,11 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11537,
-        "vrsta": "koča"
-    },
-    {
         "id": 11815,
         "vrsta": "vrh"
     },
     {
         "id": 1732,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 12999,
         "vrsta": "vrh"
     },
     {
@@ -1466,10 +1178,6 @@
     {
         "id": 1587,
         "vrsta": "koča"
-    },
-    {
-        "id": 11283,
-        "vrsta": "planina"
     },
     {
         "id": 1417,
@@ -1484,24 +1192,8 @@
         "vrsta": "koča"
     },
     {
-        "id": 11281,
-        "vrsta": "bivak"
-    },
-    {
         "id": 1102,
         "vrsta": "koča"
-    },
-    {
-        "id": 11527,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11527,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11527,
-        "vrsta": "cerkev"
     },
     {
         "id": 1731,
@@ -1518,14 +1210,6 @@
     {
         "id": 11059,
         "vrsta": "planina"
-    },
-    {
-        "id": 13575,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11530,
-        "vrsta": "koča"
     },
     {
         "id": 11814,
@@ -1545,10 +1229,6 @@
     },
     {
         "id": 12152,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 13025,
         "vrsta": "vrh"
     },
     {
@@ -1612,10 +1292,6 @@
         "vrsta": "sedlo"
     },
     {
-        "id": 13565,
-        "vrsta": "jezero"
-    },
-    {
         "id": 13299,
         "vrsta": "vrh"
     },
@@ -1628,10 +1304,6 @@
         "vrsta": "planina"
     },
     {
-        "id": 13111,
-        "vrsta": "koča"
-    },
-    {
         "id": 1340,
         "vrsta": "koča"
     },
@@ -1641,14 +1313,6 @@
     },
     {
         "id": 11899,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11040,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11040,
         "vrsta": "planina"
     },
     {
@@ -1676,14 +1340,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 1656,
-        "vrsta": "koča"
-    },
-    {
-        "id": 1656,
-        "vrsta": "bivak"
-    },
-    {
         "id": 13446,
         "vrsta": "planina"
     },
@@ -1704,10 +1360,6 @@
         "vrsta": "koča"
     },
     {
-        "id": 11048,
-        "vrsta": "koča"
-    },
-    {
         "id": 11776,
         "vrsta": "vrh"
     },
@@ -1722,10 +1374,6 @@
     {
         "id": 11773,
         "vrsta": "vrh"
-    },
-    {
-        "id": 11528,
-        "vrsta": "planina"
     },
     {
         "id": 1749,
@@ -2028,10 +1676,6 @@
         "vrsta": "vrh"
     },
     {
-        "id": 13101,
-        "vrsta": "koča"
-    },
-    {
         "id": 12948,
         "vrsta": "planina"
     },
@@ -2086,10 +1730,6 @@
     {
         "id": 1242,
         "vrsta": "cerkev"
-    },
-    {
-        "id": 13024,
-        "vrsta": "planina"
     },
     {
         "id": 1833,
@@ -2158,22 +1798,6 @@
     {
         "id": 1219,
         "vrsta": "cerkev"
-    },
-    {
-        "id": 1430,
-        "vrsta": "koča"
-    },
-    {
-        "id": 1430,
-        "vrsta": "jezero"
-    },
-    {
-        "id": 12516,
-        "vrsta": "koča"
-    },
-    {
-        "id": 12516,
-        "vrsta": "jezero"
     },
     {
         "id": 11787,
@@ -2277,10 +1901,6 @@
     },
     {
         "id": 12931,
-        "vrsta": "slap"
-    },
-    {
-        "id": 12269,
         "vrsta": "slap"
     },
     {
@@ -2484,39 +2104,51 @@
         "vrsta": "slap"
     },
     {
-        "id": 1154,
+        "id": 111309,
         "vrsta": "vrh"
     },
     {
-        "id": 1179,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11310,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11310,
+        "id": 111309,
         "vrsta": "koča"
     },
     {
-        "id": 1198,
+        "id": 11152,
         "vrsta": "vrh"
     },
     {
-        "id": 11561,
+        "id": 111431,
         "vrsta": "vrh"
     },
     {
-        "id": 11332,
+        "id": 111673,
         "vrsta": "vrh"
     },
     {
-        "id": 11666,
+        "id": 1112580,
         "vrsta": "vrh"
     },
     {
-        "id": 111276,
+        "id": 1112815,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111911,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111551,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111369,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111494,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111368,
         "vrsta": "vrh"
     },
     {
@@ -2524,2927 +2156,2359 @@
         "vrsta": "vrh"
     },
     {
-        "id": 11377,
+        "id": 111377,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 111377,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112994,
         "vrsta": "vrh"
     },
     {
-        "id": 113433,
+        "id": 111301,
         "vrsta": "vrh"
     },
     {
-        "id": 11345,
+        "id": 111672,
         "vrsta": "vrh"
     },
     {
-        "id": 1175,
+        "id": 111149,
         "vrsta": "vrh"
     },
     {
-        "id": 11479,
+        "id": 11192,
         "vrsta": "vrh"
+    },
+    {
+        "id": 111201,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111201,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111592,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111592,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111592,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 111585,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111585,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 111442,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111443,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111439,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112509,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1112509,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 111459,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113342,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111670,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1111258,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111195,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111195,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 111195,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111276,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111276,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112438,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111511,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111927,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111259,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111926,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112854,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111361,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111361,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 111346,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111196,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111196,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111297,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111245,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111245,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 11171,
+        "vrsta": "koča"
+    },
+    {
+        "id": 11171,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111257,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 111509,
+        "vrsta": "planina"
+    },
+    {
+        "id": 11191,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111359,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111359,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112853,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111554,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111354,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111805,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111223,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111223,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111223,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1111659,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111505,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112099,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113271,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111347,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111251,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1112097,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113252,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112734,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112098,
+        "vrsta": "planina"
     },
     {
         "id": 111278,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111275,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1153,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11297,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11467,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11480,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11316,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11364,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111779,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11582,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11693,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111124,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112383,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11481,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11240,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11432,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1173,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11344,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111068,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11587,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11201,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11367,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11674,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112581,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11721,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112816,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1189,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 112980,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11276,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11294,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 111912,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111552,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11722,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11368,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11253,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11370,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111729,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111495,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11369,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111586,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11301,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11473,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11278,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111782,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11543,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111009,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11361,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11681,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111263,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11363,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11378,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11378,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111659,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112995,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112972,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11302,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11366,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11673,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111919,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112835,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11150,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1193,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111062,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 11202,
         "vrsta": "koča"
     },
     {
-        "id": 11202,
+        "id": 111278,
         "vrsta": "planina"
     },
     {
-        "id": 11593,
+        "id": 1111650,
         "vrsta": "vrh"
     },
     {
-        "id": 11593,
+        "id": 1112784,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111298,
         "vrsta": "koča"
     },
     {
-        "id": 11593,
+        "id": 111298,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111460,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113174,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111557,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111402,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1111402,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111322,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111322,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 1113264,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111252,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111231,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112699,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113254,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113222,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112621,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111294,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111294,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112700,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113251,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111202,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111236,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111525,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112307,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111263,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111742,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112793,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111152,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111152,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112130,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111007,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112464,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111614,
         "vrsta": "cerkev"
     },
     {
-        "id": 11586,
+        "id": 1112893,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111552,
         "vrsta": "planina"
     },
     {
-        "id": 11586,
-        "vrsta": "sedlo"
+        "id": 1113051,
+        "vrsta": "vrh"
     },
     {
-        "id": 111808,
+        "id": 1112697,
         "vrsta": "koča"
     },
     {
-        "id": 111808,
+        "id": 1112698,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1112563,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1113265,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111381,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111504,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112918,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112903,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112433,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112897,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111382,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111194,
+        "vrsta": "koča"
+    },
+    {
+        "id": 111194,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112921,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113221,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111232,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1112922,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112920,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111303,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1111265,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111150,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1111150,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111264,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113272,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111179,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111810,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1111810,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 111741,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112437,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1111247,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111828,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113273,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111620,
+        "vrsta": "planina"
+    },
+    {
+        "id": 111827,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1112783,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111415,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112368,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 1112368,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1111141,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1112896,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1113130,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113130,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1113605,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 111498,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112779,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 1112719,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1112816,
+        "vrsta": "planina"
+    },
+    {
+        "id": 1112472,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111883,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112892,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111395,
         "vrsta": "jezero"
     },
     {
-        "id": 111808,
-        "vrsta": "planina"
+        "id": 1111448,
+        "vrsta": "vrh"
     },
     {
-        "id": 111808,
+        "id": 1111502,
+        "vrsta": "koča"
+    },
+    {
+        "id": 1111502,
         "vrsta": "cerkev"
     },
     {
-        "id": 11443,
+        "id": 1112878,
         "vrsta": "vrh"
     },
     {
-        "id": 112815,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11444,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111440,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112510,
+        "id": 1111177,
         "vrsta": "koča"
     },
     {
-        "id": 112510,
+        "id": 1111747,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111978,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113351,
         "vrsta": "cerkev"
     },
     {
-        "id": 111918,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11460,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11284,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113343,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11671,
+        "id": 111740,
         "vrsta": "koča"
     },
     {
-        "id": 111781,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11583,
+        "id": 1111938,
         "vrsta": "koča"
     },
     {
-        "id": 11583,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113024,
+        "id": 1111746,
         "vrsta": "vrh"
     },
     {
-        "id": 111259,
+        "id": 1112881,
         "vrsta": "vrh"
     },
     {
-        "id": 11196,
+        "id": 1112535,
+        "vrsta": "slap"
+    },
+    {
+        "id": 1112778,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112767,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111837,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113552,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111654,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111118,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112093,
+        "vrsta": "slap"
+    },
+    {
+        "id": 1113259,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112644,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111407,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111653,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113256,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111655,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111655,
         "vrsta": "koča"
     },
     {
-        "id": 11196,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 11196,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11315,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11277,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11277,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112439,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111414,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111512,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11527,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111928,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111658,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 111658,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111658,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 112127,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111260,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111927,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111780,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112855,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11761,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11362,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11362,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 11347,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11197,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11197,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11298,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111246,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111246,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 11760,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112783,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111274,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11584,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111810,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111810,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111810,
+        "id": 1111655,
         "vrsta": "cerkev"
     },
     {
-        "id": 1172,
-        "vrsta": "koča"
-    },
-    {
-        "id": 1172,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111258,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 11563,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11563,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112734,
+        "id": 1111656,
         "vrsta": "vrh"
     },
     {
-        "id": 112822,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112708,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11349,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11510,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112703,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 1192,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112128,
+        "id": 1111656,
         "vrsta": "cerkev"
     },
     {
-        "id": 11360,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11360,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112973,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112854,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112176,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111783,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11303,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11555,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11355,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11806,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112745,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112135,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11224,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11224,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11224,
+        "id": 1113255,
         "vrsta": "cerkev"
     },
     {
-        "id": 111660,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11506,
+        "id": 1111749,
         "vrsta": "vrh"
     },
     {
-        "id": 113205,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113161,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112100,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113272,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11348,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113141,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11252,
+        "id": 111591,
         "vrsta": "koča"
     },
     {
-        "id": 112098,
-        "vrsta": "planina"
+        "id": 1111251,
+        "vrsta": "slap"
     },
     {
-        "id": 113253,
+        "id": 1111387,
         "vrsta": "vrh"
     },
     {
-        "id": 112735,
+        "id": 1111748,
         "vrsta": "vrh"
     },
     {
-        "id": 112099,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11279,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11279,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11508,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11508,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11508,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 111651,
+        "id": 1112919,
         "vrsta": "vrh"
     },
     {
-        "id": 112785,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112716,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11299,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11299,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11461,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113175,
+        "id": 1113348,
         "vrsta": "vrh"
     },
     {
-        "id": 11558,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111403,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111403,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11323,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11323,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 113265,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111253,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113162,
+        "id": 1111248,
         "vrsta": "vrh"
     },
     {
-        "id": 112820,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111232,
+        "id": 1112880,
         "vrsta": "vrh"
     },
     {
-        "id": 112979,
+        "id": 1113216,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111676,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112459,
+        "vrsta": "slap"
+    },
+    {
+        "id": 1112478,
+        "vrsta": "slap"
+    },
+    {
+        "id": 111884,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1111910,
         "vrsta": "cerkev"
     },
     {
-        "id": 112700,
+        "id": 1112802,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113345,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112484,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112619,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112609,
         "vrsta": "planina"
     },
     {
-        "id": 113255,
-        "vrsta": "vrh"
+        "id": 1112517,
+        "vrsta": "slap"
     },
     {
-        "id": 113223,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112574,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 112574,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 112622,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11295,
+        "id": 111761,
         "vrsta": "koča"
     },
     {
-        "id": 11295,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112701,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113252,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11203,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11237,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111728,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111728,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 11526,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112175,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112308,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111264,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112125,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112125,
+        "id": 111761,
         "vrsta": "cerkev"
     },
     {
-        "id": 11562,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11743,
+        "id": 1111921,
         "vrsta": "vrh"
     },
     {
-        "id": 112794,
-        "vrsta": "planina"
+        "id": 1112454,
+        "vrsta": "slap"
     },
     {
-        "id": 11153,
+        "id": 1111145,
         "vrsta": "koča"
     },
     {
-        "id": 11153,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112131,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111008,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111273,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111273,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 112465,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11615,
+        "id": 1112768,
         "vrsta": "cerkev"
     },
     {
-        "id": 111521,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112894,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111553,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113052,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112698,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112699,
+        "id": 1112376,
         "vrsta": "cerkev"
     },
     {
-        "id": 112564,
-        "vrsta": "planina"
-    },
-    {
-        "id": 113266,
+        "id": 1113567,
         "vrsta": "vrh"
     },
     {
-        "id": 11382,
-        "vrsta": "planina"
-    },
-    {
-        "id": 11505,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112919,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112904,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112434,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112898,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11383,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11195,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11195,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112922,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113222,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111233,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112923,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112921,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11304,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111266,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111151,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111151,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111265,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113273,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111180,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111811,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111811,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 11742,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112438,
-        "vrsta": "planina"
-    },
-    {
-        "id": 111248,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111829,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113274,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111621,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112975,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11828,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112974,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112974,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112784,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111416,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112369,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 112369,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 111142,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112897,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113131,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113131,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113606,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 11499,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112780,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 112720,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 112817,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112473,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112042,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11884,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112893,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11396,
+        "id": 1113105,
         "vrsta": "jezero"
     },
     {
-        "id": 111449,
+        "id": 1113553,
         "vrsta": "vrh"
     },
     {
-        "id": 111503,
+        "id": 111838,
         "vrsta": "koča"
     },
     {
-        "id": 111503,
+        "id": 1113067,
         "vrsta": "cerkev"
     },
     {
-        "id": 112879,
+        "id": 1111745,
         "vrsta": "vrh"
     },
     {
-        "id": 112935,
-        "vrsta": "cerkev"
+        "id": 1112322,
+        "vrsta": "vrh"
     },
     {
-        "id": 111178,
+        "id": 1111922,
+        "vrsta": "slap"
+    },
+    {
+        "id": 1112407,
         "vrsta": "koča"
     },
     {
-        "id": 111748,
+        "id": 1112291,
         "vrsta": "vrh"
     },
     {
-        "id": 111979,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113352,
+        "id": 1112364,
         "vrsta": "cerkev"
     },
     {
-        "id": 11741,
+        "id": 1113154,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113154,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1113068,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113068,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 111885,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 111847,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1113610,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1112197,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1113606,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1112321,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1113202,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113202,
         "vrsta": "koča"
     },
     {
-        "id": 111939,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111747,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112043,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112882,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112536,
-        "vrsta": "slap"
-    },
-    {
-        "id": 112779,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112768,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11838,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113553,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111655,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112823,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111119,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112094,
-        "vrsta": "slap"
-    },
-    {
-        "id": 113260,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112645,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111408,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113057,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113057,
+        "id": 1113202,
         "vrsta": "cerkev"
     },
     {
-        "id": 11301,
+        "id": 1112906,
         "vrsta": "vrh"
     },
     {
-        "id": 111654,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113257,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111656,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111656,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111656,
+        "id": 1112906,
         "vrsta": "cerkev"
     },
     {
-        "id": 111657,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111657,
+        "id": 1113069,
         "vrsta": "cerkev"
     },
     {
-        "id": 113256,
+        "id": 1113551,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 1113551,
         "vrsta": "cerkev"
     },
     {
-        "id": 111750,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 11592,
-        "vrsta": "koča"
-    },
-    {
-        "id": 111252,
-        "vrsta": "slap"
-    },
-    {
-        "id": 111388,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111749,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112920,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113349,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111249,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112881,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113217,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111677,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112460,
-        "vrsta": "slap"
-    },
-    {
-        "id": 112479,
-        "vrsta": "slap"
-    },
-    {
-        "id": 11885,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 111911,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 112803,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 113346,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112485,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112620,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112610,
-        "vrsta": "planina"
-    },
-    {
-        "id": 112518,
-        "vrsta": "slap"
-    },
-    {
-        "id": 11762,
-        "vrsta": "koča"
-    },
-    {
-        "id": 11762,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 111922,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112455,
-        "vrsta": "slap"
-    },
-    {
-        "id": 111146,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112769,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 112377,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113568,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 112819,
-        "vrsta": "slap"
-    },
-    {
-        "id": 113106,
+        "id": 1112356,
         "vrsta": "jezero"
     },
     {
-        "id": 113554,
+        "id": 1112354,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 1112350,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 2316,
         "vrsta": "vrh"
     },
     {
-        "id": 11839,
-        "vrsta": "koča"
-    },
-    {
-        "id": 113068,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 111746,
+        "id": 2325,
         "vrsta": "vrh"
     },
     {
-        "id": 112323,
+        "id": 2328,
         "vrsta": "vrh"
     },
     {
-        "id": 111923,
-        "vrsta": "slap"
-    },
-    {
-        "id": 112408,
-        "vrsta": "koča"
-    },
-    {
-        "id": 112292,
+        "id": 2331,
         "vrsta": "vrh"
     },
     {
-        "id": 112365,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113155,
+        "id": 232559,
         "vrsta": "vrh"
     },
     {
-        "id": 113155,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113069,
+        "id": 2342,
         "vrsta": "vrh"
     },
     {
-        "id": 113069,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 11886,
+        "id": 2349,
         "vrsta": "vrh"
     },
     {
-        "id": 11848,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113611,
+        "id": 2350,
         "vrsta": "vrh"
     },
     {
-        "id": 112198,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113607,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 112322,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113203,
+        "id": 23387,
         "vrsta": "vrh"
     },
     {
-        "id": 113203,
-        "vrsta": "koča"
-    },
-    {
-        "id": 113203,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 112907,
+        "id": 2380,
         "vrsta": "vrh"
     },
     {
-        "id": 112907,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113070,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 113552,
+        "id": 23388,
         "vrsta": "vrh"
     },
     {
-        "id": 113552,
-        "vrsta": "cerkev"
+        "id": 23146,
+        "vrsta": "vrh"
     },
     {
-        "id": 112357,
+        "id": 231532,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231323,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 2396,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23391,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23318,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 2385,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231587,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23697,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23438,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231525,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23390,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 231035,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23389,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 23148,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23103,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231268,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23696,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23358,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231392,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23316,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23319,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23305,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231578,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23618,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 23447,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 2373,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 2373,
         "vrsta": "jezero"
     },
     {
-        "id": 112355,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 112351,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 318,
+        "id": 23304,
         "vrsta": "vrh"
     },
     {
-        "id": 327,
+        "id": 231579,
         "vrsta": "vrh"
     },
     {
-        "id": 330,
+        "id": 23380,
         "vrsta": "vrh"
     },
     {
-        "id": 333,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32561,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 344,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 351,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 352,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3389,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 382,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3390,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3148,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31534,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31325,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 398,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3393,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3320,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3435,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 387,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31589,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3668,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3699,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31291,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3440,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3338,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31527,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3392,
+        "id": 231064,
         "vrsta": "bivak"
     },
     {
-        "id": 31037,
+        "id": 231269,
         "vrsta": "vrh"
     },
     {
-        "id": 3391,
+        "id": 232711,
         "vrsta": "bivak"
     },
     {
-        "id": 3150,
+        "id": 23695,
         "vrsta": "vrh"
     },
     {
-        "id": 3105,
+        "id": 231535,
         "vrsta": "vrh"
     },
     {
-        "id": 31270,
-        "vrsta": "vrh"
+        "id": 2395,
+        "vrsta": "koča"
     },
     {
-        "id": 3698,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3360,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31394,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3318,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3321,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3307,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31580,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3620,
+        "id": 2395,
         "vrsta": "bivak"
     },
     {
-        "id": 3449,
+        "id": 2395,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 231068,
         "vrsta": "vrh"
     },
     {
-        "id": 375,
+        "id": 23320,
         "vrsta": "vrh"
     },
     {
-        "id": 375,
+        "id": 23244,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23288,
         "vrsta": "jezero"
     },
     {
-        "id": 3306,
+        "id": 23288,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231531,
         "vrsta": "vrh"
     },
     {
-        "id": 31581,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3382,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31650,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31066,
+        "id": 23708,
         "vrsta": "bivak"
     },
     {
-        "id": 31271,
+        "id": 23708,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23154,
         "vrsta": "vrh"
     },
     {
-        "id": 32713,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 3697,
+        "id": 23499,
         "vrsta": "vrh"
     },
     {
-        "id": 31537,
+        "id": 23356,
         "vrsta": "vrh"
     },
     {
-        "id": 397,
+        "id": 231817,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23199,
         "vrsta": "koča"
     },
     {
-        "id": 397,
+        "id": 23199,
         "vrsta": "bivak"
     },
     {
-        "id": 397,
+        "id": 23199,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23289,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23284,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 2398,
+        "vrsta": "koča"
+    },
+    {
+        "id": 2398,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 2398,
         "vrsta": "sedlo"
     },
     {
-        "id": 31070,
+        "id": 23324,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23324,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23324,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 23324,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23338,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23338,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23490,
         "vrsta": "vrh"
     },
     {
-        "id": 3322,
+        "id": 23274,
         "vrsta": "vrh"
     },
     {
-        "id": 3246,
+        "id": 23295,
         "vrsta": "vrh"
     },
     {
-        "id": 3290,
+        "id": 232582,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23125,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23225,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23225,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 23379,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23446,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23487,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23487,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23179,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23179,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23317,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23169,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23169,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232735,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23408,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23372,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23488,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23930,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23129,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23281,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23486,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23947,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23947,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232512,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232512,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23245,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231499,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23124,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23976,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231288,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23485,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23597,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231345,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231488,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231488,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23458,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23306,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23168,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23168,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23168,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23906,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23489,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23489,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 23489,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23183,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23183,
+        "vrsta": "bivak"
+    },
+    {
+        "id": 232385,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231071,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23409,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23409,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23409,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23170,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23170,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23134,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231235,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23598,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23598,
         "vrsta": "jezero"
     },
     {
-        "id": 3290,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31533,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3710,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 3710,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3156,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3501,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3358,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31819,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3201,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3201,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 3201,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3291,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3286,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 400,
-        "vrsta": "koča"
-    },
-    {
-        "id": 400,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 400,
+        "id": 23598,
         "vrsta": "sedlo"
     },
     {
-        "id": 3366,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3326,
+        "id": 23470,
         "vrsta": "koča"
     },
     {
-        "id": 3326,
+        "id": 23470,
         "vrsta": "planina"
     },
     {
-        "id": 3326,
+        "id": 231070,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231070,
         "vrsta": "sedlo"
     },
     {
-        "id": 3326,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3340,
+        "id": 231069,
         "vrsta": "planina"
     },
     {
-        "id": 3340,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3492,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3276,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3297,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32584,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3127,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3227,
+        "id": 23237,
         "vrsta": "koča"
     },
     {
-        "id": 3227,
+        "id": 23237,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23445,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23371,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232118,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231236,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231452,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231063,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231063,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232201,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232201,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231233,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23130,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23121,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232287,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23615,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23615,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231723,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23193,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23193,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23193,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23467,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23131,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23131,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23249,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23267,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232581,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23248,
         "vrsta": "bivak"
     },
     {
-        "id": 3381,
+        "id": 23248,
         "vrsta": "planina"
     },
     {
-        "id": 3448,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3489,
+        "id": 23482,
         "vrsta": "vrh"
     },
     {
-        "id": 3489,
-        "vrsta": "cerkev"
+        "id": 23349,
+        "vrsta": "vrh"
     },
     {
-        "id": 3181,
+        "id": 232755,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232639,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23594,
         "vrsta": "koča"
     },
     {
-        "id": 3181,
+        "id": 23594,
         "vrsta": "planina"
     },
     {
-        "id": 3319,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3171,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3171,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32737,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3410,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3374,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3490,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3932,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3131,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3283,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3488,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3949,
+        "id": 23207,
         "vrsta": "koča"
     },
     {
-        "id": 3949,
+        "id": 23207,
         "vrsta": "planina"
     },
     {
-        "id": 32514,
+        "id": 23207,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 231724,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23167,
         "vrsta": "koča"
     },
     {
-        "id": 32514,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3247,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31501,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3126,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3978,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31290,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3487,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3599,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31347,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31490,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31490,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3460,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3308,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3170,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3170,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3170,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3908,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3491,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3491,
+        "id": 23167,
         "vrsta": "bivak"
     },
     {
-        "id": 3491,
+        "id": 23167,
         "vrsta": "planina"
     },
     {
-        "id": 3185,
+        "id": 23528,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23484,
         "vrsta": "koča"
     },
     {
-        "id": 3185,
+        "id": 23593,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231501,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231501,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 23370,
+        "vrsta": "slap"
+    },
+    {
+        "id": 232597,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232636,
+        "vrsta": "planina"
+    },
+    {
+        "id": 233132,
+        "vrsta": "koča"
+    },
+    {
+        "id": 233132,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231142,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23208,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23208,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231500,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232635,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232660,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23250,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231261,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23185,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23185,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232634,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23350,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23350,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 23497,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231725,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23189,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23189,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23351,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23351,
         "vrsta": "bivak"
     },
     {
-        "id": 32387,
+        "id": 231244,
         "vrsta": "vrh"
     },
     {
-        "id": 31073,
+        "id": 231726,
         "vrsta": "vrh"
     },
     {
-        "id": 3411,
-        "vrsta": "koča"
+        "id": 232598,
+        "vrsta": "vrh"
     },
     {
-        "id": 3411,
+        "id": 232384,
         "vrsta": "planina"
     },
     {
-        "id": 3411,
+        "id": 23619,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23619,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232736,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232303,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231865,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231237,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231915,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231915,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 232947,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 233159,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23190,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231149,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23166,
+        "vrsta": "slap"
+    },
+    {
+        "id": 23166,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231284,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232510,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231642,
+        "vrsta": "planina"
+    },
+    {
+        "id": 23352,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231995,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232638,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232638,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232638,
         "vrsta": "cerkev"
     },
     {
-        "id": 3172,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3172,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3136,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31237,
+        "id": 231132,
         "vrsta": "vrh"
     },
     {
-        "id": 3600,
+        "id": 231864,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231641,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231641,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 232631,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232631,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23539,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232628,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 233089,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231403,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231679,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23238,
         "vrsta": "koča"
     },
     {
-        "id": 3600,
+        "id": 23238,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 231131,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 231680,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 231450,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232071,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23496,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23444,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232987,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232629,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231974,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23579,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23120,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23120,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23616,
+        "vrsta": "planina"
+    },
+    {
+        "id": 232754,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23617,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232358,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23818,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23818,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23357,
+        "vrsta": "slap"
+    },
+    {
+        "id": 231148,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232625,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231973,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231973,
+        "vrsta": "sedlo"
+    },
+    {
+        "id": 231973,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23578,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231970,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 233443,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 233449,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 233152,
+        "vrsta": "planina"
+    },
+    {
+        "id": 231147,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23268,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23544,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23544,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23895,
+        "vrsta": "slap"
+    },
+    {
+        "id": 231914,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231914,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23716,
+        "vrsta": "slap"
+    },
+    {
+        "id": 231230,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231230,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 231972,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231451,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232458,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23850,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23850,
+        "vrsta": "koča"
+    },
+    {
+        "id": 23850,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 231073,
+        "vrsta": "slap"
+    },
+    {
+        "id": 233258,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 231449,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231449,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232795,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231133,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232630,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 233349,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 23931,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23931,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232493,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232493,
+        "vrsta": "koča"
+    },
+    {
+        "id": 232493,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232926,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232361,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232411,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 232414,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 231438,
+        "vrsta": "koča"
+    },
+    {
+        "id": 231438,
         "vrsta": "jezero"
     },
     {
-        "id": 3600,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 3472,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3472,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31072,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31072,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 31071,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3239,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3239,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3447,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3373,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32120,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31238,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31454,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3479,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3479,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 31065,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31065,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32203,
-        "vrsta": "koča"
-    },
-    {
-        "id": 32203,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31235,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3132,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3123,
-        "vrsta": "koča"
-    },
-    {
-        "id": 32289,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3617,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3617,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31725,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3195,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3195,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3195,
+        "id": 231438,
         "vrsta": "cerkev"
     },
     {
-        "id": 3469,
-        "vrsta": "planina"
+        "id": 232894,
+        "vrsta": "vrh"
     },
     {
-        "id": 3133,
+        "id": 233512,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23495,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23886,
+        "vrsta": "vrh"
+    },
+    {
+        "id": 23886,
         "vrsta": "koča"
     },
     {
-        "id": 3133,
-        "vrsta": "planina"
+        "id": 23886,
+        "vrsta": "cerkev"
     },
     {
-        "id": 3251,
+        "id": 233070,
         "vrsta": "vrh"
     },
     {
-        "id": 3269,
+        "id": 233511,
         "vrsta": "vrh"
     },
     {
-        "id": 32583,
-        "vrsta": "vrh"
+        "id": 233510,
+        "vrsta": "cerkev"
     },
     {
-        "id": 3250,
+        "id": 233112,
         "vrsta": "bivak"
     },
     {
-        "id": 3250,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3484,
+        "id": 233362,
         "vrsta": "vrh"
     },
     {
-        "id": 3351,
+        "id": 233234,
         "vrsta": "vrh"
     },
     {
-        "id": 32757,
+        "id": 232762,
+        "vrsta": "cerkev"
+    },
+    {
+        "id": 232163,
         "vrsta": "vrh"
     },
     {
-        "id": 32641,
-        "vrsta": "planina"
+        "id": 232163,
+        "vrsta": "cerkev"
     },
     {
-        "id": 3596,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3596,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3209,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3209,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3209,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 31726,
+        "id": 233060,
         "vrsta": "vrh"
     },
     {
-        "id": 3169,
-        "vrsta": "koča"
+        "id": 233060,
+        "vrsta": "cerkev"
     },
     {
-        "id": 3169,
-        "vrsta": "bivak"
+        "id": 232874,
+        "vrsta": "vrh"
     },
     {
-        "id": 3169,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3530,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3486,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3595,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31503,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31503,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 3372,
+        "id": 232760,
         "vrsta": "slap"
     },
     {
-        "id": 32599,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32638,
-        "vrsta": "planina"
-    },
-    {
-        "id": 33134,
-        "vrsta": "koča"
-    },
-    {
-        "id": 33134,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31144,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3210,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3210,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31502,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32637,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32662,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3252,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31263,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3187,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3187,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32636,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3352,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3352,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 3499,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31727,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3191,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3191,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3353,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3353,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 31246,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31728,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32600,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32386,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3621,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3621,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32738,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32305,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31867,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31239,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31917,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31917,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 32949,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33161,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3192,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31151,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3168,
-        "vrsta": "slap"
-    },
-    {
-        "id": 3168,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31286,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32512,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31644,
-        "vrsta": "planina"
-    },
-    {
-        "id": 3354,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31997,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32640,
-        "vrsta": "koča"
-    },
-    {
-        "id": 32640,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32640,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31134,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31866,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31643,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31643,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 32633,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32633,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3541,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32630,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33091,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31405,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31681,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3240,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3240,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31133,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31682,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31452,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32073,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3498,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3446,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32989,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32631,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31976,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3581,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3122,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3122,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3618,
-        "vrsta": "planina"
-    },
-    {
-        "id": 32756,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3619,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32360,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3820,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3820,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3359,
-        "vrsta": "slap"
-    },
-    {
-        "id": 31150,
-        "vrsta": "koča"
-    },
-    {
-        "id": 32627,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31975,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31975,
-        "vrsta": "sedlo"
-    },
-    {
-        "id": 31975,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3580,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31972,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33445,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 33451,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 33154,
-        "vrsta": "planina"
-    },
-    {
-        "id": 31149,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3270,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3546,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3546,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3897,
-        "vrsta": "slap"
-    },
-    {
-        "id": 31916,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31916,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3718,
-        "vrsta": "slap"
-    },
-    {
-        "id": 31232,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31232,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31974,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31453,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32460,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3852,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3852,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3852,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31075,
-        "vrsta": "slap"
-    },
-    {
-        "id": 33260,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 31451,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31451,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32797,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31135,
-        "vrsta": "koča"
-    },
-    {
-        "id": 32632,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 33351,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 3933,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3933,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32495,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32495,
-        "vrsta": "koča"
-    },
-    {
-        "id": 32495,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32928,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32363,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32413,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32416,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 31440,
-        "vrsta": "koča"
-    },
-    {
-        "id": 31440,
+        "id": 232760,
         "vrsta": "jezero"
     },
     {
-        "id": 31440,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32896,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33514,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3497,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3888,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 3888,
-        "vrsta": "koča"
-    },
-    {
-        "id": 3888,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 33072,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33513,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33512,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 33114,
-        "vrsta": "bivak"
-    },
-    {
-        "id": 33364,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33236,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32764,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32165,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32165,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 33062,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 33062,
-        "vrsta": "cerkev"
-    },
-    {
-        "id": 32876,
-        "vrsta": "vrh"
-    },
-    {
-        "id": 32762,
-        "vrsta": "slap"
-    },
-    {
-        "id": 32762,
+        "id": 232328,
         "vrsta": "jezero"
     },
     {
-        "id": 32330,
-        "vrsta": "jezero"
-    },
-    {
-        "id": 33115,
+        "id": 233113,
         "vrsta": "koča"
     },
     {
-        "id": 31680,
+        "id": 231678,
         "vrsta": "vrh"
     },
     {
-        "id": 32453,
+        "id": 232451,
         "vrsta": "koča"
     }
 ]
